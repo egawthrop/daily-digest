@@ -5,14 +5,14 @@ on:
   schedule:
     # GitHub cron is ALWAYS in UTC. Pick the UTC time that equals 6 AM where you are.
     #   6 AM US Eastern (EST, winter) -> 11:00 UTC  -> "0 11 * * *"
-    6 AM US Eastern (EDT, summer) -> 10:00 UTC  -> "0 10 * * *"
+    #   6 AM US Eastern (EDT, summer) -> 10:00 UTC  -> "0 10 * * *"
     #   6 AM US Pacific (PST)         -> 14:00 UTC  -> "0 14 * * *"
     #   6 AM UK (GMT)                 -> 06:00 UTC  -> "0 6  * * *"
     #   6 AM Central Europe (CET)     -> 05:00 UTC  -> "0 5  * * *"
     # GitHub does not observe daylight saving, so the local hour shifts by one
     # when your region changes clocks. Adjust the line below twice a year if that
     # matters to you. Default below is 11:00 UTC.
-    - cron: "0 11 * * *"
+    - cron: "0 10 * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
