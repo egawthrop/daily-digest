@@ -38,7 +38,7 @@ jobs:
           DIGEST_TZ: America/New_York   # timezone used for the on-page date/time
           # Your GitHub Pages URL, no trailing slash. Used inside the RSS feed so
           # it can reference itself. Format: https://<username>.github.io/<repo>
-          SITE_URL: https://YOUR-USERNAME.github.io/YOUR-REPO
+          SITE_URL: https://egawthrop.github.io/daily-digest
         run: python digest.py
 
       - name: Commit updated digest
