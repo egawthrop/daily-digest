@@ -10,3 +10,4 @@ The Verge     | https://www.theverge.com/rss/index.xml
 NPR           | https://feeds.npr.org/1001/rss.xml
 Ars Technica  | https://feeds.arstechnica.com/arstechnica/index
 Al Jazeera    | https://www.aljazeera.com/xml/rss/all.xml
+Mirror Indy   | https://mirrorindy.org/feed/
