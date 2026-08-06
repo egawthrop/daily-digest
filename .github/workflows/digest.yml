@@ -1,0 +1,54 @@
+name: Daily Digest
+
+# Runs every morning and commits the refreshed digest back to the repo.
+on:
+  schedule:
+    # GitHub cron is ALWAYS in UTC. Pick the UTC time that equals 6 AM where you are.
+    #   6 AM US Eastern (EST, winter) -> 11:00 UTC  -> "0 11 * * *"
+    #   6 AM US Eastern (EDT, summer) -> 10:00 UTC  -> "0 10 * * *"
+    #   6 AM US Pacific (PST)         -> 14:00 UTC  -> "0 14 * * *"
+    #   6 AM UK (GMT)                 -> 06:00 UTC  -> "0 6  * * *"
+    #   6 AM Central Europe (CET)     -> 05:00 UTC  -> "0 5  * * *"
+    # GitHub does not observe daylight saving, so the local hour shifts by one
+    # when your region changes clocks. Adjust the line below twice a year if that
+    # matters to you. Default below is 11:00 UTC.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write         # needed to commit the generated files
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build digest
+        env:
+          DIGEST_TZ: America/New_York   # timezone used for the on-page date/time
+          # Your GitHub Pages URL, no trailing slash. Used inside the RSS feed so
+          # it can reference itself. Format: https://<username>.github.io/<repo>
+          SITE_URL: https://YOUR-USERNAME.github.io/YOUR-REPO
+        run: python digest.py
+
+      - name: Commit updated digest
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html feed.xml latest.md archive/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily digest: $(date -u +%Y-%m-%d)"
+            git push
+          fi
