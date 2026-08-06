@@ -37,6 +37,6 @@ class DailyDigest(BasicNewsRecipe):
     remove_javascript = True
 
     # ---- EDIT THIS to your own feed URL ----
-    FEED_URL = "https://YOUR-USERNAME.github.io/YOUR-REPO/feed.xml"
+    FEED_URL = "https://egawthrop.github.io/daily-digest/feed.xml"
 
     feeds = [("Daily Digest", FEED_URL)]
