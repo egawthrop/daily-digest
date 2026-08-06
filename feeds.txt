@@ -1,0 +1,12 @@
+# The Daily Digest — your sources.
+# Format:  Name | RSS feed URL
+# Blank lines and lines starting with # are ignored.
+# Add, remove, or reorder freely — the digest follows this order.
+
+NYT           | https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+BBC News      | https://feeds.bbci.co.uk/news/rss.xml
+The Guardian  | https://www.theguardian.com/international/rss
+The Verge     | https://www.theverge.com/rss/index.xml
+NPR           | https://feeds.npr.org/1001/rss.xml
+Ars Technica  | https://feeds.arstechnica.com/arstechnica/index
+Al Jazeera    | https://www.aljazeera.com/xml/rss/all.xml

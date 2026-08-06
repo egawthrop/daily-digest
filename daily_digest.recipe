@@ -1,0 +1,42 @@
+#!/usr/bin/env python
+"""Calibre recipe for The Daily Digest.
+
+This turns your digest's RSS feed into a clean EPUB you can read on a Kobo.
+
+HOW TO USE
+  1. Install Calibre (free): https://calibre-ebook.com
+  2. Edit the FEED_URL below to your own GitHub Pages feed:
+       https://<your-username>.github.io/<your-repo>/feed.xml
+  3. In Calibre: Fetch news -> Add a custom news source -> Load recipe from file,
+     and pick this file. (Or: Fetch news -> Add custom source -> Switch to
+     Advanced mode -> paste this in.)
+  4. Click Fetch news. Calibre builds an EPUB and adds it to your library.
+  5. Plug in your Kobo (or use Calibre's wireless device connection) and send it.
+
+  To get it automatically each morning, use Calibre's "Schedule" option on the
+  custom news source. Calibre must be running at the scheduled time.
+"""
+
+from calibre.web.feeds.news import BasicNewsRecipe
+
+
+class DailyDigest(BasicNewsRecipe):
+    title = "The Daily Digest"
+    description = "One top story from each of my chosen publications."
+    __author__ = "Daily Digest"
+    language = "en"
+
+    # How many days back to include, and a generous per-feed cap.
+    oldest_article = 2
+    max_articles_per_feed = 50
+
+    # Fetch and clean the full article text (not just the feed summary) so the
+    # EPUB is pleasant to read on e-ink. Set to False to keep just the summaries.
+    auto_cleanup = True
+    no_stylesheets = True
+    remove_javascript = True
+
+    # ---- EDIT THIS to your own feed URL ----
+    FEED_URL = "https://YOUR-USERNAME.github.io/YOUR-REPO/feed.xml"
+
+    feeds = [("Daily Digest", FEED_URL)]
