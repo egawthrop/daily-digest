@@ -1,34 +1,34 @@
 # The Daily Digest
 
-_Friday, August 7, 2026 — generated 12:25 AM EDT_
+_Friday, August 7, 2026 — generated 6:43 AM EDT_
 
 ## NYT
-### [Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html)
-The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
-<sub>Aug 6, 9:03 PM</sub>
+### [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
+A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
+<sub>Aug 7, 5:03 AM</sub>
 
 ## NPR
-### [Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship](https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb)
-Additional details weren't provided, but Trump said he thought his latest actions would be constitutional.
-<sub>Aug 6, 6:06 PM</sub>
+### [Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'](https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials)
+Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.
+<sub>Aug 7, 6:00 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Meta fined $567m in largest child safety ruling against social media giant](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
-A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.
-<sub>Aug 6, 8:54 PM</sub>
+### [I was standing in front of my teacher when she was shot, Thai pupil says](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
+The student says she had to climb over a school fence to flee the shooting which killed five teachers.
+<sub>Aug 7, 6:18 AM</sub>
 
 ## The Guardian
-### [After decades of decline, New Zealand’s wool industry is making a comeback](https://www.theguardian.com/world/2026/aug/07/new-zealand-nz-wool-price-industry-comeback)
-Forty years ago there were more than 22 sheep to every New Zealander, but wool prices and production declined with the uptake of synthetic alternatives John Hargreaves’ family has farmed sheep and beef in Kaiwaka, north…
-<sub>Aug 6, 9:15 PM</sub>
+### [Feast Q&A: ask Guardian food writer Felicity Cloake anything](https://www.theguardian.com/community/live/2026/aug/07/feast-qa-ask-guardian-food-writer-felicity-cloake-anything)
+Felicity Cloake is the writer of the Guardian’s How to cook the perfect … and Masterclass cookery columns. If you’ve eaten it … she’s cooked it. Discuss her work or ask her a question below the line now. She’ll be online…
+<sub>Aug 7, 4:22 AM</sub>
 
 ## Al Jazeera
-### [Anti-Muslim US Congressman Andy Ogles loses congressional primary](https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss)
-Trump's endorsement fails to save Tennessee legislator who recently said 'Muslims don't belong in American society'.
-<sub>Aug 7, 12:04 AM</sub>
+### [Central Europe sees record temperatures as heatwave continues](https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss)
+Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
+<sub>Aug 7, 6:11 AM</sub>
 
 ## Ars Technica
 ### [Organ donation group accused of trying to take living man's organs faces shutdown](https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/)
@@ -46,19 +46,19 @@ Its WeatherNext model, which will be open-sourced, can accurately predict a stor
 <sub>Aug 6, 12:23 PM</sub>
 
 ## WIRED Business
-### [One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)
-Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.
-<sub>Aug 6, 9:16 PM</sub>
+### [The Hottest New AI Chatbot Is Just a Guy Answering Your Questions](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/)
+WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.
+<sub>Aug 7, 6:00 AM</sub>
 
 ## The New Yorker
-### [Max Miller’s Victim Mentality](https://www.newyorker.com/news/the-lede/max-millers-victim-mentality)
-The Republican congressman’s bitter domestic dispute—in which he’s accused of physical abuse by his ex-wife, the daughter of an Ohio senator—is testing his party’s willingness to defend the indefensible.
-<sub>Aug 5, 6:24 PM</sub>
+### [Are Psychedelics Right-Wing Now?](https://www.newyorker.com/news/the-lede/are-psychedelics-right-wing-now)
+How the conservative activist Bryan Hubbard, with help from Rick Perry and Joe Rogan, persuaded Trump and the G.O.P. to embrace ibogaine, a psychedelic drug derived from an African shrub.
+<sub>Aug 7, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Do You Want Andy Sachs’ Stained Dress From The Devil Wears Prada 2?](http://www.thecut.com/article/andy-sachs-stained-dress-dwp2-auction.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The Gabriela Hearst dress and other costumes from the movie will be up for auction in the fall.
-<sub>Aug 6, 8:13 PM</sub>
+### [Your Daily Horoscope by Madame Clairevoyant: August 7, 2026](http://www.thecut.com/article/your-daily-horoscope-by-madame-clairevoyant-august-7-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Keep an open mind today as the moon enters Gemini.
+<sub>Aug 7, 5:00 AM</sub>
 
 ## New York Mag Curbed
 ### [The Cloudy-Water Drama at 220 Central Park South](http://www.curbed.com/article/220-central-park-south-tainted-water-lawsuit.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
@@ -66,11 +66,11 @@ A lawsuit at the luxury tower is revealing that the problem might be coming from
 <sub>Aug 5, 3:09 PM</sub>
 
 ## Fox59
-### [18-year-old critical after being shot by Carmel police](https://fox59.com/news/isp-investigating-police-shooting-on-u-s-31-in-carmel/)
-EDITOR’S NOTE: This article discusses suicide. Resources are available at the bottom of the article. CARMEL, Ind. — An 18-year-old Indiana man is in stable but critical condition after two Carmel police officers fired sh…
-<sub>Aug 6, 7:49 PM</sub>
+### [Part of I-65 closed just south of downtown Indy](https://fox59.com/indiana-news/part-of-i-65-closed-just-south-of-downtown-indy/)
+INDIANAPOLIS -- Drivers head toward Indianapolis on I-65 should expect some delays on Friday morning. A crash near the Raymond Street exit has stopped traffic on I-65 northbound. All lanes are closed, according to an IND…
+<sub>Aug 7, 6:35 AM</sub>
 
 ## Mirror Indy
-### [14 of the best, non-intimidating games of Gen Con 2026](https://mirrorindy.org/gen-con-2026-lou-harry-tabletop-night-host-best-games/)
-Game night host Lou Harry combed through more than 500 new games to find the top dice-rolling goods. The post 14 of the best, non-intimidating games of Gen Con 2026 appeared first on Mirror Indy .
-<sub>Aug 6, 5:15 PM</sub>
+### [Take your kids to Garfield Park’s new sensory-inclusive playground](https://mirrorindy.org/garfield-park-playground-south-side-indianapolis-indy-parks-lilly-endowment/)
+The $5 million upgrades include music play features, bright colors and climbing structures. The post Take your kids to Garfield Park’s new sensory-inclusive playground appeared first on Mirror Indy .
+<sub>Aug 7, 5:00 AM</sub>
