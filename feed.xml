@@ -6,8 +6,8 @@
     <atom:link href="https://egawthrop.github.io/daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>One top story from each of my chosen publications, updated daily.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:37:00 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 03:37:00 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:25:26 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 04:25:26 +0000</pubDate>
     <ttl>720</ttl>
     <item>
       <title>NYT: Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’</title>
@@ -16,6 +16,14 @@
       <pubDate>Fri, 07 Aug 2026 01:03:06 +0000</pubDate>
       <source>NYT</source>
       <description>The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.</description>
+    </item>
+    <item>
+      <title>NPR: Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship</title>
+      <link>https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb</guid>
+      <pubDate>Thu, 06 Aug 2026 22:06:35 +0000</pubDate>
+      <source>NPR</source>
+      <description>Additional details weren't provided, but Trump said he thought his latest actions would be constitutional.</description>
     </item>
     <item>
       <title>BBC News: Meta fined $567m in largest child safety ruling against social media giant</title>
@@ -34,20 +42,12 @@
       <description>Forty years ago there were more than 22 sheep to every New Zealander, but wool prices and production declined with the uptake of synthetic alternatives John Hargreaves’ family has farmed sheep and beef in Kaiwaka, north…</description>
     </item>
     <item>
-      <title>The Verge: Trevor Noah is hosting Google’s Pixel 11 launch event</title>
-      <link>https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah</guid>
-      <pubDate>Thu, 06 Aug 2026 21:15:47 +0000</pubDate>
-      <source>The Verge</source>
-      <description>Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will fea…</description>
-    </item>
-    <item>
-      <title>NPR: Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship</title>
-      <link>https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb</guid>
-      <pubDate>Thu, 06 Aug 2026 22:06:35 +0000</pubDate>
-      <source>NPR</source>
-      <description>Additional details weren't provided, but Trump said he thought his latest actions would be constitutional.</description>
+      <title>Al Jazeera: Anti-Muslim US Congressman Andy Ogles loses congressional primary</title>
+      <link>https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss</guid>
+      <pubDate>Fri, 07 Aug 2026 04:04:45 +0000</pubDate>
+      <source>Al Jazeera</source>
+      <description>Trump's endorsement fails to save Tennessee legislator who recently said 'Muslims don't belong in American society'.</description>
     </item>
     <item>
       <title>Ars Technica: Organ donation group accused of trying to take living man's organs faces shutdown</title>
@@ -58,12 +58,60 @@
       <description>The organization, Network for Hope, "strongly disagrees" with Trump admin's decision.</description>
     </item>
     <item>
-      <title>Al Jazeera: More than one million affected by floods in India’s Assam state</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss</guid>
-      <pubDate>Fri, 07 Aug 2026 02:53:19 +0000</pubDate>
-      <source>Al Jazeera</source>
-      <description>Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.</description>
+      <title>WIRED Backchannel: How Data Centers Broke American Politics</title>
+      <link>https://www.wired.com/story/how-data-centers-broke-american-politics/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/how-data-centers-broke-american-politics/</guid>
+      <pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
+      <source>WIRED Backchannel</source>
+      <description>What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.</description>
+    </item>
+    <item>
+      <title>WIRED Science: DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else</title>
+      <link>https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/</guid>
+      <pubDate>Thu, 06 Aug 2026 16:23:04 +0000</pubDate>
+      <source>WIRED Science</source>
+      <description>Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.</description>
+    </item>
+    <item>
+      <title>WIRED Business: One of China’s Most Powerful AI Models Has Also Escaped Containment</title>
+      <link>https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/</guid>
+      <pubDate>Fri, 07 Aug 2026 01:16:55 +0000</pubDate>
+      <source>WIRED Business</source>
+      <description>Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.</description>
+    </item>
+    <item>
+      <title>The New Yorker: Max Miller’s Victim Mentality</title>
+      <link>https://www.newyorker.com/news/the-lede/max-millers-victim-mentality</link>
+      <guid isPermaLink="true">https://www.newyorker.com/news/the-lede/max-millers-victim-mentality</guid>
+      <pubDate>Wed, 05 Aug 2026 22:24:23 +0000</pubDate>
+      <source>The New Yorker</source>
+      <description>The Republican congressman’s bitter domestic dispute—in which he’s accused of physical abuse by his ex-wife, the daughter of an Ohio senator—is testing his party’s willingness to defend the indefensible.</description>
+    </item>
+    <item>
+      <title>New York Mag The Cut: Do You Want Andy Sachs’ Stained Dress From The Devil Wears Prada 2?</title>
+      <link>http://www.thecut.com/article/andy-sachs-stained-dress-dwp2-auction.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</link>
+      <guid isPermaLink="true">http://www.thecut.com/article/andy-sachs-stained-dress-dwp2-auction.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</guid>
+      <pubDate>Fri, 07 Aug 2026 00:13:18 +0000</pubDate>
+      <source>New York Mag The Cut</source>
+      <description>The Gabriela Hearst dress and other costumes from the movie will be up for auction in the fall.</description>
+    </item>
+    <item>
+      <title>New York Mag Curbed: The Cloudy-Water Drama at 220 Central Park South</title>
+      <link>http://www.curbed.com/article/220-central-park-south-tainted-water-lawsuit.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</link>
+      <guid isPermaLink="true">http://www.curbed.com/article/220-central-park-south-tainted-water-lawsuit.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</guid>
+      <pubDate>Wed, 05 Aug 2026 19:09:09 +0000</pubDate>
+      <source>New York Mag Curbed</source>
+      <description>A lawsuit at the luxury tower is revealing that the problem might be coming from the fact that so few people actually live there.</description>
+    </item>
+    <item>
+      <title>Fox59: 18-year-old critical after being shot by Carmel police</title>
+      <link>https://fox59.com/news/isp-investigating-police-shooting-on-u-s-31-in-carmel/</link>
+      <guid isPermaLink="true">https://fox59.com/news/isp-investigating-police-shooting-on-u-s-31-in-carmel/</guid>
+      <pubDate>Thu, 06 Aug 2026 23:49:33 +0000</pubDate>
+      <source>Fox59</source>
+      <description>EDITOR’S NOTE: This article discusses suicide. Resources are available at the bottom of the article. CARMEL, Ind. — An 18-year-old Indiana man is in stable but critical condition after two Carmel police officers fired sh…</description>
     </item>
     <item>
       <title>Mirror Indy: 14 of the best, non-intimidating games of Gen Con 2026</title>
