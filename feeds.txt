@@ -4,10 +4,17 @@
 # Add, remove, or reorder freely — the digest follows this order.
 
 NYT           | https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+NPR           | https://feeds.npr.org/1001/rss.xml
+WaPo Politics | https://www.washingtonpost.com/arcio/rss/category/politics/
 BBC News      | https://feeds.bbci.co.uk/news/rss.xml
 The Guardian  | https://www.theguardian.com/international/rss
-The Verge     | https://www.theverge.com/rss/index.xml
-NPR           | https://feeds.npr.org/1001/rss.xml
-Ars Technica  | https://feeds.arstechnica.com/arstechnica/index
 Al Jazeera    | https://www.aljazeera.com/xml/rss/all.xml
+Ars Technica  | https://feeds.arstechnica.com/arstechnica/index
+WIRED Backchannel | https://www.wired.com/feed/category/backchannel/latest/rss 
+WIRED Science | https://www.wired.com/feed/category/science/latest/rss
+WIRED Business | https://www.wired.com/feed/category/business/latest/rss
+The New Yorker | https://www.newyorker.com/feed/news/rss
+New York Mag The Cut | https://feeds.feedburner.com/nymag/fashion
+New York Mag Curbed | https://www.curbed.com/feeds/full-content.rss
+Fox59 | https://fox59.com/feed/
 Mirror Indy   | https://mirrorindy.org/feed/
