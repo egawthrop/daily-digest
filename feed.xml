@@ -6,55 +6,56 @@
     <atom:link href="https://egawthrop.github.io/daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>One top story from each of my chosen publications, updated daily.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:14:16 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 10:14:16 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:22:54 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 10:22:54 +0000</pubDate>
     <ttl>720</ttl>
     <item>
-      <title>NYT: The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.</title>
-      <link>https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html</guid>
-      <pubDate>Sun, 16 Aug 2026 09:00:49 +0000</pubDate>
+      <title>NYT: China Wants Its Data to Power the World’s A.I.</title>
+      <link>https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html</guid>
+      <pubDate>Mon, 17 Aug 2026 04:01:07 +0000</pubDate>
       <source>NYT</source>
-      <description>The administration is veering wildly in its response to the national security implications of A.I. as China, America’s main technological and military rival, charges ahead.</description>
+      <description>China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.</description>
     </item>
     <item>
-      <title>NPR: NPR Senior Podcast Challenge: Official Rules</title>
-      <link>https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules</guid>
-      <pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
+      <title>NPR: Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36</title>
+      <link>https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies</guid>
+      <pubDate>Mon, 17 Aug 2026 10:00:10 +0000</pubDate>
       <source>NPR</source>
+      <description>A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series "Nashville."</description>
     </item>
     <item>
-      <title>BBC News: People who fled Stourbridge fires start to return home</title>
-      <link>https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 16 Aug 2026 09:35:01 +0000</pubDate>
+      <title>BBC News: Parents pushed to breaking point by Child Maintenance Service, BBC told</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 17 Aug 2026 05:03:31 +0000</pubDate>
       <source>BBC News</source>
-      <description>Many families are only just discovering the extent of damage to their homes for the first time.</description>
+      <description>Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.</description>
     </item>
     <item>
-      <title>The Guardian: Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube</title>
-      <link>https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis</link>
-      <guid isPermaLink="true">https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis</guid>
-      <pubDate>Sun, 16 Aug 2026 04:00:15 +0000</pubDate>
+      <title>The Guardian: Coping with 54C heat: Delhi slum diaries detail living in extreme temperatures</title>
+      <link>https://www.theguardian.com/global-development/2026/aug/17/india-disasters-heatwaves-slum-diaries-delhi-vulnerable-temperatures</link>
+      <guid isPermaLink="true">https://www.theguardian.com/global-development/2026/aug/17/india-disasters-heatwaves-slum-diaries-delhi-vulnerable-temperatures</guid>
+      <pubDate>Mon, 17 Aug 2026 04:00:45 +0000</pubDate>
       <source>The Guardian</source>
-      <description>The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking water For centuries, the rock was seen as a warning. When it began to emerge from the Danube, beneath…</description>
+      <description>With heatwaves now recognised as disasters, personal testimonies are key to a new project that looks to protect those living in the most cramped districts of India’s capital Every summer evening, Gulshan follows the same…</description>
     </item>
     <item>
-      <title>Al Jazeera: Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa</title>
-      <link>https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss</guid>
-      <pubDate>Sun, 16 Aug 2026 09:48:42 +0000</pubDate>
+      <title>Al Jazeera: Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle</title>
+      <link>https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss</guid>
+      <pubDate>Mon, 17 Aug 2026 09:41:19 +0000</pubDate>
       <source>Al Jazeera</source>
-      <description>The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.</description>
+      <description>Britain's new premier has promised to ease the suffering of millions of families unable to afford basic items.</description>
     </item>
     <item>
-      <title>Ars Technica: VisionQuest trailer kicks off Disney's D23 fan event</title>
-      <link>https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/</link>
-      <guid isPermaLink="true">https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/</guid>
-      <pubDate>Sat, 15 Aug 2026 21:21:27 +0000</pubDate>
+      <title>Ars Technica: Wildfire smoke now bigger prenatal threat than human sources of air pollution</title>
+      <link>https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/</link>
+      <guid isPermaLink="true">https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/</guid>
+      <pubDate>Sun, 16 Aug 2026 10:00:59 +0000</pubDate>
       <source>Ars Technica</source>
-      <description>Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter</description>
+      <description>Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.</description>
     </item>
     <item>
       <title>WIRED Backchannel: Inside WIRED’s Brain Week</title>
@@ -65,12 +66,12 @@
       <description>In five stories, we look at some of the most fascinating aspects of human (and animal) intelligence. From new octopus research, to the scientists using human cells to power computers, to a promising new treatment for add…</description>
     </item>
     <item>
-      <title>WIRED Science: Inside the Experimental Traps Scientists Set for Ghostly Neutrinos</title>
-      <link>https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/</guid>
-      <pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate>
+      <title>WIRED Science: El Niño and Saharan Dust Silence Atlantic Hurricane Season</title>
+      <link>https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/</guid>
+      <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
       <source>WIRED Science</source>
-      <description>Observatories have been built in mines, deep under the Antarctic ice sheet, and elsewhere in an effort to detect the fleeting particles.</description>
+      <description>El Niño coupled with Saharan dust is making this year’s hurricane season a dud. But there’s still potential for dangerous storms.</description>
     </item>
     <item>
       <title>WIRED Business: The Next Big Influencer Is This 4-Foot-Tall Robot From China</title>
@@ -81,20 +82,20 @@
       <description>The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?</description>
     </item>
     <item>
-      <title>The New Yorker: Donald Trump Is Still Trying to Make It Harder to Vote</title>
-      <link>https://www.newyorker.com/magazine/2026/08/24/donald-trump-is-still-trying-to-make-it-harder-to-vote</link>
-      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/08/24/donald-trump-is-still-trying-to-make-it-harder-to-vote</guid>
-      <pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate>
+      <title>The New Yorker: The Big, Dumb, Gluttonous Fun of America’s Semiquincentennial</title>
+      <link>https://www.newyorker.com/magazine/2026/08/24/the-big-dumb-gluttonous-fun-of-americas-semiquincentennial</link>
+      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/08/24/the-big-dumb-gluttonous-fun-of-americas-semiquincentennial</guid>
+      <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
       <source>The New Yorker</source>
-      <description>The SAVE America Act is just one part of a package that includes an executive order and threats of prosecution, all in an effort to make Trump’s math work.</description>
+      <description>In D.C. and the Dakotas, at rodeos and powwows, celebrating the country means taking in pride and disappointment and fellow-feeling.</description>
     </item>
     <item>
-      <title>New York Mag The Cut: If Teens Don’t Date, Is It Really a Problem?</title>
-      <link>http://www.thecut.com/article/brooding-if-teens-dont-date-is-it-a-problem.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</link>
-      <guid isPermaLink="true">http://www.thecut.com/article/brooding-if-teens-dont-date-is-it-a-problem.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</guid>
-      <pubDate>Sat, 15 Aug 2026 10:00:04 +0000</pubDate>
+      <title>New York Mag The Cut: Your Daily Horoscope by Madame Clairevoyant: August 17, 2026</title>
+      <link>http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-august-17-2026.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</link>
+      <guid isPermaLink="true">http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-august-17-2026.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:42 +0000</pubDate>
       <source>New York Mag The Cut</source>
-      <description>The fixation on the redemptive power of being chosen might be outdated.</description>
+      <description>Tension between Mars and Neptune may lead to a bit of resentment among the people around you.</description>
     </item>
     <item>
       <title>New York Mag Curbed: What Is Arian Moayed’s NYQ?</title>
@@ -105,20 +106,20 @@
       <description>On a scale from the Top of the Rock to the top floor of Pebble Bar, where does the former Succession star fit?</description>
     </item>
     <item>
-      <title>Fox59: UPDATES: Disaster declared, flood impact continues</title>
-      <link>https://fox59.com/indiana-news/live-round-2-of-strong-storms-sweep-through-indiana/</link>
-      <guid isPermaLink="true">https://fox59.com/indiana-news/live-round-2-of-strong-storms-sweep-through-indiana/</guid>
-      <pubDate>Wed, 12 Aug 2026 16:36:05 +0000</pubDate>
+      <title>Fox59: Rain eases but moderate flooding remains for parts of the state</title>
+      <link>https://fox59.com/weather/weather-blog/rain-eases-but-moderate-flooding-remains-for-parts-of-the-state/</link>
+      <guid isPermaLink="true">https://fox59.com/weather/weather-blog/rain-eases-but-moderate-flooding-remains-for-parts-of-the-state/</guid>
+      <pubDate>Mon, 17 Aug 2026 09:30:20 +0000</pubDate>
       <source>Fox59</source>
-      <description>INDIANAPOLIS — Strong storms have swept through central Indiana this week, leaving Hoosiers reeling from the fallout of flash flooding and powerful winds. On Thursday, Gov. Mike Braun declared an emergency disaster, pavi…</description>
+      <description>Widely scattered showers and storms are working across the state this morning, as a cold front is on the move. High water issues remain throughout central Indiana, especially along the rivers, creeks, and streams! The bu…</description>
     </item>
     <item>
-      <title>Mirror Indy: Fletcher Place considers outdoor drinking area</title>
-      <link>https://mirrorindy.org/fletcher-place-irvington-indiana-southside-dora-outdoor-alcohol-consumption-virginia-avenue/</link>
-      <guid isPermaLink="true">https://mirrorindy.org/fletcher-place-irvington-indiana-southside-dora-outdoor-alcohol-consumption-virginia-avenue/</guid>
-      <pubDate>Fri, 14 Aug 2026 20:45:48 +0000</pubDate>
+      <title>Mirror Indy: Make sense of reading scores at these eastside school open houses</title>
+      <link>https://mirrorindy.org/warren-township-indianapolis-eastside-elementary-school-family-literacy-nights-iread-2026/</link>
+      <guid isPermaLink="true">https://mirrorindy.org/warren-township-indianapolis-eastside-elementary-school-family-literacy-nights-iread-2026/</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
       <source>Mirror Indy</source>
-      <description>The area would roughly be along Virginia Avenue, East Street and McCarty Street. The post Fletcher Place considers outdoor drinking area appeared first on Mirror Indy .</description>
+      <description>Warren Township is inviting families to a series of elementary school literacy nights. The post Make sense of reading scores at these eastside school open houses appeared first on Mirror Indy .</description>
     </item>
   </channel>
 </rss>
