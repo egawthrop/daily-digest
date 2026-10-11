@@ -1,34 +1,34 @@
 # The Daily Digest
 
-_Saturday, October 10, 2026 — generated 11:39 AM EDT_
+_Sunday, October 11, 2026 — generated 12:03 PM EDT_
 
 ## NYT
-### [A.I. Hurricane Models Were Front and Center as Isaias Headed Toward Land](https://www.nytimes.com/2026/10/09/weather/ai-models-hurricane-isaias.html)
-Expert forecasters say the new technology is helping them understand where a storm will go.
-<sub>Oct 10, 10:46 AM</sub>
+### [Threats of Political Violence Have America’s Elected Officials Living in Fear](https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html)
+A Times investigation has found that violent threats have become a new normal among public officials, reshaped private lives, cost millions in security and pushed people out of office.
+<sub>Oct 11, 11:46 AM</sub>
 
 ## NPR
-### [Opinion: Can I keep the baseball I caught?](https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught)
-What would you do if you caught a baseball during the MLB playoffs? Give it to a kid nearby or keep it? This very scenario played out this week, with a fan deciding to keep the ball.
-<sub>Oct 10, 8:00 AM</sub>
+### [Pope Leo XIV to undergo lung surgery this week](https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week)
+Pope Leo XIV said he would undergo surgery after doctors found a "localized nodule" in his lung.
+<sub>Oct 11, 8:54 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Christa Pike discharged from hospital and returned to prison, her lawyers say](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
-The convicted murderer was left in a critical condition after she survived two lethal injections.
-<sub>Oct 10, 11:28 AM</sub>
+### [Attack on Saudi Arabian airport is another dangerous moment in already tense conflict](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss)
+The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.
+<sub>Oct 11, 11:32 AM</sub>
 
 ## The Guardian
-### [‘There is no secret agenda’: Nara Smith on home-making absolutely everything, raising four kids at 25 – and why she’s definitely not a tradwife](https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife)
-The model, actor and influencer is known for making her own frozen yoghurt, bubblegum or even toothpaste while dressed in immaculate haute couture. But she insists she is not who the internet thinks she is Nara Smith is…
-<sub>Oct 10, 7:00 AM</sub>
+### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring](https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring)
+Could a drug intended to prevent painful rashes also protect our brains as we get older? The signs are promising – but not conclusive. Yet that’s enough to be driving a boom in shingles jabs When Jenny, a 50-year-old mar…
+<sub>Oct 11, 9:00 AM</sub>
 
 ## Al Jazeera
-### [Trump Accounts: Free money, but who gets a say?](https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss)
-Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.
-<sub>Oct 10, 11:21 AM</sub>
+### [Power bank fire forces plane to emergency land in India](https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss)
+A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.
+<sub>Oct 11, 11:26 AM</sub>
 
 ## Ars Technica
 ### [One with the world? A new look at brains transformed by psychedelics.](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/)
@@ -41,9 +41,9 @@ The author of The AGI Chronicles says his book “was written by a very tired, o
 <sub>Oct 6, 6:30 AM</sub>
 
 ## WIRED Science
-### [Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition](https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/)
-The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.
-<sub>Oct 10, 5:30 AM</sub>
+### [How the 2026 Super El Niño and Climate Change Are Related](https://www.wired.com/story/super-el-nino-climate-change-connections/)
+Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.
+<sub>Oct 11, 5:30 AM</sub>
 
 ## WIRED Business
 ### [I’m Still Convinced the iPod Was the Perfect Gadget](https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/)
@@ -56,9 +56,9 @@ A movement born in the Paris banlieues has mobilized young people against dimini
 <sub>Oct 9, 11:15 AM</sub>
 
 ## New York Mag The Cut
-### [Are We Raising a Generation of Heteropessimists?](http://www.thecut.com/article/brooding-are-we-raising-a-generation-of-heteropessimists.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Friendship across genders makes the world feel less mysterious and hostile, but you can’t force it to happen.
-<sub>Oct 10, 6:00 AM</sub>
+### [Your Weekly Horoscopes by Madame Clairevoyant: October 11–17](http://www.thecut.com/article/weekly-horoscopes-madame-clairevoyant-week-of-october-11-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+With Pluto retrograde ending this week, consider how to make a healthy change moving forward.
+<sub>Oct 11, 5:00 AM</sub>
 
 ## New York Mag Curbed
 ### [Gowanopolis Rising](http://www.curbed.com/article/gownaus-canal-brooklyn-rezoning-superfund-brownfield-cleanup-redevelopment.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
@@ -66,9 +66,9 @@ You can’t walk an inch in the Brooklyn neighborhood without running into a new
 <sub>Oct 9, 2:58 PM</sub>
 
 ## Fox59
-### [Former funeral home director who overcharged families to live lavish lifestyle gets probation sentence for crimes](https://fox59.com/news/indycrime/former-funeral-home-director-who-overcharged-families-to-live-lavish-lifestyle-gets-probation-sentence-for-crimes/)
-ANDERSON, Ind. — A former Madison County funeral director who overcharged customers tens of thousands of dollars in order to furnish her lavish lifestyle has avoided prison time thanks to accepting a plea deal. Adrianna…
-<sub>Oct 9, 11:27 AM</sub>
+### [Police: Pedestrian critically injured in crash on northeast side of Indianapolis](https://fox59.com/news/1-struck-on-the-near-northeast-side-of-indy/)
+INDIANAPOLIS — A pedestrian was critically injured in a crash on the northeast side of Indianapolis Saturday night. According to the Indianapolis Metropolitan Police Department, officers were called to the intersection o…
+<sub>Oct 10, 8:10 PM</sub>
 
 ## Mirror Indy
 ### [State audit dings Pike Township over pay, mileage logs](https://mirrorindy.org/pike-township-audit-pay-increases-trustee-annette-johnson-indianapolis/)
