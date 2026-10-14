@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Tuesday, October 13, 2026 — generated 1:19 PM EDT_
+_Wednesday, October 14, 2026 — generated 10:48 AM EDT_
 
 ## NYT
-### [Trump Hands Victories to Putin, Who Offers More War in Return](https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html)
-Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.
-<sub>Oct 13, 12:13 PM</sub>
+### [Social Security COLA for 2027 Will Be 3.6%](https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html)
+The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.
+<sub>Oct 14, 10:31 AM</sub>
 
 ## NPR
-### [Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home](https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar)
-The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.
-<sub>Oct 13, 7:08 AM</sub>
+### [Inflation sizzled in September — and Social Security benefits will get a boost](https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits)
+Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.
+<sub>Oct 14, 9:33 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [MI5 chief warns of threats to UK from Russia, Iran and AI](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
-Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an "equal scale".
-<sub>Oct 13, 11:52 AM</sub>
+### [Russell Brand was a 'sexual predator', says prosecution as rape trial begins](https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss)
+The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.
+<sub>Oct 14, 9:42 AM</sub>
 
 ## The Guardian
-### [Could I make six figures from my couch? Influencers said yes – so I tried](https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles)
-I was seduced by creators hawking passive income hustles. Like the language used in MLMs, it seemed too good to be true A very specific kind of content began taking over my social media feeds at the end of last year. I h…
-<sub>Oct 13, 10:00 AM</sub>
+### [What will drive American voters to the polls in the midterm elections? - video explainer](https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer)
+Recent polls show that American voters across the political spectrum are deeply dissatisfied with the Trump administration, and the upcoming midterm elections will provide them an opportunity to express how they feel. Th…
+<sub>Oct 14, 6:50 AM</sub>
 
 ## Al Jazeera
-### [Floods submerge cars, homes and hospitals in Libya’s Tripoli](https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss)
-Heavy rainfall triggered flooding in Libya’s capital, Tripoli, submerging cars, trapping people inside buildings.
-<sub>Oct 13, 12:49 PM</sub>
+### [Saudi national charged with planting a listening device at OpenAI offices](https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss)
+US FBI said Abdulrahman Alfozan was engineer at the tech giant from June 2025.
+<sub>Oct 14, 10:39 AM</sub>
 
 ## Ars Technica
-### [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
-Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons" to deliver venom.
-<sub>Oct 13, 9:03 AM</sub>
+### [Anthropic warns small AI models could self-replicate through IoT devices](https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/)
+"Small weight-based replicators" could usher in a new generation of computer worms.
+<sub>Oct 14, 8:55 AM</sub>
 
 ## WIRED Backchannel
-### [Wikipedians Believed AI Would Come and Go. They Were Wrong](https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/)
-In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.
-<sub>Oct 13, 7:00 AM</sub>
+### [cool kids are writing in all lowercase now. does that make you mad?](https://www.wired.com/story/the-case-for-lowercase/)
+a certain kind of person writes in all lowercase now. why?
+<sub>Oct 14, 6:00 AM</sub>
 
 ## WIRED Science
-### [They War-Gamed Dimming the Sun. It Went Even Worse Than You Think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
-Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.
-<sub>Oct 12, 10:00 AM</sub>
+### [Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies](https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/)
+Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Niño is here to make matters even worse.
+<sub>Oct 14, 10:00 AM</sub>
 
 ## WIRED Business
-### [Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues](https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/)
-Elon Musk’s father, Errol Musk, agreed to be interviewed immediately.
-<sub>Oct 13, 6:30 AM</sub>
+### [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/)
+More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.
+<sub>Oct 14, 5:30 AM</sub>
 
 ## The New Yorker
-### [Pity the Poor Passport](https://www.newyorker.com/news/the-lede/pity-the-poor-passport)
-Americans’ most valued official document is the latest national treasure to get a Trump makeover.
-<sub>Oct 13, 6:00 AM</sub>
+### [What a Public Execution Looks Like](https://www.newyorker.com/news/the-lede/what-a-public-execution-looks-like)
+Dexter Filkins on Pete Hegseth’s planned public execution of Nidal Hasan and his memory of a public execution by the Taliban in Kabul.
+<sub>Oct 14, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Selma Blair Pleads Not Guilty to Assault After Plane Incident](http://www.thecut.com/article/selma-blair-pleads-not-guilty-assault-plane-arrest.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The actress is facing state and federal charges after allegedly injuring two flight attendants, a police officer, and a nurse.
-<sub>Oct 13, 10:33 AM</sub>
+### [Your Daily Horoscope by Madame Clairevoyant: October 14, 2026](http://www.thecut.com/article/daily-horoscopes-by-madame-clairevoyant-october-14-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Sagittarius and Uranus could create instability this morning, so seek clarity as you make big decisions.
+<sub>Oct 14, 5:00 AM</sub>
 
 ## New York Mag Curbed
-### [An 1870 1-Bedroom With Skylights and Fireplace in Brooklyn Heights for $945,000](http://www.curbed.com/article/nyc-apartments-under-a-million-brooklyn-heights-carroll-gardens-upper-west-side-greenwich-village-carnegie-hill.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-And an Upper West Side one-bedroom in an Emery Roth co-op right across from Central Park.
-<sub>Oct 12, 7:00 AM</sub>
+### [‘Kelly Clarkson Has Put Us in Danger’](http://www.curbed.com/article/art-of-play-owner-speaks-kelly-clarkson.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Talking with the beleaguered owner of Art of Play, a tiny toy shop in Brooklyn Heights that had a truly horrible weekend.
+<sub>Oct 13, 2:55 PM</sub>
 
 ## Fox59
-### [1 found dead in parking lot after alleged fight on Indy's northeast side](https://fox59.com/news/1-dead-after-fight-on-indys-northeast-side/)
-INDIANAPOLIS— A man has died following an alleged fight on Indy's northeast side Monday night. According to the Indianapolis Metropolitan Police Department, officers were called out at approximately 7:48 p.m. to the repo…
-<sub>Oct 12, 9:11 PM</sub>
+### [Police: Two men in critical condition after being shot in Indianapolis](https://fox59.com/news/indycrime/person-in-critical-condition-after-east-side-shooting-2/)
+INDIANAPOLIS— The Indianapolis Metropolitan Police Department is investigating after two adult male shooting victims were found in critical condition Tuesday night. According to the Indianapolis Metropolitan Police Depar…
+<sub>Oct 13, 7:16 PM</sub>
 
 ## Mirror Indy
-### [Bringing on the FLAVA!](https://mirrorindy.org/flava-fresh-annual-juried-exhibition-d-del-reverda-jennings-interview/)
-A look at the evolution of the annual FLAVA FRESH ! art exhibition. The post Bringing on the FLAVA! appeared first on Mirror Indy .
-<sub>Oct 12, 4:23 PM</sub>
+### [Public Editor: Newsroom Profile: Black Indy LIVE](https://mirrorindy.org/public-editor-newsroom-profile-black-indy-live/)
+Is the viral digital news platform worthy of our attention? The post Public Editor: Newsroom Profile: Black Indy LIVE appeared first on Mirror Indy .
+<sub>Oct 14, 5:30 AM</sub>
