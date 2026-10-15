@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Wednesday, October 14, 2026 — generated 10:48 AM EDT_
+_Thursday, October 15, 2026 — generated 10:33 AM EDT_
 
 ## NYT
-### [Social Security COLA for 2027 Will Be 3.6%](https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html)
-The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.
-<sub>Oct 14, 10:31 AM</sub>
+### [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html)
+President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.
+<sub>Oct 15, 10:02 AM</sub>
 
 ## NPR
-### [Inflation sizzled in September — and Social Security benefits will get a boost](https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits)
-Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.
-<sub>Oct 14, 9:33 AM</sub>
+### [Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric](https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia)
+Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's "guilt-by-association politics" won't drag Democrats down in the midterms.
+<sub>Oct 15, 7:31 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Russell Brand was a 'sexual predator', says prosecution as rape trial begins](https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss)
-The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.
-<sub>Oct 14, 9:42 AM</sub>
+### [Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse](https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss)
+Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.
+<sub>Oct 15, 9:13 AM</sub>
 
 ## The Guardian
-### [What will drive American voters to the polls in the midterm elections? - video explainer](https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer)
-Recent polls show that American voters across the political spectrum are deeply dissatisfied with the Trump administration, and the upcoming midterm elections will provide them an opportunity to express how they feel. Th…
-<sub>Oct 14, 6:50 AM</sub>
+### [Your full attention: Jesse Eisenberg’s 10 best film performances – ranked!](https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked)
+As his new movie The Debut closes the London film festival, we count down the best of the actor’s shy, sly and sometimes hairy outings A doppelganger role can be a trap for an actor: either the two roles are not sufficie…
+<sub>Oct 15, 7:00 AM</sub>
 
 ## Al Jazeera
-### [Saudi national charged with planting a listening device at OpenAI offices](https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss)
-US FBI said Abdulrahman Alfozan was engineer at the tech giant from June 2025.
-<sub>Oct 14, 10:39 AM</sub>
+### [Trump says Fort Hood shooter execution will not be livestreamed](https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss)
+US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.
+<sub>Oct 15, 10:27 AM</sub>
 
 ## Ars Technica
-### [Anthropic warns small AI models could self-replicate through IoT devices](https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/)
-"Small weight-based replicators" could usher in a new generation of computer worms.
-<sub>Oct 14, 8:55 AM</sub>
+### [Fridge hack costing millions and sparking fires stemmed from poor security](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/)
+Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.
+<sub>Oct 14, 5:35 PM</sub>
 
 ## WIRED Backchannel
 ### [cool kids are writing in all lowercase now. does that make you mad?](https://www.wired.com/story/the-case-for-lowercase/)
@@ -41,36 +41,36 @@ a certain kind of person writes in all lowercase now. why?
 <sub>Oct 14, 6:00 AM</sub>
 
 ## WIRED Science
-### [Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies](https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/)
-Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Niño is here to make matters even worse.
-<sub>Oct 14, 10:00 AM</sub>
+### [Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission](https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/)
+Though scaled back from initial plans of landing, the voyage will serve as a dress rehearsal for when humans return to the moon’s surface.
+<sub>Oct 15, 5:15 AM</sub>
 
 ## WIRED Business
-### [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/)
-More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.
-<sub>Oct 14, 5:30 AM</sub>
+### [Over $600 Million in Polymarket Election Trades Took Place After Races Ended](https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended/)
+Contracts tied to elections in Ethiopia and Romania saw massive trading volumes after the outcomes were decided. “It’s obviously some form of volume manipulation,” one expert says.
+<sub>Oct 15, 5:00 AM</sub>
 
 ## The New Yorker
-### [What a Public Execution Looks Like](https://www.newyorker.com/news/the-lede/what-a-public-execution-looks-like)
-Dexter Filkins on Pete Hegseth’s planned public execution of Nidal Hasan and his memory of a public execution by the Taliban in Kabul.
-<sub>Oct 14, 6:00 AM</sub>
+### [The Death of a Young Haitian’s American Dream](https://www.newyorker.com/news/dispatch/the-death-of-a-young-haitians-american-dream)
+Pierre Damas Bel was a twenty-year-old college student planning for his future. His family says that ICE monitoring made him lose hope.
+<sub>Oct 15, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Your Daily Horoscope by Madame Clairevoyant: October 14, 2026](http://www.thecut.com/article/daily-horoscopes-by-madame-clairevoyant-october-14-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Sagittarius and Uranus could create instability this morning, so seek clarity as you make big decisions.
-<sub>Oct 14, 5:00 AM</sub>
+### [Hilary Swank Is Expecting Her Third Child](http://www.thecut.com/article/hilary-swank-expecting-third-child.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The actress, who’s 52, previously welcomed twins in 2023.
+<sub>Oct 15, 9:34 AM</sub>
 
 ## New York Mag Curbed
-### [‘Kelly Clarkson Has Put Us in Danger’](http://www.curbed.com/article/art-of-play-owner-speaks-kelly-clarkson.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Talking with the beleaguered owner of Art of Play, a tiny toy shop in Brooklyn Heights that had a truly horrible weekend.
-<sub>Oct 13, 2:55 PM</sub>
+### [The 7th Floor–8th Floor Marriage](http://www.curbed.com/article/married-couple-two-separate-apartments-decor-clash.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+His furniture is from Uline. Her taste is more traditional. The couple who splits their lives between two apartments.
+<sub>Oct 14, 11:28 AM</sub>
 
 ## Fox59
-### [Police: Two men in critical condition after being shot in Indianapolis](https://fox59.com/news/indycrime/person-in-critical-condition-after-east-side-shooting-2/)
-INDIANAPOLIS— The Indianapolis Metropolitan Police Department is investigating after two adult male shooting victims were found in critical condition Tuesday night. According to the Indianapolis Metropolitan Police Depar…
-<sub>Oct 13, 7:16 PM</sub>
+### [Man killed in shooting at Circle K on Indy's NW side](https://fox59.com/news/indycrime/man-in-critical-after-shooting-at-circle-k-on-indys-nw-side/)
+INDIANAPOLIS -- A man was killed in a shooting on the northwest side. According to the Indianapolis Metropolitan Police Department, officers were dispatched around 12:30 a.m. Thursday to the Circle K at 5659 Michigan Rd.…
+<sub>Oct 15, 2:05 AM</sub>
 
 ## Mirror Indy
-### [Public Editor: Newsroom Profile: Black Indy LIVE](https://mirrorindy.org/public-editor-newsroom-profile-black-indy-live/)
-Is the viral digital news platform worthy of our attention? The post Public Editor: Newsroom Profile: Black Indy LIVE appeared first on Mirror Indy .
-<sub>Oct 14, 5:30 AM</sub>
+### [1 in 4 Indiana voters say ‘government corruption’ is top concern](https://mirrorindy.org/indiana-poll-corruption-inflation/)
+Free Press Indiana polled more than 800 likely voters ahead of the election. The post 1 in 4 Indiana voters say ‘government corruption’ is top concern appeared first on Mirror Indy .
+<sub>Oct 15, 5:30 AM</sub>
