@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Thursday, October 15, 2026 — generated 10:33 AM EDT_
+_Friday, October 16, 2026 — generated 10:26 AM EDT_
 
 ## NYT
-### [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html)
-President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.
-<sub>Oct 15, 10:02 AM</sub>
+### [Avalanche of G.O.P. Cash Keeps the Party Competitive Despite Its Problems](https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html)
+Republican Senate and House candidates are being out-raised by their Democratic rivals, but the party has received a huge boost from groups tied to Elon Musk and President Trump.
+<sub>Oct 16, 5:02 AM</sub>
 
 ## NPR
-### [Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric](https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia)
-Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's "guilt-by-association politics" won't drag Democrats down in the midterms.
-<sub>Oct 15, 7:31 AM</sub>
+### [Crowds throng New Delhi and wave Indian flags amid escalating protests](https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests)
+Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.
+<sub>Oct 16, 9:26 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse](https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss)
-Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.
-<sub>Oct 15, 9:13 AM</sub>
+### [Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
+EU leaders rally around Ukraine's leader after Donald Trump says he is "more difficult to work with than Putin".
+<sub>Oct 16, 9:25 AM</sub>
 
 ## The Guardian
-### [Your full attention: Jesse Eisenberg’s 10 best film performances – ranked!](https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked)
-As his new movie The Debut closes the London film festival, we count down the best of the actor’s shy, sly and sometimes hairy outings A doppelganger role can be a trap for an actor: either the two roles are not sufficie…
-<sub>Oct 15, 7:00 AM</sub>
+### [Fiery speeches, LED hats and infighting: inside an Alberta separatist conference](https://www.theguardian.com/world/2026/oct/16/fiery-speeches-led-hats-and-infighting-inside-an-alberta-separatist-conference)
+WeUnify’s Reclaiming Alberta brought together ardent supporters of independence from Canada while highlighting key disagreements over strategy – not least how close a free Alberta should be to the US The debate began wit…
+<sub>Oct 16, 7:00 AM</sub>
 
 ## Al Jazeera
-### [Trump says Fort Hood shooter execution will not be livestreamed](https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss)
-US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.
-<sub>Oct 15, 10:27 AM</sub>
+### [Qatar FM calls for Israeli withdrawal from Lebanon](https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss)
+Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.
+<sub>Oct 16, 10:01 AM</sub>
 
 ## Ars Technica
-### [Fridge hack costing millions and sparking fires stemmed from poor security](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/)
-Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.
-<sub>Oct 14, 5:35 PM</sub>
+### [The Surface Laptop Ultra delivers on most of Microsoft's promises](https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/)
+Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.
+<sub>Oct 16, 8:00 AM</sub>
 
 ## WIRED Backchannel
 ### [cool kids are writing in all lowercase now. does that make you mad?](https://www.wired.com/story/the-case-for-lowercase/)
@@ -41,36 +41,36 @@ a certain kind of person writes in all lowercase now. why?
 <sub>Oct 14, 6:00 AM</sub>
 
 ## WIRED Science
-### [Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission](https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/)
-Though scaled back from initial plans of landing, the voyage will serve as a dress rehearsal for when humans return to the moon’s surface.
-<sub>Oct 15, 5:15 AM</sub>
+### [Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat](https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/)
+Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its toll.
+<sub>Oct 16, 5:00 AM</sub>
 
 ## WIRED Business
-### [Over $600 Million in Polymarket Election Trades Took Place After Races Ended](https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended/)
-Contracts tied to elections in Ethiopia and Romania saw massive trading volumes after the outcomes were decided. “It’s obviously some form of volume manipulation,” one expert says.
-<sub>Oct 15, 5:00 AM</sub>
+### [We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView](https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/)
+This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.
+<sub>Oct 15, 5:18 PM</sub>
 
 ## The New Yorker
-### [The Death of a Young Haitian’s American Dream](https://www.newyorker.com/news/dispatch/the-death-of-a-young-haitians-american-dream)
-Pierre Damas Bel was a twenty-year-old college student planning for his future. His family says that ICE monitoring made him lose hope.
-<sub>Oct 15, 6:00 AM</sub>
+### [Facing the Death Penalty](https://www.newyorker.com/magazine/2026/10/26/facing-the-death-penalty)
+The cases of Christa Pike and Nidal Hasan show how vanishingly fine the line is between a routine execution and an unbearable one.
+<sub>Oct 16, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Hilary Swank Is Expecting Her Third Child](http://www.thecut.com/article/hilary-swank-expecting-third-child.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The actress, who’s 52, previously welcomed twins in 2023.
-<sub>Oct 15, 9:34 AM</sub>
+### [What We Know About the Oregon School Shooting](http://www.thecut.com/article/bend-oregon-school-shooting-what-we-know.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The 16-year-old suspect was killed by a bystander shortly before police arrived at the scene.
+<sub>Oct 16, 10:02 AM</sub>
 
 ## New York Mag Curbed
-### [The 7th Floor–8th Floor Marriage](http://www.curbed.com/article/married-couple-two-separate-apartments-decor-clash.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-His furniture is from Uline. Her taste is more traditional. The couple who splits their lives between two apartments.
-<sub>Oct 14, 11:28 AM</sub>
+### [What Is Murray Hill’s NYQ?](http://www.curbed.com/article/comedian-drag-king-murray-hill-nyq.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+On a scale from the Chrysler Building to the Morgan Library, what is the comedian and drag king’s NYQ?
+<sub>Oct 16, 9:11 AM</sub>
 
 ## Fox59
-### [Man killed in shooting at Circle K on Indy's NW side](https://fox59.com/news/indycrime/man-in-critical-after-shooting-at-circle-k-on-indys-nw-side/)
-INDIANAPOLIS -- A man was killed in a shooting on the northwest side. According to the Indianapolis Metropolitan Police Department, officers were dispatched around 12:30 a.m. Thursday to the Circle K at 5659 Michigan Rd.…
-<sub>Oct 15, 2:05 AM</sub>
+### [Poll: Indiana voters expected to support Bayh or Engling in Sec. of State race](https://fox59.com/indianapolitics/poll-indiana-voters-expected-to-support-bayh-or-engling-in-sec-of-state-race/)
+INDIANAPOLIS -- Voters throughout the state of Indiana said they are more likely to support one of the two major party candidates in November's Secretary of State race. The poll, conducted by Free Press Indiana and Bellw…
+<sub>Oct 16, 6:30 AM</sub>
 
 ## Mirror Indy
-### [1 in 4 Indiana voters say ‘government corruption’ is top concern](https://mirrorindy.org/indiana-poll-corruption-inflation/)
-Free Press Indiana polled more than 800 likely voters ahead of the election. The post 1 in 4 Indiana voters say ‘government corruption’ is top concern appeared first on Mirror Indy .
-<sub>Oct 15, 5:30 AM</sub>
+### [Here’s why The Sports Bra Indy hasn’t opened yet](https://mirrorindy.org/new-women-sports-bar-chain-delayed-opening-in-indianapolis/)
+Co-owner Eve Keller said construction and fundraising have caused delays. She’s hopeful the bar will open by the end of 2026. The post Here’s why The Sports Bra Indy hasn’t opened yet appeared first on Mirror Indy .
+<sub>Oct 16, 9:49 AM</sub>
