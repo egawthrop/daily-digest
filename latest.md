@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Friday, October 16, 2026 — generated 10:26 AM EDT_
+_Saturday, October 17, 2026 — generated 9:21 AM EDT_
 
 ## NYT
-### [Avalanche of G.O.P. Cash Keeps the Party Competitive Despite Its Problems](https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html)
-Republican Senate and House candidates are being out-raised by their Democratic rivals, but the party has received a huge boost from groups tied to Elon Musk and President Trump.
-<sub>Oct 16, 5:02 AM</sub>
+### [How Pennsylvania Explains the Forces Shaping the Midterms](https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html)
+Four battleground congressional districts in the state reveal fault lines that are echoing nationwide.
+<sub>Oct 17, 8:33 AM</sub>
 
 ## NPR
-### [Crowds throng New Delhi and wave Indian flags amid escalating protests](https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests)
-Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.
-<sub>Oct 16, 9:26 AM</sub>
+### [Perspective: Midterm money madness](https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness)
+Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.
+<sub>Oct 17, 8:00 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
-EU leaders rally around Ukraine's leader after Donald Trump says he is "more difficult to work with than Putin".
-<sub>Oct 16, 9:25 AM</sub>
+### [Watch: 'Mood has really shifted' as Paris protesters clash with police](https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss)
+The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.
+<sub>Oct 17, 8:14 AM</sub>
 
 ## The Guardian
-### [Fiery speeches, LED hats and infighting: inside an Alberta separatist conference](https://www.theguardian.com/world/2026/oct/16/fiery-speeches-led-hats-and-infighting-inside-an-alberta-separatist-conference)
-WeUnify’s Reclaiming Alberta brought together ardent supporters of independence from Canada while highlighting key disagreements over strategy – not least how close a free Alberta should be to the US The debate began wit…
-<sub>Oct 16, 7:00 AM</sub>
+### [The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood](https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood)
+Unprecedented folly of misjudgment, bad timing and spectacular hubris is predicted to lose $245m. How did this happen? The fanfare at Digger’s world premiere in London four weeks ago was literal. As the Prince and Prince…
+<sub>Oct 17, 4:12 AM</sub>
 
 ## Al Jazeera
-### [Qatar FM calls for Israeli withdrawal from Lebanon](https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss)
-Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.
-<sub>Oct 16, 10:01 AM</sub>
+### [Child, four women among Palestinians injured in West Bank pogroms](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
+Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
+<sub>Oct 17, 8:48 AM</sub>
 
 ## Ars Technica
-### [The Surface Laptop Ultra delivers on most of Microsoft's promises](https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/)
-Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.
-<sub>Oct 16, 8:00 AM</sub>
+### [Science says your boss should talk less in meetings](https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/)
+Research suggests listening more while talking less. Killing aimless meetings can help, too.
+<sub>Oct 17, 7:15 AM</sub>
 
 ## WIRED Backchannel
 ### [cool kids are writing in all lowercase now. does that make you mad?](https://www.wired.com/story/the-case-for-lowercase/)
@@ -41,36 +41,36 @@ a certain kind of person writes in all lowercase now. why?
 <sub>Oct 14, 6:00 AM</sub>
 
 ## WIRED Science
-### [Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat](https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/)
-Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its toll.
-<sub>Oct 16, 5:00 AM</sub>
+### [Microplastics React With Water, a New Study Says. That’s a Problem for Biology](https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/)
+Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.
+<sub>Oct 17, 5:00 AM</sub>
 
 ## WIRED Business
-### [We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView](https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/)
-This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.
-<sub>Oct 15, 5:18 PM</sub>
+### [Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’](https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/)
+MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.
+<sub>Oct 16, 11:00 AM</sub>
 
 ## The New Yorker
-### [Facing the Death Penalty](https://www.newyorker.com/magazine/2026/10/26/facing-the-death-penalty)
-The cases of Christa Pike and Nidal Hasan show how vanishingly fine the line is between a routine execution and an unbearable one.
-<sub>Oct 16, 6:00 AM</sub>
+### [How Trump’s Immigration Crackdown Gave Florida Democrats a Chance](https://www.newyorker.com/news/the-lede/how-trumps-immigration-crackdown-gave-florida-democrats-a-chance)
+A competitive House race in Miami, which leads all American cities in ICE arrests, has revealed how mass deportations have eroded the President’s support among Latinos.
+<sub>Oct 17, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [What We Know About the Oregon School Shooting](http://www.thecut.com/article/bend-oregon-school-shooting-what-we-know.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The 16-year-old suspect was killed by a bystander shortly before police arrived at the scene.
-<sub>Oct 16, 10:02 AM</sub>
+### [An Under-$100 North Face Fleece and 35 More Great Deals](http://www.thecut.com/article/sale-rothys-anthropologie-mini-boden.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Including cozy clogs from Rothy’s, last-minute Halloween costumes, and humidifiers to get your home ready for winter.
+<sub>Oct 16, 7:28 PM</sub>
 
 ## New York Mag Curbed
-### [What Is Murray Hill’s NYQ?](http://www.curbed.com/article/comedian-drag-king-murray-hill-nyq.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-On a scale from the Chrysler Building to the Morgan Library, what is the comedian and drag king’s NYQ?
-<sub>Oct 16, 9:11 AM</sub>
+### [Janis Joplin Slept Here](http://www.curbed.com/article/the-hotel-chelsea-two-ways.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+In facing studios at Hotel Chelsea, a pack rat and fountain-show choreographer lives amid memories of his divas.
+<sub>Oct 17, 7:00 AM</sub>
 
 ## Fox59
-### [Poll: Indiana voters expected to support Bayh or Engling in Sec. of State race](https://fox59.com/indianapolitics/poll-indiana-voters-expected-to-support-bayh-or-engling-in-sec-of-state-race/)
-INDIANAPOLIS -- Voters throughout the state of Indiana said they are more likely to support one of the two major party candidates in November's Secretary of State race. The poll, conducted by Free Press Indiana and Bellw…
-<sub>Oct 16, 6:30 AM</sub>
+### [1 killed in overnight shooting in Danville](https://fox59.com/news/1-killed-in-overnight-shooting-in-danville/)
+DANVILLE, Ind. - An investigation is underway after one person was killed in a shooting in Danville early Saturday morning. According to the Danville Police Department, at around 1:17 a.m., officers responded to the 600…
+<sub>Oct 17, 6:36 AM</sub>
 
 ## Mirror Indy
-### [Here’s why The Sports Bra Indy hasn’t opened yet](https://mirrorindy.org/new-women-sports-bar-chain-delayed-opening-in-indianapolis/)
-Co-owner Eve Keller said construction and fundraising have caused delays. She’s hopeful the bar will open by the end of 2026. The post Here’s why The Sports Bra Indy hasn’t opened yet appeared first on Mirror Indy .
-<sub>Oct 16, 9:49 AM</sub>
+### [Meet the family behind Irvington’s new sewing shop](https://mirrorindy.org/irvington-local-business-fabric-shop-sycamore-sewing-east-side-indianapolis/)
+Sycamore Sewing Co. aims to provide quality fabric at an affordable price The post Meet the family behind Irvington’s new sewing shop appeared first on Mirror Indy .
+<sub>Oct 16, 4:35 PM</sub>
