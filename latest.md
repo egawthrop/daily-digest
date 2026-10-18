@@ -1,34 +1,34 @@
 # The Daily Digest
 
-_Saturday, October 17, 2026 — generated 9:21 AM EDT_
+_Sunday, October 18, 2026 — generated 9:42 AM EDT_
 
 ## NYT
-### [How Pennsylvania Explains the Forces Shaping the Midterms](https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html)
-Four battleground congressional districts in the state reveal fault lines that are echoing nationwide.
-<sub>Oct 17, 8:33 AM</sub>
+### [France in Shock After Protests Devolve Into Riots](https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html)
+Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos.
+<sub>Oct 18, 4:44 AM</sub>
 
 ## NPR
-### [Perspective: Midterm money madness](https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness)
-Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.
-<sub>Oct 17, 8:00 AM</sub>
+### [Pope Leo says he will gradually resume duties after cancer surgery](https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery)
+Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.
+<sub>Oct 18, 8:55 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Watch: 'Mood has really shifted' as Paris protesters clash with police](https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss)
-The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.
-<sub>Oct 17, 8:14 AM</sub>
+### [Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)
+Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
+<sub>Oct 18, 8:07 AM</sub>
 
 ## The Guardian
-### [The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood](https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood)
-Unprecedented folly of misjudgment, bad timing and spectacular hubris is predicted to lose $245m. How did this happen? The fanfare at Digger’s world premiere in London four weeks ago was literal. As the Prince and Prince…
-<sub>Oct 17, 4:12 AM</sub>
+### [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
+Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classm…
+<sub>Oct 18, 5:00 AM</sub>
 
 ## Al Jazeera
-### [Child, four women among Palestinians injured in West Bank pogroms](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
-Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
-<sub>Oct 17, 8:48 AM</sub>
+### [Was ancient India the world’s forgotten superpower?](https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss)
+In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.
+<sub>Oct 18, 9:17 AM</sub>
 
 ## Ars Technica
 ### [Science says your boss should talk less in meetings](https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/)
@@ -41,24 +41,24 @@ a certain kind of person writes in all lowercase now. why?
 <sub>Oct 14, 6:00 AM</sub>
 
 ## WIRED Science
-### [Microplastics React With Water, a New Study Says. That’s a Problem for Biology](https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/)
-Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.
-<sub>Oct 17, 5:00 AM</sub>
+### [Data Centers Have a New PR Plan: Your Kid’s Field Trip](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)
+Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.
+<sub>Oct 18, 6:30 AM</sub>
 
 ## WIRED Business
-### [Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’](https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/)
-MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.
-<sub>Oct 16, 11:00 AM</sub>
+### [Data Centers Have a New PR Plan: Your Kid’s Field Trip](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)
+Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.
+<sub>Oct 18, 6:30 AM</sub>
 
 ## The New Yorker
-### [How Trump’s Immigration Crackdown Gave Florida Democrats a Chance](https://www.newyorker.com/news/the-lede/how-trumps-immigration-crackdown-gave-florida-democrats-a-chance)
-A competitive House race in Miami, which leads all American cities in ICE arrests, has revealed how mass deportations have eroded the President’s support among Latinos.
-<sub>Oct 17, 6:00 AM</sub>
+### [How the D.S.A. Learned to Love Elections](https://www.newyorker.com/magazine/2026/10/26/how-the-dsa-learned-to-love-elections)
+Members of the Democratic Socialists of America believe deeply in the possibility of a class revolution. Meanwhile, they’re running for office—and winning.
+<sub>Oct 18, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [An Under-$100 North Face Fleece and 35 More Great Deals](http://www.thecut.com/article/sale-rothys-anthropologie-mini-boden.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Including cozy clogs from Rothy’s, last-minute Halloween costumes, and humidifiers to get your home ready for winter.
-<sub>Oct 16, 7:28 PM</sub>
+### [Your Weekly Horoscopes by Madame Clairevoyant: October 18–24](http://www.thecut.com/article/weekly-horoscopes-by-madame-clairevoyant-week-of-october-18-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Libra season comes to an end this week as the sun moves into Scorpio on Friday.
+<sub>Oct 18, 5:00 AM</sub>
 
 ## New York Mag Curbed
 ### [Janis Joplin Slept Here](http://www.curbed.com/article/the-hotel-chelsea-two-ways.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
@@ -66,9 +66,9 @@ In facing studios at Hotel Chelsea, a pack rat and fountain-show choreographer l
 <sub>Oct 17, 7:00 AM</sub>
 
 ## Fox59
-### [1 killed in overnight shooting in Danville](https://fox59.com/news/1-killed-in-overnight-shooting-in-danville/)
-DANVILLE, Ind. - An investigation is underway after one person was killed in a shooting in Danville early Saturday morning. According to the Danville Police Department, at around 1:17 a.m., officers responded to the 600…
-<sub>Oct 17, 6:36 AM</sub>
+### [3 injured in shooting on Indy's NW side](https://fox59.com/news/3-injured-in-shooting-on-indys-nw-side/)
+INDIANAPOLIS - An investigation is underway after three people were injured in a shooting on Indy's northwest side Sunday morning. According to the Indianapolis Metropolitan Police Department, just after 2 a.m., officers…
+<sub>Oct 18, 5:53 AM</sub>
 
 ## Mirror Indy
 ### [Meet the family behind Irvington’s new sewing shop](https://mirrorindy.org/irvington-local-business-fabric-shop-sycamore-sewing-east-side-indianapolis/)
