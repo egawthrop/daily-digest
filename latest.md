@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Monday, October 19, 2026 — generated 12:43 PM EDT_
+_Tuesday, October 20, 2026 — generated 10:36 AM EDT_
 
 ## NYT
-### [France Officials Acknowledge ‘Failure’ Around Riots](https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html)
-Prime Minister Sébastien Lecornu defended police efforts and pledged to restore order as government ministers acknowledged failures.
-<sub>Oct 19, 11:29 AM</sub>
+### [Trump’s Push for Deals With Russia Powers His Frustration With Ukraine](https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html)
+The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.
+<sub>Oct 20, 3:19 AM</sub>
 
 ## NPR
-### [Australian prime minister says lawmaker critically injured by car is 'no accident'](https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured)
-A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.
-<sub>Oct 19, 7:38 AM</sub>
+### [DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns](https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok)
+The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.
+<sub>Oct 20, 7:04 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Watch: Are the French riots a warning of an intense election to come?](https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss)
-Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.
-<sub>Oct 19, 9:43 AM</sub>
+### [No 'protective ring' and visiting rules too strict - key points from Covid report on care homes](https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss)
+From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.
+<sub>Oct 20, 8:16 AM</sub>
 
 ## The Guardian
-### [Can countries deliver on a deal to save the world’s plants and animals?](https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals)
-Four years ago nearly every government on Earth agreed to protect nature. Now, as countries gather for Cop17, the pressure is on to follow through on those commitments Cop17 at a glance: everything you need to know about…
-<sub>Oct 19, 6:16 AM</sub>
+### [‘Gay men keep my ego going – they message me all the time!’ Ed Gamble on Traitors, true love, weight loss and people-pleasing](https://www.theguardian.com/lifeandstyle/2026/oct/20/ed-gamble-celebrity-traitors-uncloaked-love-weight-loss-people-pleasing)
+As a Traitors obsessive, Gamble is in his element hosting its hugely popular companion show, Uncloaked. He discusses keeping the show’s secrets, edgelord comics and how he became known as a ‘mega wife guy’ Ed Gamble does…
+<sub>Oct 20, 12:00 AM</sub>
 
 ## Al Jazeera
-### [Iran War backlash threatens Republican control of Congress](https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss)
-Public opposition to the Iran War could threaten Republican control of Congress, as economic fallout fuels voter anger.
-<sub>Oct 19, 12:24 PM</sub>
+### [Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?](https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss)
+The UK's new prime minister has made big promises and is a popular leader, but there is still talk of an early election.
+<sub>Oct 20, 10:00 AM</sub>
 
 ## Ars Technica
-### [Huge DMV data breach impacted current and former Florida residents](https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/)
-Florida issues alerts after statewide DMV data breach linked to ShinyHunters.
-<sub>Oct 19, 12:38 PM</sub>
+### [Meta Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
+A single query is all that's required to find thousands of conversations listed by title.
+<sub>Oct 20, 8:33 AM</sub>
 
 ## WIRED Backchannel
-### [Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’](https://www.wired.com/story/nathan-fielder-tells-us-everything/)
-The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.
-<sub>Oct 19, 7:30 AM</sub>
+### [Sexual Assault Is a Free Speech Issue](https://www.wired.com/story/the-big-interview-mary-anne-franks/)
+Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”
+<sub>Oct 20, 6:30 AM</sub>
 
 ## WIRED Science
-### [How Elizabeth Holmes Tricked WIRED—and Everyone Else](https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else/)
-WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.
-<sub>Oct 19, 6:00 AM</sub>
+### [The Physics Behind Tesla’s Flying Roadster](https://www.wired.com/story/physics-behind-tesla-flying-roadster/)
+To understand how Elon’s new car hops, glides, and sticks upside down, we need to talk about friction and force.
+<sub>Oct 20, 6:45 AM</sub>
 
 ## WIRED Business
-### [The Story of Billy Evans and ‘Theranos 2.0’](https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/)
-Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?
-<sub>Oct 19, 6:00 AM</sub>
+### [OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody](https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/)
+A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”
+<sub>Oct 19, 3:49 PM</sub>
 
 ## The New Yorker
-### [The New Age of Reading](https://www.newyorker.com/magazine/2026/10/26/james-daunt-profile)
-Alarm about declining interest in books is perpetual. But, as bookselling reaches unexpected heights, James Daunt, the chief executive of Barnes & Noble, thinks a different future is at hand.
-<sub>Oct 19, 6:00 AM</sub>
+### [“An Unprecedented Case of Child Abuse”](https://www.newyorker.com/news/the-lede/an-unprecedented-case-of-child-abuse)
+In an L.A. criminal court, new details emerge about the mysterious couple who collected more than twenty babies through surrogacy.
+<sub>Oct 20, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [The Beauty Products Celebrity Aesthetician Andrea Ámez Uses to the Last Drop](http://www.thecut.com/article/andrea-amez-skin-care-routine-best-beauty-products.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-She adores Cetaphil cleanser, Osmosis serum, and Santa Maria Novella bodywash.
-<sub>Oct 19, 8:00 AM</sub>
+### [Madewell Has Teamed Up With The New York Public Library](http://www.thecut.com/article/madewell-new-york-public-library-collection.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The denim brand’s new collaboration with the New York Public Library draws on the library’s archives.
+<sub>Oct 20, 8:30 AM</sub>
 
 ## New York Mag Curbed
-### [A Greenwood Heights Duplex With a Backyard and Skylight for $950,000](http://www.curbed.com/article/nyc-apartments-under-a-million-greenwich-village-greenwood-heights-carnegie-hill-clinton-hill.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-And a one-bedroom with triple exposures and church views on lower Fifth Avenue.
-<sub>Oct 19, 8:00 AM</sub>
+### [The Perfectly Imperfect Vessels of Madeline Coven](http://www.curbed.com/article/studio-visit-madeline-coven-vessels-cowhides-galerie-was.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The Bushwick-based designer uses animal hides sourced from her hometown of Albuquerque to experiment with form and light.
+<sub>Oct 19, 5:06 PM</sub>
 
 ## Fox59
-### [Chris Ballard out as Colts general manager](https://fox59.com/sports/colts/chris-ballard-out-as-colts-general-manager/)
-INDIANAPOLIS – The tenure of Colts general manager Chris Ballard reached its end. He was fired Monday morning by principal owner Carlie Irsay-Gordon. The status of Ballard had been in serious question as the Colts’ playo…
-<sub>Oct 19, 9:38 AM</sub>
+### [IMPD: 27-year-old arrested following homicide on NE side of Indianapolis](https://fox59.com/news/indycrime/impd-27-year-old-arrested-following-homicide-on-ne-side-of-indianapolis/)
+INDIANAPOLIS -- A 27-year-old man has been arrested in relation to a reported homicide on the northeast side of Indianapolis earlier this month. According to officials with the Indianapolis Metropolitan Police Department…
+<sub>Oct 20, 8:44 AM</sub>
 
 ## Mirror Indy
-### [“There’s room for everyone in the clown car”](https://mirrorindy.org/clowns-drag-performance-indianapolis-kinker-local-circus-culture/)
-Indy’s drag performers see clowning as a way to find acceptance and reclaim their childhood. The post “There’s room for everyone in the clown car” appeared first on Mirror Indy .
-<sub>Oct 19, 9:00 AM</sub>
+### [Shop from Black-owned businesses at this free festival](https://mirrorindy.org/free-hbcu-homecoming-black-owned-business-festival-warren-central-high-school/)
+Daptoberfest will feature music, food and art from over 150 Black-owned businesses at Warren Central High School Oct. 24. The post Shop from Black-owned businesses at this free festival appeared first on Mirror Indy .
+<sub>Oct 20, 9:55 AM</sub>
