@@ -1,34 +1,34 @@
 # The Daily Digest
 
-_Saturday, October 24, 2026 — generated 9:44 AM EDT_
+_Sunday, October 25, 2026 — generated 10:03 AM EDT_
 
 ## NYT
-### [How Trump Gave the Worst Polluters a Free Pass](https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html)
-The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.
-<sub>Oct 24, 8:28 AM</sub>
+### [A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War](https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html)
+With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.
+<sub>Oct 25, 9:38 AM</sub>
 
 ## NPR
-### [Perspective: The next James Bond](https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond)
-A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?
-<sub>Oct 24, 8:00 AM</sub>
+### [The College of Magic turns ordinary kids into confident, top-hat wearing magicians](https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students)
+The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.
+<sub>Oct 25, 7:24 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Met Police says letter with claims about Meghan's father not shared with other law enforcement](https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss)
-The Met said it passed information to the duchess but did not share it with other law enforcement agencies.
-<sub>Oct 24, 8:59 AM</sub>
+### [Musk says SpaceX restricted Ukraine's Starlink connection as service restored](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss)
+The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.
+<sub>Oct 25, 5:00 AM</sub>
 
 ## The Guardian
-### [As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?](https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu)
-The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election They chant his name, they cheer and clap – and yet he is…
-<sub>Oct 24, 1:00 AM</sub>
+### [This comedian jokes about deportation from Ireland … but it is happening for real](https://www.theguardian.com/world/ng-interactive/2026/oct/25/comedy-routine-deportation-ireland-woman-)
+Despite job offers, Jaishree Malik has had visa renewal and extension requests delayed and denied, and she is not alone Jaishree Malik bounds on to the Cheeky Monkey comedy club stage and brandishes an envelope – it is a…
+<sub>Oct 25, 8:00 AM</sub>
 
 ## Al Jazeera
-### [FIFA’s Infantino touts global re-election support amid resignation questions](https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss)
-Support from Asian federation bolsters FIFA's Gianni Infantino as he seeks re-election as president for a fourth term.
-<sub>Oct 24, 9:12 AM</sub>
+### [Saudi air defences intercept Houthi barrage near Mecca](https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss)
+Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz.
+<sub>Oct 25, 9:49 AM</sub>
 
 ## Ars Technica
 ### [A 1,000-mile cloud on Mars may reveal physics never seen in nature](https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/)
@@ -41,24 +41,24 @@ To escape the chaos of her Russian childhood, Lili Infante became an American la
 <sub>Oct 21, 6:00 AM</sub>
 
 ## WIRED Science
-### [New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent](https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/)
-The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.
-<sub>Oct 24, 7:30 AM</sub>
+### [Scientists Trapped an Antimatter Particle for Months to Study Its Secrets](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/)
+These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.
+<sub>Oct 25, 8:00 AM</sub>
 
 ## WIRED Business
-### [How Many Billions Would It Take to Hold Meta Accountable?](https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/)
-Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.
-<sub>Oct 23, 11:00 AM</sub>
+### [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
+Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.
+<sub>Oct 25, 6:00 AM</sub>
 
 ## The New Yorker
-### [The Great Schlep](https://www.newyorker.com/news/the-lede/the-great-schlep)
-Tens of thousands of Israelis living abroad are flying back to cast votes in what many describe as the most pivotal election in the country’s history.
-<sub>Oct 24, 6:00 AM</sub>
+### [The State Officials Defending the Midterms from the President](https://www.newyorker.com/magazine/2026/11/02/the-state-officials-defending-the-midterms-from-the-president)
+Donald Trump has tried to purge voter rolls nationwide. Deidre Henderson, the Republican lieutenant governor of Utah, is among the chief election officers standing in his way.
+<sub>Oct 25, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [What Dua Lipa, JT, and Alexa Demie Wore This Week](http://www.thecut.com/article/what-dua-lipa-jt-and-alexa-demie-wore-this-week.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-In a month packed with movie premieres, galas, and random anniversaries, our favorite celebrities had countless avenues to show off a ‘fit.
-<sub>Oct 23, 7:57 PM</sub>
+### [Madame Clairevoyant: Horoscopes for the Week of October 25-31](http://www.thecut.com/article/weekly-horoscope-madame-clairevoyant-week-october-25-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+For this week, and the remaining weeks of Venus retrograde, take time to reflect on where your relationships have felt unfair.
+<sub>Oct 25, 5:00 AM</sub>
 
 ## New York Mag Curbed
 ### [Everyone Knew About the A-Team](http://www.curbed.com/article/oren-alexander-tal-alexander-brothers-luxury-real-estate.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
@@ -66,9 +66,9 @@ How did the Alexander brothers become real-estate elites while allegedly raping 
 <sub>Oct 24, 8:00 AM</sub>
 
 ## Fox59
-### [1 critically injured in northeast side shooting](https://fox59.com/news/1-critically-injured-in-north-side-shooting/)
-INDIANAPOLIS - An investigation is underway after a person was critically injured in a shooting on Indy's northeast side Saturday morning. According to the Indianapolis Metropolitan Police Department, just before 4 a.m.,…
-<sub>Oct 24, 5:58 AM</sub>
+### [5 injured after fight, gunfire ring out in Muncie parking lot](https://fox59.com/news/5-injured-after-fight-gunfire-ring-out-in-muncie-parking-lot/)
+MUNCIE, Ind. - An investigation is underway after five people were injured in a shooting in Muncie early Sunday morning. According to the Muncie Police Department, at about 1:42 a.m., officers were called to the 2100 blo…
+<sub>Oct 25, 9:30 AM</sub>
 
 ## Mirror Indy
 ### [Help find the missing librarian at ‘Library of Legends’](https://mirrorindy.org/backlot-irvington-halloween-festival/)
