@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Monday, October 26, 2026 — generated 12:24 PM EDT_
+_Tuesday, October 27, 2026 — generated 11:39 AM EDT_
 
 ## NYT
-### [Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html)
-The maker of Claude is on the verge of what could be the largest ever public listing, in a test of the A.I. industry amid questions about whether the boom can be sustained.
-<sub>Oct 26, 11:02 AM</sub>
+### [Election Officials Fear Trump Administration’s Interference in Midterms Voting](https://www.nytimes.com/2026/10/27/us/election-interference-trump-midterms.html)
+State and local plans for Election Day include how to react to potential ICE raids, misbehavior by federal election monitors and attempts to seize votes or machines.
+<sub>Oct 27, 10:38 AM</sub>
 
 ## NPR
-### [AI giant Anthropic files for an IPO that could break records](https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records)
-The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever.
-<sub>Oct 26, 10:16 AM</sub>
+### [Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede](https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump)
+Brazil's opposition party accepts Lula's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote "rigged" without offering evidence.
+<sub>Oct 27, 10:41 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Independent review announced into murder of student Henry Nowak](https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss)
-"We must get to truth of what happened before, during and after that awful night," the home secretary says while announcing the review.
-<sub>Oct 26, 12:15 PM</sub>
+### [Minimum wage set to rise but 18-20 year-olds will not get bigger increase](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
+Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
+<sub>Oct 27, 11:01 AM</sub>
 
 ## The Guardian
-### [Lula miraculously beat the Brazilian far right and Donald Trump. But have no doubt: the region is still in peril | Jordana Timmerman](https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election)
-After the rejoicing, it will be vital to learn the lessons. The rightward shift is neither inevitable nor irreversible, but progressives cannot rest for a moment The impossible happened. President Luiz Inácio Lula da Sil…
-<sub>Oct 26, 11:11 AM</sub>
+### [Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic](https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan)
+It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’t Think back. Do you remember when Elon M…
+<sub>Oct 27, 9:01 AM</sub>
 
 ## Al Jazeera
-### [Jerusalem Daily: Last minute efforts by Israeli politicians before election](https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss)
-Israelis are about to vote in one of the most decisive elections in the country’s history.
-<sub>Oct 26, 12:12 PM</sub>
+### [Israel election turnout highest in 50 years as voting continues](https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss)
+Almost 45 percent of Israeli voters had cast their ballots by mid-afternoon.
+<sub>Oct 27, 11:20 AM</sub>
 
 ## Ars Technica
-### [F1 in Texas: The American race that fans love to attend](https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/)
-Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.
-<sub>Oct 26, 10:48 AM</sub>
+### [Apple iPhone Duo review: Two screens, two experiences, two thousand dollars](https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/)
+I respect Apple's first crack at a foldable phone, but I'm not sure I like it.
+<sub>Oct 27, 10:20 AM</sub>
 
 ## WIRED Backchannel
-### [WIRED Ghost Stories](https://www.wired.com/ghost-stories/)
-Five hauntings from the other side of technology.
-<sub>Oct 26, 10:00 AM</sub>
+### [UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court](https://www.wired.com/story/the-big-interview-podcast-jess-asato/)
+Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.
+<sub>Oct 27, 9:29 AM</sub>
 
 ## WIRED Science
-### [Scientists Trapped an Antimatter Particle for Months to Study Its Secrets](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/)
-These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.
-<sub>Oct 25, 8:00 AM</sub>
+### [NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How](https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/)
+Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.
+<sub>Oct 27, 6:45 AM</sub>
 
 ## WIRED Business
-### [The Anthropic IPO Is Also a Doomsday Primer](https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/)
-Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.
-<sub>Oct 26, 12:01 PM</sub>
+### [AI Agents Are Media’s New Favorite Audience](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/)
+As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.
+<sub>Oct 27, 7:00 AM</sub>
 
 ## The New Yorker
-### [Did an Alternative-Medicine Guru Accidentally Kill Patients?](https://www.newyorker.com/magazine/2026/11/02/did-an-alternative-medicine-guru-accidentally-kill-patients)
-In Switzerland, Thomas Rau offers treatments that many conventional doctors would question. Now he’s accused of lethally negligent care.
-<sub>Oct 26, 6:00 AM</sub>
+### [Can Democrats Win Back Labor?](https://www.newyorker.com/news/the-lede/can-democrats-win-back-labor)
+Two years ago, Sherrod Brown, who built his career as an avatar of blue-collar frustration, lost his Senate seat in Ohio as working-class voters defected to Trump. Now he and his party are looking to make up lost ground.
+<sub>Oct 27, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Is Tom Brady Dating Another Victoria’s Secret Angel?](http://www.thecut.com/article/is-tom-brady-dating-candice-swanepoel.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The man has a type.
-<sub>Oct 26, 9:29 AM</sub>
+### [Will Jay-Z Give Us a Beyoncé Super Bowl Cameo or What?](http://www.thecut.com/article/jay-z-super-bowl-halftime-show-beyonce.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The upside of choosing yourself to perform at halftime is you get to invite your wife.
+<sub>Oct 27, 9:27 AM</sub>
 
 ## New York Mag Curbed
-### [A One-Bedroom in Park Slope With a Nice-Size Kitchen for $765,000](http://www.curbed.com/article/nyc-apartments-under-a-million-park-slope-upper-west-side-jackson-heights-west-village.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-And a very modern studio on Horatio Street with a wood-burning fireplace.
-<sub>Oct 26, 8:00 AM</sub>
+### [Chinatown Residents Sue to Stop Manhattan Jail’s Late-Night Construction](http://www.curbed.com/article/manhattan-jail-rikers-chinatown-lawsuit.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+A Manhattan judge issued a surprisingly quick ruling that temporarily halts work after 6 p.m.
+<sub>Oct 27, 9:30 AM</sub>
 
 ## Fox59
-### [Woman hurt after shot fired into south side apartment](https://fox59.com/news/indycrime/woman-hurt-after-shot-fired-into-south-side-apartment/)
-INDIANAPOLIS – A woman was injured after someone fired into an apartment on the south side. According to the Indianapolis Metropolitan Police Department, it happened just after 2:20 a.m. Monday in the 2300 block of Green…
-<sub>Oct 26, 5:27 AM</sub>
+### [Woman critically injured in near north side shooting](https://fox59.com/news/indycrime/woman-critically-injured-in-downtown-shooting/)
+INDIANAPOLIS -- A woman was critically hurt in an early Tuesday morning shooting on the near north side. According to the Indianapolis Metro Police Department, officers responded around 1 a.m. to a report of a person sho…
+<sub>Oct 27, 2:06 AM</sub>
 
 ## Mirror Indy
-### [There’s tons of events at Spirit & Place. Don’t miss these 7.](https://mirrorindy.org/spirit-and-place-festival-november-events/)
-Make art with your kids, learn some Naptown history and sing with friends. The post There’s tons of events at Spirit & Place. Don’t miss these 7. appeared first on Mirror Indy .
-<sub>Oct 26, 10:20 AM</sub>
+### [Learn how to protect your family’s home at free event](https://mirrorindy.org/west-indianapolis-development-corp-homes-event-cover-heirs-property/)
+The community conversation will be about heirs’ property. The post Learn how to protect your family’s home at free event appeared first on Mirror Indy .
+<sub>Oct 27, 11:10 AM</sub>
