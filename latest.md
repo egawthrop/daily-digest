@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Wednesday, October 28, 2026 — generated 12:22 PM EDT_
+_Thursday, October 29, 2026 — generated 12:31 PM EDT_
 
 ## NYT
-### [Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan](https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html)
-Operatives aligned with Mary Peltola, the Democratic nominee for Senate, spent months recruiting candidates to peel votes from Senator Dan Sullivan, the Republican.
-<sub>Oct 28, 10:37 AM</sub>
+### [Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html)
+A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.
+<sub>Oct 29, 5:01 AM</sub>
 
 ## NPR
-### [Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96](https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies)
-Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase "Sí, se puede!" that became a widespread rallying cry.
-<sub>Oct 28, 12:10 PM</sub>
+### [US and Japan agree to establish a Japanese facility for joint missile production](https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production)
+The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.
+<sub>Oct 29, 11:58 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Key points at a glance](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
-Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.
-<sub>Oct 28, 11:37 AM</sub>
+### [Burnham says he wants to cut welfare bill 'as soon as we possibly can'](https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss)
+Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.
+<sub>Oct 29, 11:42 AM</sub>
 
 ## The Guardian
-### [‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity](https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity)
-The author believes we are at a turning point as a species – and even in the shadow of big tech it’s up to us how we want to proceed ‘I am a storyteller by trade,” writes Jeanette Winterson on the first page of her 2021…
-<sub>Oct 28, 6:00 AM</sub>
+### [Flávio Bolsonaro’s defeat is a major blow to Trump and his orange wave](https://www.theguardian.com/world/2026/oct/29/bolsonaro-defeat-trump-orange-wave)
+The far-right candidate was supposed to claim the presidency, but Brazilian voters had other ideas For Donald Trump , Brazil’s presidential election was meant to represent the crest of the “orange wave” – a three-year su…
+<sub>Oct 29, 6:00 AM</sub>
 
 ## Al Jazeera
-### [US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric](https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss)
-US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
-<sub>Oct 28, 11:40 AM</sub>
+### [Israel’s anti-Qatar campaign bleeds into elections](https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss)
+Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.
+<sub>Oct 29, 11:35 AM</sub>
 
 ## Ars Technica
-### [A hidden ocean change near Antarctica could have global consequences](https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/)
-Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.
-<sub>Oct 28, 9:38 AM</sub>
+### [Massive leak exposes 41,000 DHS workers and undercover ICE agents](https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/)
+The leak reveals undercover agents, surveillance groups, and sensitive DHS access.
+<sub>Oct 29, 8:58 AM</sub>
 
 ## WIRED Backchannel
-### [Please Let the Internet Die](https://www.wired.com/story/let-the-internet-die/)
-Online spaces are captured by oligarchs and saturated with slop—and they’re exacerbating humanity’s worst impulses. It’s time to start over.
-<sub>Oct 28, 6:00 AM</sub>
+### [I Gave My Blood to the AI Death Clock](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/)
+Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.
+<sub>Oct 29, 6:00 AM</sub>
 
 ## WIRED Science
-### [AI Emergency Alerts Are Coming. Humans Might Not Be Ready](https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/)
-Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.
-<sub>Oct 28, 4:30 AM</sub>
+### [An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
+Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.
+<sub>Oct 29, 6:45 AM</sub>
 
 ## WIRED Business
-### [Should AI Decide Your Court Case? This Judge Says Yes](https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/)
-One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.
-<sub>Oct 28, 2:00 AM</sub>
+### [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/)
+A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.
+<sub>Oct 29, 11:00 AM</sub>
 
 ## The New Yorker
-### [Can Democrats Win Back Labor?](https://www.newyorker.com/news/the-lede/can-democrats-win-back-labor)
-Two years ago, Sherrod Brown, who built his career as an avatar of blue-collar frustration, lost his Senate seat in Ohio as working-class voters defected to Trump. Now he and his party are looking to make up lost ground.
-<sub>Oct 27, 6:00 AM</sub>
+### [How a Kansas Megachurch Pastor Might Determine Who Wins the Senate](https://www.newyorker.com/news/the-lede/how-a-kansas-megachurch-pastor-might-determine-who-wins-the-senate)
+Adam Hamilton’s campaign tests whether Democrats can find religion.
+<sub>Oct 29, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Unpacking the Gosselin Family Abuse Allegations](http://www.thecut.com/article/unpacking-collin-gosselins-abuse-allegations-against-kate.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Collin Gosselin’s new memoir brings nearly two decades of tension back into the spotlight.
-<sub>Oct 27, 5:23 PM</sub>
+### [Paris Hilton Defended Her Beauty and the Beast Costume](http://www.thecut.com/article/paris-hilton-defended-beauty-and-the-beast-halloween-costume.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Her daughter didn’t even want to be dressed as Belle, okay?
+<sub>Oct 29, 9:50 AM</sub>
 
 ## New York Mag Curbed
-### [New Yorkers Now Have a Place to Elope, Vegas Style](http://www.curbed.com/article/las-vegas-wedding-chapel-sure-thing-lower-east-side-opening.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The ceiling is shiny, the organ is pink, and the officiants have included a goth Elvis and John Waters.
-<sub>Oct 27, 5:26 PM</sub>
+### [The Latest Status Marker Is a 4-Bedroom Apartment](http://www.curbed.com/article/four-bedroom-new-development-condos-wealth-gap.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+And new luxury condos are loaded with them.
+<sub>Oct 28, 1:18 PM</sub>
 
 ## Fox59
-### [IMPD homicide detectives investigating fatal shooting initially reported as suicide](https://fox59.com/news/indycrime/impd-homicide-detectives-investigating-fatal-shooting-initially-reported-as-suicide/)
-INDIANAPOLIS -- Officials with the Indianapolis Metropolitan Police Department said a Tuesday morning shooting on the northeast side of Indianapolis that was initially believed to be a suicide is now being investigated a…
-<sub>Oct 28, 11:10 AM</sub>
+### [Man in serious condition after near east side shooting, reported burglary](https://fox59.com/news/indycrime/man-in-serious-condition-after-near-east-side-shooting-reported-burglary/)
+INDIANAPOLIS – A man was seriously hurt in a shooting on the near east side of Indianapolis. According to the Indianapolis Metropolitan Police Department, officers received a call about a suspicious person on South Oakla…
+<sub>Oct 29, 5:12 AM</sub>
 
 ## Mirror Indy
-### [Inside Indy’s haunted hotspots](https://mirrorindy.org/indianapolis-haunted-hotspots-ghosts-halloween-paranormal-ims-statehouse-speedway/)
-Learn about racetrack ghosts, southside poltergeists and Statehouse specters. The post Inside Indy’s haunted hotspots appeared first on Mirror Indy .
-<sub>Oct 28, 5:00 AM</sub>
+### [Eastsiders can learn more about Warren Central at upcoming open house](https://mirrorindy.org/warren-cental-high-school-indianapolis-eastside-open-house-fall-2026/)
+Middle schoolers can meet teachers, tour classrooms and visit athletic facilities. The post Eastsiders can learn more about Warren Central at upcoming open house appeared first on Mirror Indy .
+<sub>Oct 29, 5:00 AM</sub>
