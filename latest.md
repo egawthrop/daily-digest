@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Thursday, October 29, 2026 — generated 12:31 PM EDT_
+_Friday, October 30, 2026 — generated 12:24 PM EDT_
 
 ## NYT
-### [Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html)
-A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.
-<sub>Oct 29, 5:01 AM</sub>
+### [Tech Stocks Tumble, but Broader Market Is Holding On](https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html)
+The S&P 500 is set for a small loss for the month, despite a deeper slide in some of the A.I. stocks that exert a heavy influence on the index.
+<sub>Oct 30, 11:53 AM</sub>
 
 ## NPR
-### [US and Japan agree to establish a Japanese facility for joint missile production](https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production)
-The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.
-<sub>Oct 29, 11:58 AM</sub>
+### [NPR special: 5 takeaways from a year of listening to swing voters](https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups)
+Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.
+<sub>Oct 30, 11:00 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Burnham says he wants to cut welfare bill 'as soon as we possibly can'](https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss)
-Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.
-<sub>Oct 29, 11:42 AM</sub>
+### [What we know about Binance's $6.3bn hack](https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss)
+Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.
+<sub>Oct 30, 8:27 AM</sub>
 
 ## The Guardian
-### [Flávio Bolsonaro’s defeat is a major blow to Trump and his orange wave](https://www.theguardian.com/world/2026/oct/29/bolsonaro-defeat-trump-orange-wave)
-The far-right candidate was supposed to claim the presidency, but Brazilian voters had other ideas For Donald Trump , Brazil’s presidential election was meant to represent the crest of the “orange wave” – a three-year su…
-<sub>Oct 29, 6:00 AM</sub>
+### [Reader Q&A: How can we radically change the way we live? Ask Aditya Chakrabortty](https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions)
+Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty is answering your questions on the big ideas around economics, society and democracy, and his new podcast…
+<sub>Oct 30, 12:04 PM</sub>
 
 ## Al Jazeera
-### [Israel’s anti-Qatar campaign bleeds into elections](https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss)
-Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.
-<sub>Oct 29, 11:35 AM</sub>
+### [Jerusalem Daily: Israel’s siege on Hebron displaces thousands](https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss)
+Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.
+<sub>Oct 30, 11:50 AM</sub>
 
 ## Ars Technica
-### [Massive leak exposes 41,000 DHS workers and undercover ICE agents](https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/)
-The leak reveals undercover agents, surveillance groups, and sensitive DHS access.
-<sub>Oct 29, 8:58 AM</sub>
+### [GM to pay $220 million after selling customer Smart Driver data](https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/)
+Owners of GM cars found their driving data had been sold to insurance companies.
+<sub>Oct 30, 9:53 AM</sub>
 
 ## WIRED Backchannel
 ### [I Gave My Blood to the AI Death Clock](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/)
@@ -41,36 +41,36 @@ Death Clock promises to predict when you’re going to die and help you extend y
 <sub>Oct 29, 6:00 AM</sub>
 
 ## WIRED Science
-### [An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
-Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.
-<sub>Oct 29, 6:45 AM</sub>
+### [Crematoria Are Being Used to Heat Homes and Swimming Pools](https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/)
+European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.
+<sub>Oct 30, 6:00 AM</sub>
 
 ## WIRED Business
-### [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/)
-A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.
-<sub>Oct 29, 11:00 AM</sub>
+### [I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job](https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/)
+Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.
+<sub>Oct 30, 11:00 AM</sub>
 
 ## The New Yorker
-### [How a Kansas Megachurch Pastor Might Determine Who Wins the Senate](https://www.newyorker.com/news/the-lede/how-a-kansas-megachurch-pastor-might-determine-who-wins-the-senate)
-Adam Hamilton’s campaign tests whether Democrats can find religion.
-<sub>Oct 29, 6:00 AM</sub>
+### [The Real Stakes of the Ilhan Omar Case](https://www.newyorker.com/news/the-lede/the-real-stakes-of-the-ilhan-omar-case)
+In seeking to revoke the citizenship of a sitting congresswoman, the Trump Administration has sent a chilling message about dissent, loyalty, and who gets to be an American.
+<sub>Oct 30, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Paris Hilton Defended Her Beauty and the Beast Costume](http://www.thecut.com/article/paris-hilton-defended-beauty-and-the-beast-halloween-costume.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Her daughter didn’t even want to be dressed as Belle, okay?
-<sub>Oct 29, 9:50 AM</sub>
+### [‘I Am a Bad Roommate’](http://www.thecut.com/article/i-am-a-bad-roommate.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+How the housemates from hell justify their crimes against communal living.
+<sub>Oct 30, 8:00 AM</sub>
 
 ## New York Mag Curbed
-### [The Latest Status Marker Is a 4-Bedroom Apartment](http://www.curbed.com/article/four-bedroom-new-development-condos-wealth-gap.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-And new luxury condos are loaded with them.
-<sub>Oct 28, 1:18 PM</sub>
+### [What Is John Turturro’s NYQ?](http://www.curbed.com/article/john-turturro-nyq.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+On a scale from a pocket park to The Only Living Pickpocket in New York, where does the Severance actor fit?
+<sub>Oct 30, 9:42 AM</sub>
 
 ## Fox59
-### [Man in serious condition after near east side shooting, reported burglary](https://fox59.com/news/indycrime/man-in-serious-condition-after-near-east-side-shooting-reported-burglary/)
-INDIANAPOLIS – A man was seriously hurt in a shooting on the near east side of Indianapolis. According to the Indianapolis Metropolitan Police Department, officers received a call about a suspicious person on South Oakla…
-<sub>Oct 29, 5:12 AM</sub>
+### [IMPD: Man killed in shooting on northeast side](https://fox59.com/news/indycrime/impd-man-killed-during-domestic-violence-incident/)
+INDIANAPOLIS – A man died following an early Friday morning shooting on the northeast side. According to the Indianapolis Metropolitan Police Department, officers were dispatched around 2:20 a.m. Friday to Ellis and Shad…
+<sub>Oct 30, 5:00 AM</sub>
 
 ## Mirror Indy
-### [Eastsiders can learn more about Warren Central at upcoming open house](https://mirrorindy.org/warren-cental-high-school-indianapolis-eastside-open-house-fall-2026/)
-Middle schoolers can meet teachers, tour classrooms and visit athletic facilities. The post Eastsiders can learn more about Warren Central at upcoming open house appeared first on Mirror Indy .
-<sub>Oct 29, 5:00 AM</sub>
+### [Leaf pickup starts in Indy Nov. 9. What you need to know.](https://mirrorindy.org/indianapolis-leaf-collection-2026-yard-waste/)
+You can set out up to 40 plastic bags of leaves each week, on your regular trash day. The post Leaf pickup starts in Indy Nov. 9. What you need to know. appeared first on Mirror Indy .
+<sub>Oct 30, 11:06 AM</sub>
