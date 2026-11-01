@@ -1,34 +1,34 @@
 # The Daily Digest
 
-_Saturday, October 31, 2026 — generated 11:35 AM EDT_
+_Sunday, November 1, 2026 — generated 11:33 AM EST_
 
 ## NYT
-### [How Trump Is Dismantling America’s Scientific Research Machine](https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html)
-The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.
-<sub>Oct 31, 10:58 AM</sub>
+### [A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End](https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html)
+Across the country, many voters have drawn a straight line between President Trump’s policies and inflation.
+<sub>Nov 1, 5:02 AM</sub>
 
 ## NPR
-### [Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate](https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate)
-The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.
-<sub>Oct 31, 9:50 AM</sub>
+### [Living with high prices in Virginia's 1st Congressional District](https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district)
+High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.
+<sub>Nov 1, 8:00 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Burnham 'open' to calls for slavery apology but not reparations](https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss)
-The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.
-<sub>Oct 31, 9:28 AM</sub>
+### [Shops looted as German cost-of-living protests turn violent](https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss)
+The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
+<sub>Nov 1, 6:57 AM</sub>
 
 ## The Guardian
-### [Día de los Muertos celebrations rise from the dead as ICE arrests continue: ‘It’s important to bring joy in dark times’](https://www.theguardian.com/us-news/2026/oct/31/dia-de-los-muertos-ice-arrests)
-After canceling events in 2025, US cities including Henderson, Kentucky, are reviving public Day of the Dead events Julia, a 19-year-old born in the US, and her parents, undocumented immigrants from Mexico, enjoyed atten…
-<sub>Oct 31, 8:00 AM</sub>
+### [Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?](https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave)
+Donald Trump uttered five words this summer that could seal the Republican party’s fate: ‘Pretend I’m on the ticket’ He spoke admiringly of a senator’s posterior. He baselessly accused a Muslim candidate of being a terro…
+<sub>Nov 1, 1:00 AM</sub>
 
 ## Al Jazeera
-### [Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks](https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss)
-Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’.
-<sub>Oct 31, 10:31 AM</sub>
+### [Trump slams ex-lawyer’s $50m deal with pardoned banker’s family](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
+Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
+<sub>Nov 1, 10:50 AM</sub>
 
 ## Ars Technica
 ### [Seabirds racing home over the ocean can get jet-lagged](https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/)
@@ -41,9 +41,9 @@ Death Clock promises to predict when you’re going to die and help you extend y
 <sub>Oct 29, 6:00 AM</sub>
 
 ## WIRED Science
-### [An AI Agent Injected Drugs Into a Live Mouse’s Brain](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/)
-A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.
-<sub>Oct 31, 6:00 AM</sub>
+### [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
+Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.
+<sub>Nov 1, 5:30 AM</sub>
 
 ## WIRED Business
 ### [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)
@@ -51,14 +51,14 @@ Companies have spent the past several weeks trying to reassure investors that Mu
 <sub>Oct 31, 6:30 AM</sub>
 
 ## The New Yorker
-### [Inside India’s Cockroach Protests](https://www.newyorker.com/news/the-lede/inside-indias-cockroach-protests)
-The youth movement that has roiled the country prepares its next move.
-<sub>Oct 31, 6:00 AM</sub>
+### [Corruption on the Ballot](https://www.newyorker.com/magazine/2026/11/09/corruption-on-the-ballot)
+Corruption is always an issue, but this year will it finally catapult from a topic of chronic bellyaching to an actual mechanism for changing votes?
+<sub>Nov 1, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [The ‘Sex Diaries’ That Brought Roommates Into the Mix](http://www.thecut.com/article/the-best-sex-diaries-about-roommates.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-A look back at the anonymous diarists who mixed pleasure with cohabitation, for better and for worse.
-<sub>Oct 31, 7:00 AM</sub>
+### [Your Weekly Horoscopes by Madame Clairevoyant: November 1-7](http://www.thecut.com/article/weekly-horoscope-madame-clairevoyant-week-of-november-1-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Expect a few roadblocks this week, but trust you’ll be able to navigate them.
+<sub>Nov 1, 5:00 AM</sub>
 
 ## New York Mag Curbed
 ### [Where Gothic Revival Meets Grown-up Eloise](http://www.curbed.com/article/nina-johnson-adam-charlap-hyman-tudor-city.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
@@ -66,9 +66,9 @@ Nina Johnson’s Tudor City home by Adam Charlap Hyman is a cloud of gray with a
 <sub>Oct 31, 7:00 AM</sub>
 
 ## Fox59
-### [Report: Colts open to trading RB Jonathan Taylor](https://fox59.com/news/report-colts-open-to-trading-rb-jonathan-taylor/)
-INDIANAPOLIS - The Indianapolis Colts are open to trading running back Jonathan Taylor, according to ESPN's Senior NFL Insider Adam Schefter. According to Schefter, multiple teams have reached out to Colts and talks are…
-<sub>Oct 31, 8:57 AM</sub>
+### [Bloomington Police: 7 injured after shooting on Kirkwood Ave](https://fox59.com/news/bloomington-police-7-injured-after-shooting-on-kirkwood-ave/)
+Bloomington Police are investigating after 7 people were injured during a shooting on Kirkwood Ave early Sunday morning. Police were patrolling near Kirkwood Avenue and Dunn Street when shots were fired in the 400 block…
+<sub>Nov 1, 3:08 AM</sub>
 
 ## Mirror Indy
 ### [Poll reveals Indiana’s Republican party may be losing ground](https://mirrorindy.org/poll-reveals-indianas-republican-party-may-be-losing-ground/)
