@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Sunday, November 1, 2026 — generated 11:33 AM EST_
+_Monday, November 2, 2026 — generated 2:55 PM EST_
 
 ## NYT
-### [A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End](https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html)
-Across the country, many voters have drawn a straight line between President Trump’s policies and inflation.
-<sub>Nov 1, 5:02 AM</sub>
+### [Senate Control After the Midterms: Party Switches, Ties and Wild Cards](https://www.nytimes.com/2026/11/02/us/politics/senate-midterms-tie-independents-wild-cards.html)
+The likelihood of a slim majority leaves room for several hard-to-predict scenarios that could affect the balance of power.
+<sub>Nov 2, 5:03 AM</sub>
 
 ## NPR
-### [Living with high prices in Virginia's 1st Congressional District](https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district)
-High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.
-<sub>Nov 1, 8:00 AM</sub>
+### [Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials](https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden)
+The judge said he was "deeply troubled" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.
+<sub>Nov 2, 1:54 PM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Shops looted as German cost-of-living protests turn violent](https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss)
-The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
-<sub>Nov 1, 6:57 AM</sub>
+### [Shop freezers in seven European countries hit by cyber-attack](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
+The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
+<sub>Nov 2, 12:38 PM</sub>
 
 ## The Guardian
-### [Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?](https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave)
-Donald Trump uttered five words this summer that could seal the Republican party’s fate: ‘Pretend I’m on the ticket’ He spoke admiringly of a senator’s posterior. He baselessly accused a Muslim candidate of being a terro…
-<sub>Nov 1, 1:00 AM</sub>
+### [Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak](https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections)
+The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors…
+<sub>Nov 2, 8:00 AM</sub>
 
 ## Al Jazeera
-### [Trump slams ex-lawyer’s $50m deal with pardoned banker’s family](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
-Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
-<sub>Nov 1, 10:50 AM</sub>
+### [Lindsay Clancy in court to drop child murder charges after mistrial](https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss)
+Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.
+<sub>Nov 2, 2:11 PM</sub>
 
 ## Ars Technica
-### [Seabirds racing home over the ocean can get jet-lagged](https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/)
-A long flight home from feeding grounds messes with birds' internal clocks.
-<sub>Oct 31, 7:15 AM</sub>
+### [Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights](https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/)
+Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.
+<sub>Nov 2, 1:32 PM</sub>
 
 ## WIRED Backchannel
 ### [I Gave My Blood to the AI Death Clock](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/)
@@ -51,26 +51,26 @@ Companies have spent the past several weeks trying to reassure investors that Mu
 <sub>Oct 31, 6:30 AM</sub>
 
 ## The New Yorker
-### [Corruption on the Ballot](https://www.newyorker.com/magazine/2026/11/09/corruption-on-the-ballot)
-Corruption is always an issue, but this year will it finally catapult from a topic of chronic bellyaching to an actual mechanism for changing votes?
-<sub>Nov 1, 6:00 AM</sub>
+### [An Exiled Filmmaker’s Unsparing View of Contemporary Russia](https://www.newyorker.com/magazine/2026/11/09/an-exiled-filmmakers-unsparing-view-of-contemporary-russia)
+Andrey Zvyagintsev’s “Minotaur” is the first independent feature to portray Russian life during the war with Ukraine.
+<sub>Nov 2, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Your Weekly Horoscopes by Madame Clairevoyant: November 1-7](http://www.thecut.com/article/weekly-horoscope-madame-clairevoyant-week-of-november-1-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Expect a few roadblocks this week, but trust you’ll be able to navigate them.
-<sub>Nov 1, 5:00 AM</sub>
+### [The Best Gift Ideas Under $50 This Holiday Season](http://www.thecut.com/article/best-gift-ideas-under-50-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Options for everyone from your bestie to your dad.
+<sub>Nov 2, 2:34 PM</sub>
 
 ## New York Mag Curbed
-### [Where Gothic Revival Meets Grown-up Eloise](http://www.curbed.com/article/nina-johnson-adam-charlap-hyman-tudor-city.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Nina Johnson’s Tudor City home by Adam Charlap Hyman is a cloud of gray with a touch of Lynchian red.
-<sub>Oct 31, 7:00 AM</sub>
+### [An Enormous One-Bedroom in Gramercy With Many Oversize Windows for $995,000](http://www.curbed.com/article/nyc-apartments-under-a-million-gramercy-prospect-heights-upper-west-side-west-village.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+And a two-bedroom with additional office potential in prime Prospect Heights
+<sub>Nov 2, 8:00 AM</sub>
 
 ## Fox59
-### [Bloomington Police: 7 injured after shooting on Kirkwood Ave](https://fox59.com/news/bloomington-police-7-injured-after-shooting-on-kirkwood-ave/)
-Bloomington Police are investigating after 7 people were injured during a shooting on Kirkwood Ave early Sunday morning. Police were patrolling near Kirkwood Avenue and Dunn Street when shots were fired in the 400 block…
-<sub>Nov 1, 3:08 AM</sub>
+### [Docs: Knightstown man out on bond in child molesting case charged with child exploitation](https://fox59.com/news/indycrime/docs-knightstown-man-out-on-bond-in-child-molesting-case-charged-with-child-exploitation/)
+HENRY COUNTY, Ind. -- A Knightstown man out on bond in a child molesting case is alleged to have reached out to a teen through social media and sent her a nude picture and obscene messages. According to court documents r…
+<sub>Nov 2, 11:01 AM</sub>
 
 ## Mirror Indy
-### [Poll reveals Indiana’s Republican party may be losing ground](https://mirrorindy.org/poll-reveals-indianas-republican-party-may-be-losing-ground/)
-Some conservative voters across the state express doubts about their party’s strength while others say the party is on track. The post Poll reveals Indiana’s Republican party may be losing ground appeared first on Mirror…
-<sub>Oct 30, 4:25 PM</sub>
+### [Former eastside YMCA is for sale. Residents say they feel abandoned.](https://mirrorindy.org/ymca-indianapolis-east-side-ransburg-for-sale-irvington/)
+The former Ransburg YMCA building is listed at $3.25 million. The post Former eastside YMCA is for sale. Residents say they feel abandoned. appeared first on Mirror Indy .
+<sub>Nov 2, 5:00 AM</sub>
