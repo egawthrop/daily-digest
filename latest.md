@@ -1,49 +1,49 @@
 # The Daily Digest
 
-_Monday, November 2, 2026 — generated 2:55 PM EST_
+_Tuesday, November 3, 2026 — generated 12:28 PM EST_
 
 ## NYT
-### [Senate Control After the Midterms: Party Switches, Ties and Wild Cards](https://www.nytimes.com/2026/11/02/us/politics/senate-midterms-tie-independents-wild-cards.html)
-The likelihood of a slim majority leaves room for several hard-to-predict scenarios that could affect the balance of power.
-<sub>Nov 2, 5:03 AM</sub>
+### [Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far](https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html)
+Just 236 people have been charged with voting-fraud-related offenses by the Trump administration, despite its unsubstantiated claims that fraud is widespread.
+<sub>Nov 3, 11:21 AM</sub>
 
 ## NPR
-### [Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials](https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden)
-The judge said he was "deeply troubled" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.
-<sub>Nov 2, 1:54 PM</sub>
+### [When caring for aging family members becomes cost prohibitive](https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive)
+AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.
+<sub>Nov 3, 12:09 PM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Shop freezers in seven European countries hit by cyber-attack](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
-The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
-<sub>Nov 2, 12:38 PM</sub>
+### [How the US midterm results could unfold - as millions of Americans head to the polls](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
+The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.
+<sub>Nov 3, 5:32 AM</sub>
 
 ## The Guardian
-### [Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak](https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections)
-The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors…
-<sub>Nov 2, 8:00 AM</sub>
+### [‘I perfected deception’: My secret life as a relapsed alcoholic | Meghan O'Gieblyn](https://www.theguardian.com/news/ng-interactive/2026/nov/03/my-secret-life-as-a-relapsed-alcoholic-addiction-sober)
+Everyone knew about my years of addiction, the dangers I had put myself in. The second time around, after 11 years sober, not even my husband knew I am finding it very hard to write about my return to drinking. This is u…
+<sub>Nov 3, 12:00 AM</sub>
 
 ## Al Jazeera
-### [Lindsay Clancy in court to drop child murder charges after mistrial](https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss)
-Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.
-<sub>Nov 2, 2:11 PM</sub>
+### [Darfur survivors vow to tell story of those killed after Sudan camp attacks](https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss)
+Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.
+<sub>Nov 3, 12:03 PM</sub>
 
 ## Ars Technica
-### [Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights](https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/)
-Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.
-<sub>Nov 2, 1:32 PM</sub>
+### [Google dismantles botnet secretly running on 1.3 million Android TV boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
+Google has cut ties with the company behind the botnet campaign.
+<sub>Nov 3, 12:08 PM</sub>
 
 ## WIRED Backchannel
-### [I Gave My Blood to the AI Death Clock](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/)
-Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.
-<sub>Oct 29, 6:00 AM</sub>
+### [‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)
+Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.
+<sub>Nov 3, 6:00 AM</sub>
 
 ## WIRED Science
-### [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
-Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.
-<sub>Nov 1, 5:30 AM</sub>
+### [NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact](https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/)
+The 3,200-pound satellite is expected to reenter Earth’s atmosphere later this week with a wide reentry zone covering parts of Africa, Australia, Southeast Asia, and South America.
+<sub>Nov 3, 5:45 AM</sub>
 
 ## WIRED Business
 ### [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)
@@ -51,26 +51,26 @@ Companies have spent the past several weeks trying to reassure investors that Mu
 <sub>Oct 31, 6:30 AM</sub>
 
 ## The New Yorker
-### [An Exiled Filmmaker’s Unsparing View of Contemporary Russia](https://www.newyorker.com/magazine/2026/11/09/an-exiled-filmmakers-unsparing-view-of-contemporary-russia)
-Andrey Zvyagintsev’s “Minotaur” is the first independent feature to portray Russian life during the war with Ukraine.
-<sub>Nov 2, 6:00 AM</sub>
+### [Finally, the Beginning of Trump’s End](https://www.newyorker.com/news/letter-from-trumps-washington/finally-the-beginning-of-trumps-end)
+Reflections on a midterm campaign in which our octogenarian President waged war—against algae in the Reflecting Pool.
+<sub>Nov 3, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [The Best Gift Ideas Under $50 This Holiday Season](http://www.thecut.com/article/best-gift-ideas-under-50-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Options for everyone from your bestie to your dad.
-<sub>Nov 2, 2:34 PM</sub>
+### [Haley Stevens Doesn’t Want You to Blame Her Fiancé](http://www.thecut.com/article/haley-stevens-says-fiance-jason-turkish-isnt-controlling-her.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+She’s an independent woman who blew up her career all on her own, okay?
+<sub>Nov 3, 11:29 AM</sub>
 
 ## New York Mag Curbed
-### [An Enormous One-Bedroom in Gramercy With Many Oversize Windows for $995,000](http://www.curbed.com/article/nyc-apartments-under-a-million-gramercy-prospect-heights-upper-west-side-west-village.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-And a two-bedroom with additional office potential in prime Prospect Heights
-<sub>Nov 2, 8:00 AM</sub>
+### [What Do New York City’s Ballot Proposals Mean?](http://www.curbed.com/article/2026-new-york-ballot-proposals-guide.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+A brief guide to the infrastructure and streetscape questions on the slate.
+<sub>Nov 2, 5:29 PM</sub>
 
 ## Fox59
-### [Docs: Knightstown man out on bond in child molesting case charged with child exploitation](https://fox59.com/news/indycrime/docs-knightstown-man-out-on-bond-in-child-molesting-case-charged-with-child-exploitation/)
-HENRY COUNTY, Ind. -- A Knightstown man out on bond in a child molesting case is alleged to have reached out to a teen through social media and sent her a nude picture and obscene messages. According to court documents r…
-<sub>Nov 2, 11:01 AM</sub>
+### [Live Updates: Central Indiana Election 2026](https://fox59.com/indianapolitics/live-updates-central-indiana-election-2026/)
+INDIANAPOLIS -- Tuesday marks Election Day for the 2026 Midterm Elections throughout the United States. On Tuesday, Hoosiers throughout the state will have their last chance to vote in several races, including: In Marion…
+<sub>Nov 3, 4:36 AM</sub>
 
 ## Mirror Indy
-### [Former eastside YMCA is for sale. Residents say they feel abandoned.](https://mirrorindy.org/ymca-indianapolis-east-side-ransburg-for-sale-irvington/)
-The former Ransburg YMCA building is listed at $3.25 million. The post Former eastside YMCA is for sale. Residents say they feel abandoned. appeared first on Mirror Indy .
-<sub>Nov 2, 5:00 AM</sub>
+### [Mirror Indy’s live blog: Federal election monitors spotted at City- County Building](https://mirrorindy.org/indiana-elections-2026-mirror-indy-blog-marion-county-vote/)
+Polls are open from 6 a.m. to 6 p.m. We’ll be talking to voters and checking access issues all day. The post Mirror Indy’s live blog: Federal election monitors spotted at City- County Building appeared first on Mirror In…
+<sub>Nov 3, 5:54 AM</sub>
