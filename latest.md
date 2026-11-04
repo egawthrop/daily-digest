@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Tuesday, November 3, 2026 — generated 12:28 PM EST_
+_Wednesday, November 4, 2026 — generated 12:52 PM EST_
 
 ## NYT
-### [Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far](https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html)
-Just 236 people have been charged with voting-fraud-related offenses by the Trump administration, despite its unsubstantiated claims that fraud is widespread.
-<sub>Nov 3, 11:21 AM</sub>
+### [Angry Voters Usher in Beginning of the End to the Trump Era](https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html)
+The electoral backlash extended even into deep red states and indicated that President Trump has lost his hold over the coalition that lifted him to the White House twice.
+<sub>Nov 4, 4:26 AM</sub>
 
 ## NPR
-### [When caring for aging family members becomes cost prohibitive](https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive)
-AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.
-<sub>Nov 3, 12:09 PM</sub>
+### [Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales](https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid)
+Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.
+<sub>Nov 4, 8:38 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [How the US midterm results could unfold - as millions of Americans head to the polls](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
-The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.
-<sub>Nov 3, 5:32 AM</sub>
+### ['This is a disaster': Angry Republicans blame Trump for midterms defeat](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
+Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
+<sub>Nov 4, 8:33 AM</sub>
 
 ## The Guardian
-### [‘I perfected deception’: My secret life as a relapsed alcoholic | Meghan O'Gieblyn](https://www.theguardian.com/news/ng-interactive/2026/nov/03/my-secret-life-as-a-relapsed-alcoholic-addiction-sober)
-Everyone knew about my years of addiction, the dangers I had put myself in. The second time around, after 11 years sober, not even my husband knew I am finding it very hard to write about my return to drinking. This is u…
-<sub>Nov 3, 12:00 AM</sub>
+### [The death knell of Trumpism has finally sounded | Moira Donegan](https://www.theguardian.com/commentisfree/2026/nov/03/midterms-trump-era-lame-duck)
+The electorate voted decisively to curb the president’s power There’s a certain freedom in low expectations. Going in to Tuesday’s midterm elections, forecasts were so grim for the Republicans that poll watchers started…
+<sub>Nov 4, 12:31 AM</sub>
 
 ## Al Jazeera
-### [Darfur survivors vow to tell story of those killed after Sudan camp attacks](https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss)
-Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.
-<sub>Nov 3, 12:03 PM</sub>
+### [Netanyahu bet on Trump – but both lost](https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss)
+Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it.
+<sub>Nov 4, 12:41 PM</sub>
 
 ## Ars Technica
-### [Google dismantles botnet secretly running on 1.3 million Android TV boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
-Google has cut ties with the company behind the botnet campaign.
-<sub>Nov 3, 12:08 PM</sub>
+### [Binance says hackers who stole billions in crypto spent months planning heist](https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/)
+Techniques included laptop infections, compromised internal tooling, and fake job interviews.
+<sub>Nov 4, 11:06 AM</sub>
 
 ## WIRED Backchannel
 ### [‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)
@@ -41,14 +41,14 @@ Ahead of the midterms, WIRED talked to New York City’s mayor about data center
 <sub>Nov 3, 6:00 AM</sub>
 
 ## WIRED Science
-### [NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact](https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/)
-The 3,200-pound satellite is expected to reenter Earth’s atmosphere later this week with a wide reentry zone covering parts of Africa, Australia, Southeast Asia, and South America.
-<sub>Nov 3, 5:45 AM</sub>
+### [‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump](https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/)
+The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.
+<sub>Nov 4, 11:43 AM</sub>
 
 ## WIRED Business
-### [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/)
-Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.
-<sub>Oct 31, 6:30 AM</sub>
+### [‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable](https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/)
+Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.
+<sub>Nov 4, 9:15 AM</sub>
 
 ## The New Yorker
 ### [Finally, the Beginning of Trump’s End](https://www.newyorker.com/news/letter-from-trumps-washington/finally-the-beginning-of-trumps-end)
@@ -56,21 +56,21 @@ Reflections on a midterm campaign in which our octogenarian President waged war�
 <sub>Nov 3, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Haley Stevens Doesn’t Want You to Blame Her Fiancé](http://www.thecut.com/article/haley-stevens-says-fiance-jason-turkish-isnt-controlling-her.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-She’s an independent woman who blew up her career all on her own, okay?
-<sub>Nov 3, 11:29 AM</sub>
+### [Blake Ritson Thinks You Should Marry Your Best Friend](http://www.thecut.com/article/blake-ritson-gilded-age-oscar-van-rhijn-lavender-marriage-culture-interview.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The Gilded Age is back and Oscar Van Rhijn is finally on top, to the delight of Blake Ritson.
+<sub>Nov 4, 8:00 AM</sub>
 
 ## New York Mag Curbed
-### [What Do New York City’s Ballot Proposals Mean?](http://www.curbed.com/article/2026-new-york-ballot-proposals-guide.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-A brief guide to the infrastructure and streetscape questions on the slate.
-<sub>Nov 2, 5:29 PM</sub>
+### [The Long Island Home Norman Jaffe Built for a Speed-Dealing Diet Doctor](http://www.curbed.com/article/norman-jaffe-house-old-westbury-architecture-turetsky.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+A calm, bright 1970s space in Old Westbury with a nifty pool house.
+<sub>Nov 3, 4:26 PM</sub>
 
 ## Fox59
-### [Live Updates: Central Indiana Election 2026](https://fox59.com/indianapolitics/live-updates-central-indiana-election-2026/)
-INDIANAPOLIS -- Tuesday marks Election Day for the 2026 Midterm Elections throughout the United States. On Tuesday, Hoosiers throughout the state will have their last chance to vote in several races, including: In Marion…
-<sub>Nov 3, 4:36 AM</sub>
+### [Bayh claims victory in Indiana Sec. of State race, Engling concedes](https://fox59.com/indianapolitics/bayh-claims-victory-in-indiana-sec-of-state-race-engling-concedes/)
+INDIANAPOLIS -- A Democrat is projected to have been elected to a statewide executive office for the first time in more than a decade. According to preliminary election results from the Associated Press, Beau Bayh is pro…
+<sub>Nov 3, 11:45 PM</sub>
 
 ## Mirror Indy
-### [Mirror Indy’s live blog: Federal election monitors spotted at City- County Building](https://mirrorindy.org/indiana-elections-2026-mirror-indy-blog-marion-county-vote/)
-Polls are open from 6 a.m. to 6 p.m. We’ll be talking to voters and checking access issues all day. The post Mirror Indy’s live blog: Federal election monitors spotted at City- County Building appeared first on Mirror In…
-<sub>Nov 3, 5:54 AM</sub>
+### [AP: André Carson retains 7th District seat](https://mirrorindy.org/indiana-2026-election-us-congress-andre-carson-shreve-ford-spartz/)
+J.D. Ford declares victory over Victoria Spartz, Shreve wins reelection. The post AP: André Carson retains 7th District seat appeared first on Mirror Indy .
+<sub>Nov 4, 12:03 PM</sub>
