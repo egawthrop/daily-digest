@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Saturday, November 7, 2026 — generated 11:01 AM EST_
+_Monday, November 9, 2026 — generated 3:17 PM EST_
 
 ## NYT
-### [In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda](https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html)
-The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power.
-<sub>Nov 6, 7:39 PM</sub>
+### [U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
+An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.
+<sub>Nov 9, 1:38 PM</sub>
 
 ## NPR
-### [A promising new medicine against heart disease fails unexpectedly](https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack)
-Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.
-<sub>Nov 7, 9:50 AM</sub>
+### [Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution](https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution)
+New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.
+<sub>Nov 9, 10:09 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [UK cannot 'cherry pick' EU single market deal, Barnier tells BBC](https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss)
-The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".
-<sub>Nov 7, 10:19 AM</sub>
+### [Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault](https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss)
+The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.
+<sub>Nov 9, 12:31 PM</sub>
 
 ## The Guardian
-### [In defense of feral children](https://www.theguardian.com/society/ng-interactive/2026/nov/07/feral-children-parenting)
-Adults complain and say kids should occupy more space in the world. Then when they do, the world tells them to quiet down On the Maine island where I live, childhood ends when you’re old enough to catch the 7.15am ferry…
-<sub>Nov 7, 8:00 AM</sub>
+### [‘I didn’t dance until I was 45’: how Jorge Drexler went from repressed doctor to rump-shaking Oscar-winner](https://www.theguardian.com/music/2026/nov/09/jorge-drexler-doctor-oscar-winner-the-motorcycle-diaries)
+How did a Uruguayan medic who grew up under an anti-music dictatorship win a best song Academy award? As he looks set to scoop up more prizes at the Latin Grammys, we meet the extraordinary Jorge Drexler It makes sense t…
+<sub>Nov 9, 3:00 AM</sub>
 
 ## Al Jazeera
-### [Iran’s IRGC says building underground sites for weapons production, storage](https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss)
-IRGC says underground military complexes allow missile production to continue even under heavy bombardment.
-<sub>Nov 7, 10:34 AM</sub>
+### [US agencies unite to combat rogue drone threats nationwide](https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss)
+More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.
+<sub>Nov 9, 2:07 PM</sub>
 
 ## Ars Technica
-### [The Bantu expansion changed Africa. Scientists are still tracing how.](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/)
-Genes and archaeology are revealing how Bantu speakers spread across much of Africa.
-<sub>Nov 7, 7:15 AM</sub>
+### [Vulnerability that lets hackers SSH into Linux devices is under active exploitation](https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/)
+"*sshole" poses a serious threat to Internet security.
+<sub>Nov 9, 2:41 PM</sub>
 
 ## WIRED Backchannel
-### [‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)
-Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.
-<sub>Nov 3, 6:00 AM</sub>
+### [Welcome to Weed Island](https://www.wired.com/story/welcome-to-weed-island-jersey/)
+How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.
+<sub>Nov 9, 2:00 AM</sub>
 
 ## WIRED Science
-### [The American Dream Wasn’t Built for Climate Change](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
-Owning a home is billed as a way to build wealth, but amid climate-related disasters, for many, it's beginning to feel like a trap.
-<sub>Nov 7, 5:00 AM</sub>
+### [Scientists May Have Discovered a Massive Starless Galaxy](https://www.wired.com/story/scientists-discover-massive-starless-galaxy/)
+The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years.
+<sub>Nov 9, 6:15 AM</sub>
 
 ## WIRED Business
-### [AI Companies Really, Really Want to Buy Your Work Files and Emails](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/)
-Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.
-<sub>Nov 6, 11:00 AM</sub>
+### [Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year](https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/)
+The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.
+<sub>Nov 9, 9:30 AM</sub>
 
 ## The New Yorker
-### [Breaking the Decade-Long Trump Fever](https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever)
-The President’s unique brand of lurid authoritarianism has finally lost appeal, and he has lost the plot.
-<sub>Nov 7, 6:00 AM</sub>
+### [The Unfinished Business of American Socialism](https://www.newyorker.com/magazine/2026/11/16/can-american-socialism-survive-its-success)
+The movement has often seen its ideas flourish as its organizations withered. Will today’s resurgence follow the same course?
+<sub>Nov 9, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [The Woman Having Sex on the Floor at a Bar](http://www.thecut.com/article/new-sex-diaries-story-the-woman-having-sex-on-a-bar-floor.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-In this week’s story, her date lays down a clean tablecloth first.
-<sub>Nov 6, 7:00 PM</sub>
+### [There’s a Scapegoat for Jacob Elordi’s Blond Hair](http://www.thecut.com/article/jacob-elordi-is-blond-now.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+It’s almost definitely for an Ari Aster movie.
+<sub>Nov 9, 12:39 PM</sub>
 
 ## New York Mag Curbed
-### [So Long, Cybertruck](http://www.curbed.com/article/tesla-cybertruck-discontinued-auto-graveyard-elon-musk.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Tesla’s behemoth became a stainless-steel white elephant.
-<sub>Nov 6, 2:37 PM</sub>
+### [A Prospect Heights One-Bedroom With All-Day Light for $899,000](http://www.curbed.com/article/nyc-apartments-under-a-million-prospect-heights-glendale-upper-west-side-upper-east-side.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+And an already combined two-bedroom, two-bath on the Upper East Side.
+<sub>Nov 9, 8:00 AM</sub>
 
 ## Fox59
-### [Man killed in south side stabbing](https://fox59.com/news/man-killed-in-south-side-stabbing/)
-INDIANAPOLIS - An investigation is underway after a man was killed in a stabbing on Indy's south side Saturday morning. According to the Indianapolis Metropolitan Police Department, officers responded to the 2300 block o…
-<sub>Nov 7, 6:09 AM</sub>
+### [IMPD: Man found with deadly gunshot wounds in alleyway on Indy's north side](https://fox59.com/news/person-shot-killed-on-indys-north-side-2/)
+INDIANAPOLIS -- Police are investigating after a shooting left a man dead on Indy's north side Monday morning. Officers with the Indianapolis Metropolitan Police Department responded around 7:50 a.m. to the area of W. 40…
+<sub>Nov 9, 8:03 AM</sub>
 
 ## Mirror Indy
-### [What voters want after Democrats’ big gains in Indiana](https://mirrorindy.org/indiana-democrats-flip-house-voters/)
-Anger at Trump helped Democrats flip at least 16 seats in the Indiana House. The post What voters want after Democrats’ big gains in Indiana appeared first on Mirror Indy .
-<sub>Nov 6, 4:29 PM</sub>
+### [Indiana renews 10-year Ivy Tech partnership to expand education for inmates](https://mirrorindy.org/indiana-renews-10-year-ivy-tech-partnership-to-expand-education-for-inmates/)
+The partnership aims to reduce employment barriers for people leaving prison and improve public safety. The post Indiana renews 10-year Ivy Tech partnership to expand education for inmates appeared first on Mirror Indy .
+<sub>Nov 9, 2:01 PM</sub>
