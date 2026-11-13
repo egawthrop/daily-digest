@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Thursday, November 12, 2026 — generated 1:52 PM EST_
+_Friday, November 13, 2026 — generated 12:41 PM EST_
 
 ## NYT
-### [Nvidia Stock Plunges After Jensen Huang Resigns as CEO](https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html)
-News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.
-<sub>Nov 12, 11:33 AM</sub>
+### [Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money](https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html)
+Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.
+<sub>Nov 13, 11:36 AM</sub>
 
 ## NPR
-### [Democrats want to stop Trump's arch, golf course and more. What are their options?](https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight)
-As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.
-<sub>Nov 12, 12:13 PM</sub>
+### [The Trump administration's voter roll crusade could continue](https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california)
+Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.
+<sub>Nov 13, 12:00 PM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
-Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
-<sub>Nov 12, 11:43 AM</sub>
+### [Police investigating David Walliams over reports alleging serious sexual offences](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
+The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.
+<sub>Nov 13, 11:53 AM</sub>
 
 ## The Guardian
-### [You can see everything on this list: the 20 most jaw-dropping documentaries – ranked!](https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked)
-Ahead of the UK release of Nathan Fielder’s hotly anticipated Elizabeth Holmes film, we count down the most shocking and affecting true stories ever committed to cinema A 50-second dispatch from daily life blew the whist…
-<sub>Nov 12, 8:32 AM</sub>
+### [‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong](https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007)
+As Amazon MGM Studios prepares to announce the next 007, much rides on how the news is broken. From double bookings to health and safety embarrassments, we look back at how not to do it And then there were five. While no…
+<sub>Nov 13, 6:31 AM</sub>
 
 ## Al Jazeera
-### [Al Jazeera reports from Gaza hospital attacked by Israel](https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss)
-Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital
-<sub>Nov 12, 1:03 PM</sub>
+### [The fight over Canadian steelworker jobs](https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss)
+Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.
+<sub>Nov 13, 12:10 PM</sub>
 
 ## Ars Technica
-### [Netflix releases new trailer for Ray Gunn](https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/)
-"It's hard being the only honest players in a crooked game."
-<sub>Nov 12, 1:38 PM</sub>
+### [AI is "the most likely reason" you'll die, OpenAI board member warns](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
+Researcher traces a path from AI reward hacking to potential human extinction.
+<sub>Nov 13, 12:25 PM</sub>
 
 ## WIRED Backchannel
 ### [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)
@@ -41,36 +41,36 @@ China’s use of sexpionage is a well-established intelligence tactic with recen
 <sub>Nov 11, 10:30 AM</sub>
 
 ## WIRED Science
-### [Synchron Pauses Trials of Its Brain Implant Due to Performance Issues](https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/)
-After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.
-<sub>Nov 12, 10:58 AM</sub>
+### [The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/)
+With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.
+<sub>Nov 13, 5:00 AM</sub>
 
 ## WIRED Business
-### [Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight](https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/)
-After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.
-<sub>Nov 12, 1:05 PM</sub>
+### [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
+The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.
+<sub>Nov 13, 11:00 AM</sub>
 
 ## The New Yorker
-### [The Candidates Who Defeated the Politics of White Grievance](https://www.newyorker.com/news/the-lede/the-candidates-who-defeated-the-politics-of-white-grievance)
-Will Democrats’ breakthrough in the South transform their party’s view of a winning campaign?
-<sub>Nov 12, 6:00 AM</sub>
+### [Can You Fire the Vice-President via Truth Social?](https://www.newyorker.com/news/letter-from-trumps-washington/can-you-fire-the-vice-president-via-truth-social)
+Donald Trump came close on Thursday, ousting J. D. Vance as his Iran negotiator days after the Veep blamed the war for the Republicans’ midterm losses.
+<sub>Nov 12, 7:03 PM</sub>
 
 ## New York Mag The Cut
-### [Mercury and Venus Retrogrades Are Over But the Chaos Isn’t](http://www.thecut.com/article/mercury-venus-retrograde-2026-ends-friday-the-13th.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-It’s getting better though! Promise!
-<sub>Nov 12, 11:00 AM</sub>
+### [The New Bachelor Is an NFL Quarterback](http://www.thecut.com/article/new-bachelor-washington-commanders-sam-hartman.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Well, he’s on a practice squad, but that counts.
+<sub>Nov 13, 11:02 AM</sub>
 
 ## New York Mag Curbed
-### [On the Scene at the Building Collapse on Flatbush Avenue](http://www.curbed.com/article/on-the-scene-at-the-collapse-at-1321-flatbush-avenue.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-“I was shaking. I see people crying, because the building is full of people.”
-<sub>Nov 12, 8:04 AM</sub>
+### [A Rainy-Day Rescue at the Building-Collapse Site on Flatbush Avenue](http://www.curbed.com/article/on-the-scene-at-the-collapse-at-1321-flatbush-avenue.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The structure had nearly 100 open violations, and the landlord did jail time for leaving hundreds more unaddressed.
+<sub>Nov 13, 9:00 AM</sub>
 
 ## Fox59
-### [North Carolina man killed in crash on Interstate 65 in Bartholomew County](https://fox59.com/news/crash-triggers-closure-of-interstate-65-northbound-in-bartholomew-county/)
-BARTHOLOMEW COUNTY, Ind. — A crash that killed a North Carolina man triggered a closure of all lanes of Interstate 65 northbound in Bartholomew County Wednesday afternoon. According to Indiana State Police, troopers resp…
-<sub>Nov 11, 4:52 PM</sub>
+### [Carmel police investigating homicide](https://fox59.com/news/indycrime/carmel-police-investigating-homicide/)
+CARMEL, Ind. – Carmel police are investigating a homicide. According to the Carmel Police Department, officers were dispatched to a shots fired call in the 13900 block of Wildcat Drive at 10:21 p.m. Thursday. When they a…
+<sub>Nov 13, 5:15 AM</sub>
 
 ## Mirror Indy
-### [Irvington charter school leaders resign as network tries to close $2.85M deficit](https://mirrorindy.org/irvington-charter-school-leaders-resign-as-network-tries-to-close-2-85m-deficit/)
-The board voted to pause contributions to staff retirement plans, prompting one teacher to walk out in protest. The post Irvington charter school leaders resign as network tries to close $2.85M deficit appeared first on…
-<sub>Nov 12, 1:30 PM</sub>
+### [Get free diapers and wipes at this Far Eastside event](https://mirrorindy.org/free-diapers-wipes-community-resources-far-east-side-indianapolis/)
+The drive-thru event is noon to 2 p.m. Nov. 21 at Moorehead Community Resource Center. The post Get free diapers and wipes at this Far Eastside event appeared first on Mirror Indy .
+<sub>Nov 13, 12:02 PM</sub>
