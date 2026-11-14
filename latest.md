@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Friday, November 13, 2026 — generated 12:41 PM EST_
+_Saturday, November 14, 2026 — generated 11:26 AM EST_
 
 ## NYT
-### [Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money](https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html)
-Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.
-<sub>Nov 13, 11:36 AM</sub>
+### [What to Know About Friday’s Nationwide Ground Stop](https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html)
+The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades.
+<sub>Nov 14, 10:04 AM</sub>
 
 ## NPR
-### [The Trump administration's voter roll crusade could continue](https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california)
-Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.
-<sub>Nov 13, 12:00 PM</sub>
+### [Fuel crisis and protests pressure Chile's far-right president](https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students)
+Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.
+<sub>Nov 14, 11:05 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Police investigating David Walliams over reports alleging serious sexual offences](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
-The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.
-<sub>Nov 13, 11:53 AM</sub>
+### [Young people should have legal guarantee of job or training, Milburn tells BBC](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss)
+The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.
+<sub>Nov 14, 8:48 AM</sub>
 
 ## The Guardian
-### [‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong](https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007)
-As Amazon MGM Studios prepares to announce the next 007, much rides on how the news is broken. From double bookings to health and safety embarrassments, we look back at how not to do it And then there were five. While no…
-<sub>Nov 13, 6:31 AM</sub>
+### [Is it finally OK to be frank about 2000s pop culture? ‘It was profoundly, cheerfully horrible to women’](https://www.theguardian.com/news/2026/nov/14/2000s-pop-culture-women-david-walliams-russell-brand)
+The imprisonment of Russell Brand and allegations against David Walliams have prompted scrutiny of a culture that encouraged male transgression In a 2008 episode of BBC Two’s comedy panel show Never Mind the Buzzcocks ,…
+<sub>Nov 14, 1:00 AM</sub>
 
 ## Al Jazeera
-### [The fight over Canadian steelworker jobs](https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss)
-Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.
-<sub>Nov 13, 12:10 PM</sub>
+### [Italy fines Meta $880m over photo privacy](https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss)
+Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.
+<sub>Nov 14, 11:16 AM</sub>
 
 ## Ars Technica
-### [AI is "the most likely reason" you'll die, OpenAI board member warns](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
-Researcher traces a path from AI reward hacking to potential human extinction.
-<sub>Nov 13, 12:25 PM</sub>
+### [James Webb telescope finds ice older than the star it orbits](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/)
+Radiation and collisions reshape the planetary building materials.
+<sub>Nov 14, 7:15 AM</sub>
 
 ## WIRED Backchannel
-### [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)
-China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?
-<sub>Nov 11, 10:30 AM</sub>
+### [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
+Normally, aviation is slow to embrace new technology—but AI has come for the skies.
+<sub>Nov 14, 6:00 AM</sub>
 
 ## WIRED Science
-### [The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/)
-With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.
-<sub>Nov 13, 5:00 AM</sub>
+### [Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/)
+As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.
+<sub>Nov 14, 5:30 AM</sub>
 
 ## WIRED Business
-### [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
-The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.
-<sub>Nov 13, 11:00 AM</sub>
+### [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
+Normally, aviation is slow to embrace new technology—but AI has come for the skies.
+<sub>Nov 14, 6:00 AM</sub>
 
 ## The New Yorker
-### [Can You Fire the Vice-President via Truth Social?](https://www.newyorker.com/news/letter-from-trumps-washington/can-you-fire-the-vice-president-via-truth-social)
-Donald Trump came close on Thursday, ousting J. D. Vance as his Iran negotiator days after the Veep blamed the war for the Republicans’ midterm losses.
-<sub>Nov 12, 7:03 PM</sub>
+### [Jensen Huang and the Storied Lineage of the Honey Trap](https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap)
+Novelists have long grasped the possibilities. Ian Fleming served up such enticements in his James Bond novels nearly as often as Bond was served a Martini.
+<sub>Nov 14, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [The New Bachelor Is an NFL Quarterback](http://www.thecut.com/article/new-bachelor-washington-commanders-sam-hartman.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Well, he’s on a practice squad, but that counts.
-<sub>Nov 13, 11:02 AM</sub>
+### [What Would It Take for Me to Start Tracking My Kids’ Locations?](http://www.thecut.com/article/what-would-it-take-for-me-to-start-tracking-my-kids.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+My son went missing for 18 interminable hours. I still think relying on technology to keep kids safe yokes families into a state of complacency.
+<sub>Nov 14, 7:00 AM</sub>
 
 ## New York Mag Curbed
-### [A Rainy-Day Rescue at the Building-Collapse Site on Flatbush Avenue](http://www.curbed.com/article/on-the-scene-at-the-collapse-at-1321-flatbush-avenue.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The structure had nearly 100 open violations, and the landlord did jail time for leaving hundreds more unaddressed.
-<sub>Nov 13, 9:00 AM</sub>
+### [“I Knew If They Found Out, They’d Bury Us”](http://www.curbed.com/article/celebrity-broker-carl-gambino-pancreatic-cancer-diagnosis.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Celebrity broker Carl Gambino on selling $700 million in real estate while fighting pancreatic cancer.
+<sub>Nov 13, 7:09 PM</sub>
 
 ## Fox59
-### [Carmel police investigating homicide](https://fox59.com/news/indycrime/carmel-police-investigating-homicide/)
-CARMEL, Ind. – Carmel police are investigating a homicide. According to the Carmel Police Department, officers were dispatched to a shots fired call in the 13900 block of Wildcat Drive at 10:21 p.m. Thursday. When they a…
-<sub>Nov 13, 5:15 AM</sub>
+### [The Federal Aviation Administration says airplane departures can resume](https://fox59.com/news/national-world/flights-halted-at-airports-across-the-us-due-to-unspecified-extraordinary-circumstances-faa-says/)
+WASHINGTON (AP) — The Federal Aviation Administration says airplane departures can resume after the agency lifted a nationwide ground stop caused by communications problems. The FAA had grounded all flights nationwide Fr…
+<sub>Nov 13, 4:25 PM</sub>
 
 ## Mirror Indy
-### [Get free diapers and wipes at this Far Eastside event](https://mirrorindy.org/free-diapers-wipes-community-resources-far-east-side-indianapolis/)
-The drive-thru event is noon to 2 p.m. Nov. 21 at Moorehead Community Resource Center. The post Get free diapers and wipes at this Far Eastside event appeared first on Mirror Indy .
-<sub>Nov 13, 12:02 PM</sub>
+### [41 things to do in Indianapolis this holiday season](https://mirrorindy.org/things-to-do-season-holidays-in-indianapolis/)
+Find merry comedies, latkes, a Kwanzaa Claus, a tiny art show and a whole lot of theater. The post 41 things to do in Indianapolis this holiday season appeared first on Mirror Indy .
+<sub>Nov 13, 4:09 PM</sub>
