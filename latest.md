@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Saturday, November 14, 2026 — generated 11:26 AM EST_
+_Sunday, November 15, 2026 — generated 12:24 PM EST_
 
 ## NYT
-### [What to Know About Friday’s Nationwide Ground Stop](https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html)
-The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades.
-<sub>Nov 14, 10:04 AM</sub>
+### [Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business](https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html)
+The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.
+<sub>Nov 15, 5:02 AM</sub>
 
 ## NPR
-### [Fuel crisis and protests pressure Chile's far-right president](https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students)
-Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.
-<sub>Nov 14, 11:05 AM</sub>
+### [New Mexico wanted free childcare for all. This is what's worked — and what hasn't](https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families)
+A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.
+<sub>Nov 15, 5:00 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Young people should have legal guarantee of job or training, Milburn tells BBC](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss)
-The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.
-<sub>Nov 14, 8:48 AM</sub>
+### [Staggered age of consent to be discussed after Brand case, minister says](https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss)
+A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.
+<sub>Nov 15, 12:15 PM</sub>
 
 ## The Guardian
-### [Is it finally OK to be frank about 2000s pop culture? ‘It was profoundly, cheerfully horrible to women’](https://www.theguardian.com/news/2026/nov/14/2000s-pop-culture-women-david-walliams-russell-brand)
-The imprisonment of Russell Brand and allegations against David Walliams have prompted scrutiny of a culture that encouraged male transgression In a 2008 episode of BBC Two’s comedy panel show Never Mind the Buzzcocks ,…
-<sub>Nov 14, 1:00 AM</sub>
+### [‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick](https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare)
+Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, fea…
+<sub>Nov 15, 1:00 AM</sub>
 
 ## Al Jazeera
-### [Italy fines Meta $880m over photo privacy](https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss)
-Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.
-<sub>Nov 14, 11:16 AM</sub>
+### [Somalia: We would not have recovered without the international community](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss)
+Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.
+<sub>Nov 15, 11:47 AM</sub>
 
 ## Ars Technica
-### [James Webb telescope finds ice older than the star it orbits](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/)
-Radiation and collisions reshape the planetary building materials.
-<sub>Nov 14, 7:15 AM</sub>
+### [How the world’s fires changed while humanity hit pause](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/)
+COVID-19 lockdowns cut global fire activity by 12.3 percent.
+<sub>Nov 15, 7:07 AM</sub>
 
 ## WIRED Backchannel
 ### [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
@@ -41,9 +41,9 @@ Normally, aviation is slow to embrace new technology—but AI has come for the s
 <sub>Nov 14, 6:00 AM</sub>
 
 ## WIRED Science
-### [Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/)
-As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.
-<sub>Nov 14, 5:30 AM</sub>
+### [It’s Getting Too Dry for Even Cactuses to Survive](https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/)
+As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.
+<sub>Nov 15, 5:30 AM</sub>
 
 ## WIRED Business
 ### [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
@@ -51,14 +51,14 @@ Normally, aviation is slow to embrace new technology—but AI has come for the s
 <sub>Nov 14, 6:00 AM</sub>
 
 ## The New Yorker
-### [Jensen Huang and the Storied Lineage of the Honey Trap](https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap)
-Novelists have long grasped the possibilities. Ian Fleming served up such enticements in his James Bond novels nearly as often as Bond was served a Martini.
-<sub>Nov 14, 6:00 AM</sub>
+### [Scott Colom’s Senate Win Is a Mississippi Miracle](https://www.newyorker.com/news/us-journal/scott-coloms-mississippi-miracle)
+Scenes from the Democrats’ most shocking midterm flip.
+<sub>Nov 15, 11:06 AM</sub>
 
 ## New York Mag The Cut
-### [What Would It Take for Me to Start Tracking My Kids’ Locations?](http://www.thecut.com/article/what-would-it-take-for-me-to-start-tracking-my-kids.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-My son went missing for 18 interminable hours. I still think relying on technology to keep kids safe yokes families into a state of complacency.
-<sub>Nov 14, 7:00 AM</sub>
+### [Good News About AO3](http://www.thecut.com/article/fan-fiction-site-ao3-is-back-after-a-security-incident.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+After 17 agonizing days, the fan fiction website is back online. Mostly.
+<sub>Nov 15, 11:49 AM</sub>
 
 ## New York Mag Curbed
 ### [“I Knew If They Found Out, They’d Bury Us”](http://www.curbed.com/article/celebrity-broker-carl-gambino-pancreatic-cancer-diagnosis.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
@@ -66,9 +66,9 @@ Celebrity broker Carl Gambino on selling $700 million in real estate while fight
 <sub>Nov 13, 7:09 PM</sub>
 
 ## Fox59
-### [The Federal Aviation Administration says airplane departures can resume](https://fox59.com/news/national-world/flights-halted-at-airports-across-the-us-due-to-unspecified-extraordinary-circumstances-faa-says/)
-WASHINGTON (AP) — The Federal Aviation Administration says airplane departures can resume after the agency lifted a nationwide ground stop caused by communications problems. The FAA had grounded all flights nationwide Fr…
-<sub>Nov 13, 4:25 PM</sub>
+### [Anderson police arrest 13-year-old after fire breaks out at May Park](https://fox59.com/news/anderson-police-arrest-13-year-old-after-fire-breaks-out-at-may-park/)
+ANDERSON, Ind. — Police arrested a 13-year-old boy after a fire broke out at a park in Anderson on Saturday. According to a release, officers with the Anderson Police Department responded to May Park — which is located i…
+<sub>Nov 14, 10:24 PM</sub>
 
 ## Mirror Indy
 ### [41 things to do in Indianapolis this holiday season](https://mirrorindy.org/things-to-do-season-holidays-in-indianapolis/)
