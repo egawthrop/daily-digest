@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Sunday, November 15, 2026 — generated 12:24 PM EST_
+_Monday, November 16, 2026 — generated 3:09 PM EST_
 
 ## NYT
-### [Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business](https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html)
-The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.
-<sub>Nov 15, 5:02 AM</sub>
+### [Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip](https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html)
+The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.
+<sub>Nov 16, 12:59 PM</sub>
 
 ## NPR
-### [New Mexico wanted free childcare for all. This is what's worked — and what hasn't](https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families)
-A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.
-<sub>Nov 15, 5:00 AM</sub>
+### [U.S. tightens controls on remote access to AI technology amid Nvidia fallout](https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department)
+The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.
+<sub>Nov 16, 1:49 PM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Staggered age of consent to be discussed after Brand case, minister says](https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss)
-A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.
-<sub>Nov 15, 12:15 PM</sub>
+### [Russell Brand prison message 'appalling' and being investigated, No 10 says](https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss)
+Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was "not guilty of the offences I have been jailed for".
+<sub>Nov 16, 1:22 PM</sub>
 
 ## The Guardian
-### [‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick](https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare)
-Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, fea…
-<sub>Nov 15, 1:00 AM</sub>
+### [Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond | Peter Bradshaw](https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond)
+Pattinson is a character actor whose talent for inscrutable appraisal may mean a new era for 007. Will this more willowy, classy Bond leave sexism in the shadows? • New James Bond announced ... and the name’s Pattinson,…
+<sub>Nov 16, 10:14 AM</sub>
 
 ## Al Jazeera
-### [Somalia: We would not have recovered without the international community](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss)
-Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.
-<sub>Nov 15, 11:47 AM</sub>
+### [Nationwide ground stop could cost US airlines hundreds of millions](https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss)
+Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.
+<sub>Nov 16, 3:05 PM</sub>
 
 ## Ars Technica
-### [How the world’s fires changed while humanity hit pause](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/)
-COVID-19 lockdowns cut global fire activity by 12.3 percent.
-<sub>Nov 15, 7:07 AM</sub>
+### [Supreme Court keeps injunction against DEI grant defunding in place](https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/)
+Appeals court ruling rejected grant cancellations on First Amendment grounds.
+<sub>Nov 16, 2:54 PM</sub>
 
 ## WIRED Backchannel
-### [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
-Normally, aviation is slow to embrace new technology—but AI has come for the skies.
-<sub>Nov 14, 6:00 AM</sub>
+### [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
+After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.
+<sub>Nov 16, 11:12 AM</sub>
 
 ## WIRED Science
-### [It’s Getting Too Dry for Even Cactuses to Survive](https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/)
-As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.
-<sub>Nov 15, 5:30 AM</sub>
+### [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
+New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.
+<sub>Nov 16, 11:00 AM</sub>
 
 ## WIRED Business
-### [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
-Normally, aviation is slow to embrace new technology—but AI has come for the skies.
-<sub>Nov 14, 6:00 AM</sub>
+### [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
+After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.
+<sub>Nov 16, 11:12 AM</sub>
 
 ## The New Yorker
-### [Scott Colom’s Senate Win Is a Mississippi Miracle](https://www.newyorker.com/news/us-journal/scott-coloms-mississippi-miracle)
-Scenes from the Democrats’ most shocking midterm flip.
-<sub>Nov 15, 11:06 AM</sub>
+### [The Buddhist A.I. Sect That Wants to Take Over Silicon Valley](https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley)
+MAPLE promises to teach us how to live in the age of A.I. Its secret mission is much stranger.
+<sub>Nov 16, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Good News About AO3](http://www.thecut.com/article/fan-fiction-site-ao3-is-back-after-a-security-incident.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-After 17 agonizing days, the fan fiction website is back online. Mostly.
-<sub>Nov 15, 11:49 AM</sub>
+### [Lindsay Clancy Will Face a Second Trial](http://www.thecut.com/article/lindsay-clancy-will-face-a-second-trial.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The Massachusetts mother accused of murdering her three young children will go in front of a jury again this spring.
+<sub>Nov 16, 12:37 PM</sub>
 
 ## New York Mag Curbed
-### [“I Knew If They Found Out, They’d Bury Us”](http://www.curbed.com/article/celebrity-broker-carl-gambino-pancreatic-cancer-diagnosis.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Celebrity broker Carl Gambino on selling $700 million in real estate while fighting pancreatic cancer.
-<sub>Nov 13, 7:09 PM</sub>
+### [A Turnkey 2-Bedroom in Jackson Heights With a Wood-Burning Fireplace at $775,000](http://www.curbed.com/article/nyc-apartments-under-a-million-jackson-heights-greenwich-village-brooklyn-heights.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+And triple exposures in a one-bedroom on Perry Street.
+<sub>Nov 16, 7:00 AM</sub>
 
 ## Fox59
-### [Anderson police arrest 13-year-old after fire breaks out at May Park](https://fox59.com/news/anderson-police-arrest-13-year-old-after-fire-breaks-out-at-may-park/)
-ANDERSON, Ind. — Police arrested a 13-year-old boy after a fire broke out at a park in Anderson on Saturday. According to a release, officers with the Anderson Police Department responded to May Park — which is located i…
-<sub>Nov 14, 10:24 PM</sub>
+### [Indian man sentenced to 8 years in federal prison after scamming elderly Hoosiers](https://fox59.com/news/indycrime/indian-man-sentenced-to-8-years-in-federal-prison-after-scamming-elderly-hoosiers/)
+CARMEL, Ind. — An Indian man has been sentenced to federal prison after scamming multiple elderly Hoosiers out of tens of thousands of dollars. Ahmed Maqbul Syed, 60, was sentenced to 96 months or nearly eight years, in…
+<sub>Nov 16, 1:42 PM</sub>
 
 ## Mirror Indy
-### [41 things to do in Indianapolis this holiday season](https://mirrorindy.org/things-to-do-season-holidays-in-indianapolis/)
-Find merry comedies, latkes, a Kwanzaa Claus, a tiny art show and a whole lot of theater. The post 41 things to do in Indianapolis this holiday season appeared first on Mirror Indy .
-<sub>Nov 13, 4:09 PM</sub>
+### [Attend a free grief scream session in Indianapolis](https://mirrorindy.org/indianapolis-grief-group-scream-release-broad-ripple-events-madabolic-gym/)
+You can attend a free scream release session in Indianapolis on Nov. 30. It’s part of a grief meetup from 6:15 to 8 p.m. at MADabolic Broad Ripple, a strength-training gym at 1040 Broad Ripple Ave. The gym invites anyone…
+<sub>Nov 16, 1:03 PM</sub>
