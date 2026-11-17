@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Monday, November 16, 2026 — generated 3:09 PM EST_
+_Tuesday, November 17, 2026 — generated 2:03 PM EST_
 
 ## NYT
-### [Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip](https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html)
-The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.
-<sub>Nov 16, 12:59 PM</sub>
+### [U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health](https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html)
+The nation was once regarded as a global leader for reining in the highly contagious virus. Now, large outbreaks that sicken thousands could become routine.
+<sub>Nov 17, 1:10 PM</sub>
 
 ## NPR
-### [U.S. tightens controls on remote access to AI technology amid Nvidia fallout](https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department)
-The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.
-<sub>Nov 16, 1:49 PM</sub>
+### [Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet](https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain)
+Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.
+<sub>Nov 17, 1:34 PM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Russell Brand prison message 'appalling' and being investigated, No 10 says](https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss)
-Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was "not guilty of the offences I have been jailed for".
-<sub>Nov 16, 1:22 PM</sub>
+### [Government backs welfare shake-up to prevent 'lost generation'](https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss)
+Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.
+<sub>Nov 17, 1:43 PM</sub>
 
 ## The Guardian
-### [Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond | Peter Bradshaw](https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond)
-Pattinson is a character actor whose talent for inscrutable appraisal may mean a new era for 007. Will this more willowy, classy Bond leave sexism in the shadows? • New James Bond announced ... and the name’s Pattinson,…
-<sub>Nov 16, 10:14 AM</sub>
+### [‘The landslide hit the side of my car. I heard screaming, and realised it was me’ – This is climate breakdown](https://www.theguardian.com/environment/ng-interactive/2026/nov/17/my-car-was-hit-almost-like-a-freight-train-crashed-into-the-side-this-is-climate-breakdown)
+She set off for home in bright sunshine in British Columbia, Canada. Then the rains came – and the mud. This is Chelsey Sharpe’s story Location: Agassiz , Canada Disaster: Southern British Columbia floods, 2021 In 2021,…
+<sub>Nov 17, 7:00 AM</sub>
 
 ## Al Jazeera
-### [Nationwide ground stop could cost US airlines hundreds of millions](https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss)
-Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.
-<sub>Nov 16, 3:05 PM</sub>
+### [Mozambique opposition leader goes on trial on terrorism charges](https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss)
+Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges
+<sub>Nov 17, 1:48 PM</sub>
 
 ## Ars Technica
-### [Supreme Court keeps injunction against DEI grant defunding in place](https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/)
-Appeals court ruling rejected grant cancellations on First Amendment grounds.
-<sub>Nov 16, 2:54 PM</sub>
+### [Humanity braces for an alien invasion in 3 Body Problem S2 teaser](https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/)
+“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”
+<sub>Nov 17, 1:26 PM</sub>
 
 ## WIRED Backchannel
-### [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
-After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.
-<sub>Nov 16, 11:12 AM</sub>
+### [Congratulations to WIRED’s Class of 2026](https://www.wired.com/story/wired-yearbook-2026/)
+This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.
+<sub>Nov 17, 6:00 AM</sub>
 
 ## WIRED Science
-### [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
-New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.
-<sub>Nov 16, 11:00 AM</sub>
+### [The Dark Side of the Moon Was the Brightest Part of 2026](https://www.wired.com/story/wired-yearbook-2026-artemis-crew/)
+Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.
+<sub>Nov 17, 6:00 AM</sub>
 
 ## WIRED Business
-### [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
-After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.
-<sub>Nov 16, 11:12 AM</sub>
+### [Jensen Huang Says He’s Open to Coming Back to Nvidia](https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/)
+Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.
+<sub>Nov 17, 12:32 PM</sub>
 
 ## The New Yorker
-### [The Buddhist A.I. Sect That Wants to Take Over Silicon Valley](https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley)
-MAPLE promises to teach us how to live in the age of A.I. Its secret mission is much stranger.
-<sub>Nov 16, 6:00 AM</sub>
+### [How Could an Upgrade Cancel Eighteen Thousand Flights?](https://www.newyorker.com/news/the-lede/how-could-an-upgrade-cancel-eighteen-thousand-flights)
+The F.A.A.’s ground stop was one of the worst travel disruptions since 9/11. Here’s what does and doesn’t make sense about the Trump Administration’s story.
+<sub>Nov 17, 1:52 PM</sub>
 
 ## New York Mag The Cut
-### [Lindsay Clancy Will Face a Second Trial](http://www.thecut.com/article/lindsay-clancy-will-face-a-second-trial.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The Massachusetts mother accused of murdering her three young children will go in front of a jury again this spring.
-<sub>Nov 16, 12:37 PM</sub>
+### [What Should I Do With All My Mother’s Stuff?](http://www.thecut.com/article/what-should-i-do-with-all-my-mothers-stuff.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+I’m drowning in her belongings, but it’s hard to let go.
+<sub>Nov 17, 7:00 AM</sub>
 
 ## New York Mag Curbed
-### [A Turnkey 2-Bedroom in Jackson Heights With a Wood-Burning Fireplace at $775,000](http://www.curbed.com/article/nyc-apartments-under-a-million-jackson-heights-greenwich-village-brooklyn-heights.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-And triple exposures in a one-bedroom on Perry Street.
-<sub>Nov 16, 7:00 AM</sub>
+### [The NYC Neighborhoods Where It’s Smarter to Buy Than Rent](http://www.curbed.com/article/buy-rent-nyc-expensive-neighborhoods-market-gramercy.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Rents and apartment prices are so high that there’s just a handful of neighborhoods where it’s cheaper to buy than rent over ten years.
+<sub>Nov 17, 11:30 AM</sub>
 
 ## Fox59
-### [Indian man sentenced to 8 years in federal prison after scamming elderly Hoosiers](https://fox59.com/news/indycrime/indian-man-sentenced-to-8-years-in-federal-prison-after-scamming-elderly-hoosiers/)
-CARMEL, Ind. — An Indian man has been sentenced to federal prison after scamming multiple elderly Hoosiers out of tens of thousands of dollars. Ahmed Maqbul Syed, 60, was sentenced to 96 months or nearly eight years, in…
-<sub>Nov 16, 1:42 PM</sub>
+### [Ind. Supreme Court rules that Garten can be sworn in as District 45 state senator](https://fox59.com/indianapolitics/ind-supreme-court-rules-that-garten-can-be-sworn-in-as-district-45-state-senator/)
+INDIANAPOLIS -- The Indiana Supreme Court has weighed in on the District 45 race in the Indiana State Senate, allowing Indiana State Senator Chris Garten, the announced president pro tempore for the Indiana State Senate…
+<sub>Nov 17, 12:31 PM</sub>
 
 ## Mirror Indy
-### [Attend a free grief scream session in Indianapolis](https://mirrorindy.org/indianapolis-grief-group-scream-release-broad-ripple-events-madabolic-gym/)
-You can attend a free scream release session in Indianapolis on Nov. 30. It’s part of a grief meetup from 6:15 to 8 p.m. at MADabolic Broad Ripple, a strength-training gym at 1040 Broad Ripple Ave. The gym invites anyone…
-<sub>Nov 16, 1:03 PM</sub>
+### [Popular ‘Library of Things’ program expanding in 2027](https://mirrorindy.org/indianapolis-public-library-things-lending-program-2027/)
+By next spring, residents will be able to pick up items at any library branch. The post Popular ‘Library of Things’ program expanding in 2027 appeared first on Mirror Indy .
+<sub>Nov 17, 1:51 PM</sub>
