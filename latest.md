@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Friday, November 20, 2026 — generated 1:18 PM EST_
+_Saturday, November 21, 2026 — generated 12:15 PM EST_
 
 ## NYT
-### [How Jensen Huang Made Humiliation Routine at Nvidia](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html)
-The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.
-<sub>Nov 20, 9:43 AM</sub>
+### [Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley](https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html)
+The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.
+<sub>Nov 21, 5:03 AM</sub>
 
 ## NPR
-### [Trump initially accepted the midterm results, but most GOP voters doubt they were fair](https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans)
-Less than half of Republicans nationwide considered the midterm elections "free and fair," according to new polling.
-<sub>Nov 20, 12:00 PM</sub>
+### [Killer robots: U.N. talks fall short of hopes for legally binding rules](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)
+U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.
+<sub>Nov 21, 9:18 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow](https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss)
-The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.
-<sub>Nov 20, 11:41 AM</sub>
+### [Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
+Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.
+<sub>Nov 21, 8:17 AM</sub>
 
 ## The Guardian
-### [Richard Avedon’s rarely seen portraits of Hollywood A-listers – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/nov/20/richard-avedon-hollywood-photographs)
-After consulting on the production of the 1957 musical Funny Face, which was loosely based on his own life as a young photographer, Richard Avedon considered leaving photography behind to pursue film directing. Although…
-<sub>Nov 20, 5:00 AM</sub>
+### [Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?](https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada)
+Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end In the hours after polls in the US midterm elections closed and it became clear that Donald Trump h…
+<sub>Nov 21, 7:00 AM</sub>
 
 ## Al Jazeera
-### [Mamdani unveils plan to close New York’s Rikers Island by 2032](https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss)
-The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.
-<sub>Nov 20, 12:54 PM</sub>
+### [India’s opposition stages protests against Meta over account removals](https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss)
+Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.
+<sub>Nov 21, 11:14 AM</sub>
 
 ## Ars Technica
-### [Valve says it might have to raise the price of supply-limited Steam Machines](https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/)
-"We don't yet know the number we are able to make, and at what price..."
-<sub>Nov 20, 11:11 AM</sub>
+### [“Race realism” isn’t realistic—and it isn’t good science](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/)
+Modern genetics does not support claims of innate racial differences in intelligence.
+<sub>Nov 21, 7:01 AM</sub>
 
 ## WIRED Backchannel
-### [Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine](https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/)
-Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.
-<sub>Nov 19, 6:00 AM</sub>
+### [The Manosphere Isn’t Ready for Brothercore](https://www.wired.com/story/hey-brother-house-manosphere-content/)
+Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.
+<sub>Nov 21, 5:00 AM</sub>
 
 ## WIRED Science
-### [El Niño Is Driving a Record Marine Heat Wave Off the California Coast](https://www.wired.com/story/el-nino-record-california-marine-heat-wave/)
-The extreme heat extends hundreds of meters below the ocean’s surface and is fueling severe storms and abnormally high seas.
-<sub>Nov 20, 5:30 AM</sub>
+### [A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems](https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/)
+Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.
+<sub>Nov 21, 7:00 AM</sub>
 
 ## WIRED Business
-### [Internet Archive Staffers Are Unionizing](https://www.wired.com/story/internet-archive-staffers-are-unionizing/)
-A supermajority of eligible workers at the nonprofit digital library voted to join the Communications Workers of America.
-<sub>Nov 20, 1:00 PM</sub>
+### [Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)
+Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”
+<sub>Nov 20, 2:52 PM</sub>
 
 ## The New Yorker
-### [The Former Trump Official Who Thinks Trump’s Staff Has Let Him Down](https://www.newyorker.com/news/q-and-a/the-former-trump-official-who-thinks-trumps-staff-has-let-him-down)
-John Ullyot’s new book argues that better advisers could save the President’s second term.
-<sub>Nov 20, 6:00 AM</sub>
+### [Donald Trump’s Crackdown on International Students Is Working](https://www.newyorker.com/news/the-lede/donald-trumps-crackdown-on-international-students-is-working)
+Courts have blocked some of the harshest restrictions proposed by the Administration, but international enrollment—and interest from students abroad—has dropped anyway, leaving schools such as the University of Illinois…
+<sub>Nov 21, 11:57 AM</sub>
 
 ## New York Mag The Cut
-### [The Body Answered My Lesbian Prayers](http://www.thecut.com/article/the-body-netflix-catholic-aesthetics-2026-pop-culture-trends.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Catholic aesthetics reached a fever pitch in pop culture this year, starting with ‘Lost Lambs’ and coming to a head in ‘The Body.’
-<sub>Nov 20, 12:00 PM</sub>
+### [‘He Asked Me If I’m a Honeypot’](http://www.thecut.com/article/jensen-huang-scandal-what-is-a-honey-pot-meme.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Jokes and memes abound from the Jensen Huang affair scandal, but the reputational damage to Asian American women has already been done.
+<sub>Nov 21, 8:00 AM</sub>
 
 ## New York Mag Curbed
-### [The Childcare Pied-à-Terre](http://www.curbed.com/article/grandparent-pied-terre-cheaper-than-childcare.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Some families are finding that renting or even buying an apartment for the grandparents is still cheaper than daycare.
-<sub>Nov 19, 11:33 AM</sub>
+### [Novelist Colson Whitehead’s Trophy-Filled Trophy Co-op](http://www.curbed.com/article/colson-whitehead-selling-upper-west-side-pre-war-co-op-west-end-ave.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+He bought the prewar corner unit when he won his second Pulitzer.
+<sub>Nov 20, 7:00 AM</sub>
 
 ## Fox59
-### [Colts releasing Daniel Jones; Anthony Richardson Sr. the starting QB](https://fox59.com/news/colts-releasing-daniel-jones-anthony-richardson-sr-the-starting-qb/)
-INDIANAPOLIS — The Indianapolis Colts have released Daniel Jones. Coach Shane Steichen made the announcement Friday in the aftermath of the Colts’ 26-3 loss at Houston Thursday night. Anthony Richardson Sr. will be the C…
-<sub>Nov 20, 1:14 PM</sub>
+### [Armed man killed in officer-involved shooting in Lawrence](https://fox59.com/news/officer-involved-shooting-under-investigation-in-lawrence-2/)
+LAWRENCE, Ind. — A man was killed during an officer-involved shooting in Lawrence on Friday. According to the Lawrence Police Department, officers were called to the 4700 block of Wellington Avenue — which is located off…
+<sub>Nov 20, 4:05 PM</sub>
 
 ## Mirror Indy
-### [Eastern Star to sell historic Catholic church building](https://mirrorindy.org/martin-university-eastern-star-church-st-francis-de-sales-sale-november-2026/)
-The church had tried to demolish the structure on the former Martin University campus. The post Eastern Star to sell historic Catholic church building appeared first on Mirror Indy .
-<sub>Nov 20, 10:32 AM</sub>
+### [Indy veterans face barriers to getting mental healthcare](https://mirrorindy.org/indianapolis-veterans-va-healthcare-richard-roudebush-trump-staffing-cuts-wait-times-mental-health/)
+One man said he gave up after being quoted a three-month wait for an appointment. The post Indy veterans face barriers to getting mental healthcare appeared first on Mirror Indy .
+<sub>Nov 20, 4:31 PM</sub>
