@@ -6,56 +6,56 @@
     <atom:link href="https://egawthrop.github.io/daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>One top story from each of my chosen publications, updated daily.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:15:58 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Nov 2026 17:15:58 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:50:21 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 17:50:21 +0000</pubDate>
     <ttl>720</ttl>
     <item>
-      <title>NYT: Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley</title>
-      <link>https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html</guid>
-      <pubDate>Sat, 21 Nov 2026 10:03:45 +0000</pubDate>
+      <title>NYT: COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</title>
+      <link>https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:32:44 +0000</pubDate>
       <source>NYT</source>
-      <description>The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.</description>
+      <description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
     </item>
     <item>
-      <title>NPR: Killer robots: U.N. talks fall short of hopes for legally binding rules</title>
-      <link>https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones</guid>
-      <pubDate>Sat, 21 Nov 2026 14:18:17 +0000</pubDate>
+      <title>NPR: International climate talks end in disappointment</title>
+      <link>https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment</guid>
+      <pubDate>Sun, 22 Nov 2026 16:33:22 +0000</pubDate>
       <source>NPR</source>
-      <description>U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.</description>
+      <description>Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.</description>
     </item>
     <item>
-      <title>BBC News: Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting</title>
-      <link>https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sat, 21 Nov 2026 13:17:38 +0000</pubDate>
+      <title>BBC News: Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills</title>
+      <link>https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 22 Nov 2026 13:50:21 +0000</pubDate>
       <source>BBC News</source>
-      <description>Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.</description>
+      <description>Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.</description>
     </item>
     <item>
-      <title>The Guardian: Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?</title>
-      <link>https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:58 +0000</pubDate>
+      <title>The Guardian: ‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause</title>
+      <link>https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women</link>
+      <guid isPermaLink="true">https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:29 +0000</pubDate>
       <source>The Guardian</source>
-      <description>Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end In the hours after polls in the US midterm elections closed and it became clear that Donald Trump h…</description>
+      <description>Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs. But are products like lion’s mane mushrooms or even magnets for knickers really helping them? Or is it all just a big capitalist con?…</description>
     </item>
     <item>
-      <title>Al Jazeera: India’s opposition stages protests against Meta over account removals</title>
-      <link>https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss</guid>
-      <pubDate>Sat, 21 Nov 2026 16:14:01 +0000</pubDate>
+      <title>Al Jazeera: Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base</title>
+      <link>https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss</guid>
+      <pubDate>Sun, 22 Nov 2026 17:12:48 +0000</pubDate>
       <source>Al Jazeera</source>
-      <description>Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.</description>
+      <description>There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.</description>
     </item>
     <item>
-      <title>Ars Technica: “Race realism” isn’t realistic—and it isn’t good science</title>
-      <link>https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/</link>
-      <guid isPermaLink="true">https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/</guid>
-      <pubDate>Sat, 21 Nov 2026 12:01:13 +0000</pubDate>
+      <title>Ars Technica: GLP-1 drugs could have a surprisingly large environmental payoff</title>
+      <link>https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/</link>
+      <guid isPermaLink="true">https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:07:41 +0000</pubDate>
       <source>Ars Technica</source>
-      <description>Modern genetics does not support claims of innate racial differences in intelligence.</description>
+      <description>GLP-1 drugs could cut food demand enough to free farmland larger than Italy.</description>
     </item>
     <item>
       <title>WIRED Backchannel: The Manosphere Isn’t Ready for Brothercore</title>
@@ -66,12 +66,12 @@
       <description>Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.</description>
     </item>
     <item>
-      <title>WIRED Science: A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems</title>
-      <link>https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+      <title>WIRED Science: Scientists Tried to Kill This Dirt, but It Wouldn’t Die</title>
+      <link>https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/</guid>
+      <pubDate>Sun, 22 Nov 2026 10:30:00 +0000</pubDate>
       <source>WIRED Science</source>
-      <description>Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.</description>
+      <description>Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.</description>
     </item>
     <item>
       <title>WIRED Business: Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
@@ -82,20 +82,20 @@
       <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
     </item>
     <item>
-      <title>The New Yorker: Donald Trump’s Crackdown on International Students Is Working</title>
-      <link>https://www.newyorker.com/news/the-lede/donald-trumps-crackdown-on-international-students-is-working</link>
-      <guid isPermaLink="true">https://www.newyorker.com/news/the-lede/donald-trumps-crackdown-on-international-students-is-working</guid>
-      <pubDate>Sat, 21 Nov 2026 16:57:28 +0000</pubDate>
+      <title>The New Yorker: Should the Democrats Impeach Pete Hegseth?</title>
+      <link>https://www.newyorker.com/magazine/2026/11/30/the-uses-of-impeachment</link>
+      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/11/30/the-uses-of-impeachment</guid>
+      <pubDate>Sun, 22 Nov 2026 11:00:00 +0000</pubDate>
       <source>The New Yorker</source>
-      <description>Courts have blocked some of the harshest restrictions proposed by the Administration, but international enrollment—and interest from students abroad—has dropped anyway, leaving schools such as the University of Illinois…</description>
+      <description>The new majority will face constant dilemmas over whether to hold Trump officials accountable or focus on delivering for voters.</description>
     </item>
     <item>
-      <title>New York Mag The Cut: ‘He Asked Me If I’m a Honeypot’</title>
-      <link>http://www.thecut.com/article/jensen-huang-scandal-what-is-a-honey-pot-meme.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</link>
-      <guid isPermaLink="true">http://www.thecut.com/article/jensen-huang-scandal-what-is-a-honey-pot-meme.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</guid>
-      <pubDate>Sat, 21 Nov 2026 13:00:29 +0000</pubDate>
+      <title>New York Mag The Cut: Your Weekly Horoscopes by Madame Clairevoyant: November 22–28</title>
+      <link>http://www.thecut.com/article/weekly-horoscopes-by-madame-clairevoyant-week-of-november-22-2026.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</link>
+      <guid isPermaLink="true">http://www.thecut.com/article/weekly-horoscopes-by-madame-clairevoyant-week-of-november-22-2026.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part</guid>
+      <pubDate>Sun, 22 Nov 2026 10:00:12 +0000</pubDate>
       <source>New York Mag The Cut</source>
-      <description>Jokes and memes abound from the Jensen Huang affair scandal, but the reputational damage to Asian American women has already been done.</description>
+      <description>Sagittarius season is here.</description>
     </item>
     <item>
       <title>New York Mag Curbed: Novelist Colson Whitehead’s Trophy-Filled Trophy Co-op</title>
@@ -106,12 +106,12 @@
       <description>He bought the prewar corner unit when he won his second Pulitzer.</description>
     </item>
     <item>
-      <title>Fox59: Armed man killed in officer-involved shooting in Lawrence</title>
-      <link>https://fox59.com/news/officer-involved-shooting-under-investigation-in-lawrence-2/</link>
-      <guid isPermaLink="true">https://fox59.com/news/officer-involved-shooting-under-investigation-in-lawrence-2/</guid>
-      <pubDate>Fri, 20 Nov 2026 21:05:44 +0000</pubDate>
+      <title>Fox59: Man, woman dead in shooting on Indy's east side</title>
+      <link>https://fox59.com/news/2-dead-following-double-shooting-on-indys-east-side/</link>
+      <guid isPermaLink="true">https://fox59.com/news/2-dead-following-double-shooting-on-indys-east-side/</guid>
+      <pubDate>Sun, 22 Nov 2026 03:58:13 +0000</pubDate>
       <source>Fox59</source>
-      <description>LAWRENCE, Ind. — A man was killed during an officer-involved shooting in Lawrence on Friday. According to the Lawrence Police Department, officers were called to the 4700 block of Wellington Avenue — which is located off…</description>
+      <description>INDIANAPOLIS — A man and a woman have died after a shooting on Indy's east side on Saturday night. According to the Indianapolis Metropolitan Police Department, officers were called to the 3600 block of North Grant Avenu…</description>
     </item>
     <item>
       <title>Mirror Indy: Indy veterans face barriers to getting mental healthcare</title>
