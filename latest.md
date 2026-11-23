@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Sunday, November 22, 2026 — generated 12:50 PM EST_
+_Monday, November 23, 2026 — generated 5:20 PM EST_
 
 ## NYT
-### [COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
-European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.
-<sub>Nov 22, 11:32 AM</sub>
+### [Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html)
+President Trump decided he wanted to do whatever he could to help Jensen Huang get his old job back, two people familiar with the matter said.
+<sub>Nov 23, 2:55 PM</sub>
 
 ## NPR
-### [International climate talks end in disappointment](https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment)
-Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.
-<sub>Nov 22, 11:33 AM</sub>
+### [Mending relationships over the holidays? Considering a truce? NPR wants to know](https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute)
+Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on All Things Considered…
+<sub>Nov 23, 3:53 PM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills](https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss)
-Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.
-<sub>Nov 22, 8:50 AM</sub>
+### [My approach to EU is pragmatic, says Burnham](https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss)
+The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are "stuck in the past".
+<sub>Nov 23, 2:10 PM</sub>
 
 ## The Guardian
-### [‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause](https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women)
-Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs. But are products like lion’s mane mushrooms or even magnets for knickers really helping them? Or is it all just a big capitalist con?…
-<sub>Nov 22, 7:00 AM</sub>
+### [How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’](https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts)
+As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grindi…
+<sub>Nov 23, 11:58 AM</sub>
 
 ## Al Jazeera
-### [Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base](https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss)
-There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.
-<sub>Nov 22, 12:12 PM</sub>
+### [US escalates sanctions on Iran, targets ‘shadow banking’ networks](https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss)
+US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.
+<sub>Nov 23, 4:30 PM</sub>
 
 ## Ars Technica
-### [GLP-1 drugs could have a surprisingly large environmental payoff](https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/)
-GLP-1 drugs could cut food demand enough to free farmland larger than Italy.
-<sub>Nov 22, 7:07 AM</sub>
+### [Trump halts Iowa detonation, says new governor to blame if it blows accidentally](https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/)
+The Army said on Sunday that it would carry out the detonation on Wednesday.
+<sub>Nov 23, 4:58 PM</sub>
 
 ## WIRED Backchannel
 ### [The Manosphere Isn’t Ready for Brothercore](https://www.wired.com/story/hey-brother-house-manosphere-content/)
@@ -41,36 +41,36 @@ Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a conte
 <sub>Nov 21, 5:00 AM</sub>
 
 ## WIRED Science
-### [Scientists Tried to Kill This Dirt, but It Wouldn’t Die](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/)
-Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.
-<sub>Nov 22, 5:30 AM</sub>
+### [The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead](https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/)
+The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.
+<sub>Nov 23, 1:46 PM</sub>
 
 ## WIRED Business
-### [Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)
-Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”
-<sub>Nov 20, 2:52 PM</sub>
+### [How to Win Big Betting on Jensen Huang? Listen to Trump](https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/)
+Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.
+<sub>Nov 23, 4:31 PM</sub>
 
 ## The New Yorker
-### [Should the Democrats Impeach Pete Hegseth?](https://www.newyorker.com/magazine/2026/11/30/the-uses-of-impeachment)
-The new majority will face constant dilemmas over whether to hold Trump officials accountable or focus on delivering for voters.
-<sub>Nov 22, 6:00 AM</sub>
+### [Is Norway’s Oil Fund a Blessing or a Curse?](https://www.newyorker.com/magazine/2026/11/30/is-norways-oil-fund-a-blessing-or-a-curse)
+In a culture used to thrifty living, a two-trillion-dollar bonanza makes people very uneasy.
+<sub>Nov 23, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Your Weekly Horoscopes by Madame Clairevoyant: November 22–28](http://www.thecut.com/article/weekly-horoscopes-by-madame-clairevoyant-week-of-november-22-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Sagittarius season is here.
-<sub>Nov 22, 5:00 AM</sub>
+### [Brooklyn Beckham Says His Wife Made Him a Hot-Sauce Mogul](http://www.thecut.com/article/brooklyn-beckham-says-his-wife-made-him-a-hot-sauce-mogul.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Apparently, you can thank Nicola Peltz for Cloud23.
+<sub>Nov 23, 4:35 PM</sub>
 
 ## New York Mag Curbed
-### [Novelist Colson Whitehead’s Trophy-Filled Trophy Co-op](http://www.curbed.com/article/colson-whitehead-selling-upper-west-side-pre-war-co-op-west-end-ave.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-He bought the prewar corner unit when he won his second Pulitzer.
-<sub>Nov 20, 7:00 AM</sub>
+### [Hugh Jackman Finally Sells His Perry Street Triplex](http://www.curbed.com/article/hugh-jackman-perry-street-triplex-apartment-sale.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The actor’s West Village apartment, which he still owned with his ex-wife, was designed by Richard Meier, inside and out.
+<sub>Nov 23, 3:36 PM</sub>
 
 ## Fox59
-### [Man, woman dead in shooting on Indy's east side](https://fox59.com/news/2-dead-following-double-shooting-on-indys-east-side/)
-INDIANAPOLIS — A man and a woman have died after a shooting on Indy's east side on Saturday night. According to the Indianapolis Metropolitan Police Department, officers were called to the 3600 block of North Grant Avenu…
-<sub>Nov 21, 10:58 PM</sub>
+### [Toddler, 10-year-old killed in Grant County house fire](https://fox59.com/news/toddler-10-year-old-killed-in-grant-county-house-fire/)
+GAS CITY, Ind. -- An investigation is underway after a toddler and a child were killed in a residential fire in Gas City Sunday night. The Grant County Coroner's Office confirmed that authorities responded around 10:35 p…
+<sub>Nov 23, 8:23 AM</sub>
 
 ## Mirror Indy
-### [Indy veterans face barriers to getting mental healthcare](https://mirrorindy.org/indianapolis-veterans-va-healthcare-richard-roudebush-trump-staffing-cuts-wait-times-mental-health/)
-One man said he gave up after being quoted a three-month wait for an appointment. The post Indy veterans face barriers to getting mental healthcare appeared first on Mirror Indy .
-<sub>Nov 20, 4:31 PM</sub>
+### [Musicians: Submit your music for the 2027 Naptones awards](https://mirrorindy.org/submit-your-music-annual-indiana-music-awards-ceremony-naptones/)
+You have until Dec. 31 to enter 2026 releases ahead of the March 20 ceremony at Theater at the Fort. The post Musicians: Submit your music for the 2027 Naptones awards appeared first on Mirror Indy .
+<sub>Nov 23, 4:38 PM</sub>
