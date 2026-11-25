@@ -1,76 +1,76 @@
 # The Daily Digest
 
-_Monday, November 23, 2026 — generated 5:20 PM EST_
+_Wednesday, November 25, 2026 — generated 3:59 PM EST_
 
 ## NYT
-### [Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html)
-President Trump decided he wanted to do whatever he could to help Jensen Huang get his old job back, two people familiar with the matter said.
-<sub>Nov 23, 2:55 PM</sub>
+### [Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices](https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html)
+The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.
+<sub>Nov 25, 10:58 AM</sub>
 
 ## NPR
-### [Mending relationships over the holidays? Considering a truce? NPR wants to know](https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute)
-Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on All Things Considered…
-<sub>Nov 23, 3:53 PM</sub>
+### [Group of Senate Democrats push to add freshman to leadership](https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen)
+Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.
+<sub>Nov 25, 12:30 PM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [My approach to EU is pragmatic, says Burnham](https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss)
-The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are "stuck in the past".
-<sub>Nov 23, 2:10 PM</sub>
+### [Poundland collapses putting 11,000 jobs at risk](https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss)
+The discount chain has fallen into administration after its owners failed to find a buyer.
+<sub>Nov 25, 3:43 PM</sub>
 
 ## The Guardian
-### [How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’](https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts)
-As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grindi…
-<sub>Nov 23, 11:58 AM</sub>
+### [‘Nobody showed up but me’: will Friendsgiving survive gen Z?](https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z)
+A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing It’s a TikTok scene straight out of a stress dream: two men stand in their freshly cleaned apartment, e…
+<sub>Nov 25, 9:00 AM</sub>
 
 ## Al Jazeera
-### [US escalates sanctions on Iran, targets ‘shadow banking’ networks](https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss)
-US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.
-<sub>Nov 23, 4:30 PM</sub>
+### [Baby Aliyah steals the show during Australian Senate debate](https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss)
+Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms
+<sub>Nov 25, 3:42 PM</sub>
 
 ## Ars Technica
-### [Trump halts Iowa detonation, says new governor to blame if it blows accidentally](https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/)
-The Army said on Sunday that it would carry out the detonation on Wednesday.
-<sub>Nov 23, 4:58 PM</sub>
+### [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/)
+The pitch is an unusual combination of privacy promises and AI features.
+<sub>Nov 25, 3:57 PM</sub>
 
 ## WIRED Backchannel
-### [The Manosphere Isn’t Ready for Brothercore](https://www.wired.com/story/hey-brother-house-manosphere-content/)
-Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.
-<sub>Nov 21, 5:00 AM</sub>
+### [A Journey Through the Absurd Hell of Trump’s Third-Country Deportations](https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/)
+How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.
+<sub>Nov 25, 6:00 AM</sub>
 
 ## WIRED Science
-### [The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead](https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/)
-The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.
-<sub>Nov 23, 1:46 PM</sub>
+### [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
+Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing.
+<sub>Nov 25, 1:38 PM</sub>
 
 ## WIRED Business
-### [How to Win Big Betting on Jensen Huang? Listen to Trump](https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/)
-Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.
-<sub>Nov 23, 4:31 PM</sub>
+### [Not Just Nvidia: Inside Team Trump’s Takeover of Intel](https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/)
+Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.
+<sub>Nov 25, 5:00 AM</sub>
 
 ## The New Yorker
-### [Is Norway’s Oil Fund a Blessing or a Curse?](https://www.newyorker.com/magazine/2026/11/30/is-norways-oil-fund-a-blessing-or-a-curse)
-In a culture used to thrifty living, a two-trillion-dollar bonanza makes people very uneasy.
-<sub>Nov 23, 6:00 AM</sub>
+### [Long Live the Chip King](https://www.newyorker.com/news/the-lede/long-live-the-chip-king)
+Donald Trump seems to have found a kindred spirit in Jensen Huang, and has thus given him the highest honor: a place in the iconic Butler photo, putting the Nvidia C.E.O.’s brief ouster on par with an assassination attem…
+<sub>Nov 24, 11:45 AM</sub>
 
 ## New York Mag The Cut
-### [Brooklyn Beckham Says His Wife Made Him a Hot-Sauce Mogul](http://www.thecut.com/article/brooklyn-beckham-says-his-wife-made-him-a-hot-sauce-mogul.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Apparently, you can thank Nicola Peltz for Cloud23.
-<sub>Nov 23, 4:35 PM</sub>
+### [Jennifer Barreto Is the First Mother to Win Miss Universe](http://www.thecut.com/article/jennifer-barreto-is-the-first-mom-to-win-miss-universe.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+She celebrated with her 7-year-old daughter and her husband backstage.
+<sub>Nov 25, 1:35 PM</sub>
 
 ## New York Mag Curbed
-### [Hugh Jackman Finally Sells His Perry Street Triplex](http://www.curbed.com/article/hugh-jackman-perry-street-triplex-apartment-sale.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The actor’s West Village apartment, which he still owned with his ex-wife, was designed by Richard Meier, inside and out.
-<sub>Nov 23, 3:36 PM</sub>
+### [A Penthouse in a Robert A.M. Stern Tower Poised to Set a Lower Fifth Record](http://www.curbed.com/article/greenwich-village-penthouse-sale-lower-fifth-record-robert-stern.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+The building is among the first of a new crop of condos popping up in the historic district in decades.
+<sub>Nov 25, 12:37 PM</sub>
 
 ## Fox59
-### [Toddler, 10-year-old killed in Grant County house fire](https://fox59.com/news/toddler-10-year-old-killed-in-grant-county-house-fire/)
-GAS CITY, Ind. -- An investigation is underway after a toddler and a child were killed in a residential fire in Gas City Sunday night. The Grant County Coroner's Office confirmed that authorities responded around 10:35 p…
-<sub>Nov 23, 8:23 AM</sub>
+### [IMPD: Woman pronounced dead after being found in body of water on NW side of Indianapolis](https://fox59.com/indiana-news/impd-woman-pronounced-dead-after-being-found-in-body-of-water-on-nw-side-of-indianapolis/)
+INDIANAPOLIS -- A woman was pronounced dead after she was located in a body of water on Wednesday on the northwest side of Indianapolis. According to officials with the Indianapolis Metropolitan Police Department, office…
+<sub>Nov 25, 1:57 PM</sub>
 
 ## Mirror Indy
-### [Musicians: Submit your music for the 2027 Naptones awards](https://mirrorindy.org/submit-your-music-annual-indiana-music-awards-ceremony-naptones/)
-You have until Dec. 31 to enter 2026 releases ahead of the March 20 ceremony at Theater at the Fort. The post Musicians: Submit your music for the 2027 Naptones awards appeared first on Mirror Indy .
-<sub>Nov 23, 4:38 PM</sub>
+### [Want to cook more nutritious meals? Learn how Dec. 1 and 15](https://mirrorindy.org/free-nutrition-class-marion-county-public-health-department-gleaners-food-bank-decatur-township/)
+Cook affordable meals with items from Gleaners Food Bank in Decatur Township. The post Want to cook more nutritious meals? Learn how Dec. 1 and 15 appeared first on Mirror Indy .
+<sub>Nov 25, 2:11 PM</sub>
