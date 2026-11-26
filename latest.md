@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Wednesday, November 25, 2026 — generated 3:59 PM EST_
+_Thursday, November 26, 2026 — generated 3:10 PM EST_
 
 ## NYT
-### [Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices](https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html)
-The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.
-<sub>Nov 25, 10:58 AM</sub>
+### [Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands](https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html)
+Nine marching bands were set to perform in the Macy’s Thanksgiving Day Parade. The decision to move the event to Saturday posed new logistical challenges for them.
+<sub>Nov 25, 9:32 PM</sub>
 
 ## NPR
-### [Group of Senate Democrats push to add freshman to leadership](https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen)
-Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.
-<sub>Nov 25, 12:30 PM</sub>
+### [Congo Ebola outbreak reaches 12,000 cases as some responders evacuate](https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders)
+As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.
+<sub>Nov 26, 8:47 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Poundland collapses putting 11,000 jobs at risk](https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss)
-The discount chain has fallen into administration after its owners failed to find a buyer.
-<sub>Nov 25, 3:43 PM</sub>
+### [Huntingdon train attacker found guilty of all 14 counts of attempted murder](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
+Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
+<sub>Nov 26, 2:00 PM</sub>
 
 ## The Guardian
-### [‘Nobody showed up but me’: will Friendsgiving survive gen Z?](https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z)
-A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing It’s a TikTok scene straight out of a stress dream: two men stand in their freshly cleaned apartment, e…
-<sub>Nov 25, 9:00 AM</sub>
+### [Nathan Fielder v Elizabeth Holmes: You Can See Everything (Spoilers) | The Close Up](https://www.theguardian.com/culture/video/2026/nov/26/nathan-fielder-v-elizabeth-holmes-you-can-see-everything-spoilers-the-close-up)
+In Nathan Fielder and Lance Oppenheim’s new documentary, Theranos founder Elizabeth Holmes and the film-makers fight over who is the hero and who is the villain. Carys and Lanre dig into the film’s wildest moments, inclu…
+<sub>Nov 26, 12:07 PM</sub>
 
 ## Al Jazeera
-### [Baby Aliyah steals the show during Australian Senate debate](https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss)
-Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms
-<sub>Nov 25, 3:42 PM</sub>
+### [Peru burns more than 10 tonnes of seized drugs](https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss)
+Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026
+<sub>Nov 26, 2:44 PM</sub>
 
 ## Ars Technica
-### [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/)
-The pitch is an unusual combination of privacy promises and AI features.
-<sub>Nov 25, 3:57 PM</sub>
+### [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/)
+Ford enters the World Endurance Championship in 2027 with the new prototype.
+<sub>Nov 26, 1:00 PM</sub>
 
 ## WIRED Backchannel
 ### [A Journey Through the Absurd Hell of Trump’s Third-Country Deportations](https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/)
@@ -41,24 +41,24 @@ How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s l
 <sub>Nov 25, 6:00 AM</sub>
 
 ## WIRED Science
-### [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
-Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing.
-<sub>Nov 25, 1:38 PM</sub>
+### [Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces](https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/)
+This flexible movement could potentially be applied to the design of soft robots that operate in confined spaces.
+<sub>Nov 26, 5:00 AM</sub>
 
 ## WIRED Business
-### [Not Just Nvidia: Inside Team Trump’s Takeover of Intel](https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/)
-Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.
-<sub>Nov 25, 5:00 AM</sub>
+### [Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/)
+The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.
+<sub>Nov 26, 5:51 AM</sub>
 
 ## The New Yorker
-### [Long Live the Chip King](https://www.newyorker.com/news/the-lede/long-live-the-chip-king)
-Donald Trump seems to have found a kindred spirit in Jensen Huang, and has thus given him the highest honor: a place in the iconic Butler photo, putting the Nvidia C.E.O.’s brief ouster on par with an assassination attem…
-<sub>Nov 24, 11:45 AM</sub>
+### [The Price of an Iranian Life](https://www.newyorker.com/news/the-lede/the-price-of-an-iranian-life)
+A new documentary explores blood money and the persistence of patriarchy.
+<sub>Nov 26, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [Jennifer Barreto Is the First Mother to Win Miss Universe](http://www.thecut.com/article/jennifer-barreto-is-the-first-mom-to-win-miss-universe.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-She celebrated with her 7-year-old daughter and her husband backstage.
-<sub>Nov 25, 1:35 PM</sub>
+### [The JLo Show Is Perfect Thanksgiving Television](http://www.thecut.com/article/the-jlo-show-is-perfect-thanksgiving-television.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+Can your football team perform a swing version of “Jenny From the Block”?
+<sub>Nov 26, 9:00 AM</sub>
 
 ## New York Mag Curbed
 ### [A Penthouse in a Robert A.M. Stern Tower Poised to Set a Lower Fifth Record](http://www.curbed.com/article/greenwich-village-penthouse-sale-lower-fifth-record-robert-stern.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
@@ -66,9 +66,9 @@ The building is among the first of a new crop of condos popping up in the histor
 <sub>Nov 25, 12:37 PM</sub>
 
 ## Fox59
-### [IMPD: Woman pronounced dead after being found in body of water on NW side of Indianapolis](https://fox59.com/indiana-news/impd-woman-pronounced-dead-after-being-found-in-body-of-water-on-nw-side-of-indianapolis/)
-INDIANAPOLIS -- A woman was pronounced dead after she was located in a body of water on Wednesday on the northwest side of Indianapolis. According to officials with the Indianapolis Metropolitan Police Department, office…
-<sub>Nov 25, 1:57 PM</sub>
+### [Man in critical condition after 100 shots fired on Thanksgiving morning](https://fox59.com/news/indycrime/man-in-critical-condition-after-100-shots-fired-on-thanksgiving-morning/)
+INDIANAPOLIS — One man is in critical condition after a shooting on the south side of Indianapolis at the Creek Bay Apartments at Meridian Woods on Thanksgiving morning. The Indianapolis Metropolitan Police Department wa…
+<sub>Nov 26, 9:03 AM</sub>
 
 ## Mirror Indy
 ### [Want to cook more nutritious meals? Learn how Dec. 1 and 15](https://mirrorindy.org/free-nutrition-class-marion-county-public-health-department-gleaners-food-bank-decatur-township/)
