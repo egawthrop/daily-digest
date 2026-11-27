@@ -1,39 +1,39 @@
 # The Daily Digest
 
-_Thursday, November 26, 2026 — generated 3:10 PM EST_
+_Friday, November 27, 2026 — generated 2:27 PM EST_
 
 ## NYT
-### [Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands](https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html)
-Nine marching bands were set to perform in the Macy’s Thanksgiving Day Parade. The decision to move the event to Saturday posed new logistical challenges for them.
-<sub>Nov 25, 9:32 PM</sub>
+### [Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them](https://www.nytimes.com/2026/11/27/us/supreme-court-rulings-midterms-voting.html)
+Decisions on voting rights, immigration and corruption generated a backlash that helped spur turnout that drove the Democratic sweep of Congress.
+<sub>Nov 27, 10:47 AM</sub>
 
 ## NPR
-### [Congo Ebola outbreak reaches 12,000 cases as some responders evacuate](https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders)
-As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.
-<sub>Nov 26, 8:47 AM</sub>
+### [Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels](https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court)
+A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays
+<sub>Nov 27, 6:59 AM</sub>
 
 ## WaPo Politics
 _Couldn't load this source: Remote end closed connection without response_
 
 ## BBC News
-### [Huntingdon train attacker found guilty of all 14 counts of attempted murder](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
-Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
-<sub>Nov 26, 2:00 PM</sub>
+### [Millions lose access to benefits and pensions services after 'cyber incident'](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
+The Department for Work and Pensions says some of its services have been take offline as a precaution.
+<sub>Nov 27, 2:15 PM</sub>
 
 ## The Guardian
-### [Nathan Fielder v Elizabeth Holmes: You Can See Everything (Spoilers) | The Close Up](https://www.theguardian.com/culture/video/2026/nov/26/nathan-fielder-v-elizabeth-holmes-you-can-see-everything-spoilers-the-close-up)
-In Nathan Fielder and Lance Oppenheim’s new documentary, Theranos founder Elizabeth Holmes and the film-makers fight over who is the hero and who is the villain. Carys and Lanre dig into the film’s wildest moments, inclu…
-<sub>Nov 26, 12:07 PM</sub>
+### [Tighten your corsets! Pass the smelling salts! It’s the greatest period dramas ever made](https://www.theguardian.com/tv-and-radio/2026/nov/27/tighten-your-corsets-pass-the-smelling-salts-its-the-greatest-period-dramas-ever-made)
+As Dolly Alderton’s Pride and Prejudice unleashes a new Mr Darcy on the world, we revel in the best ever costume dramas, packed with dripping shirt scenes, A-listers before they were famous ... and even Monsieur Dildo La…
+<sub>Nov 27, 8:00 AM</sub>
 
 ## Al Jazeera
-### [Peru burns more than 10 tonnes of seized drugs](https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss)
-Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026
-<sub>Nov 26, 2:44 PM</sub>
+### [Mexico files complaint with US over DEA tip line on alleged drug dealers](https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss)
+Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.
+<sub>Nov 27, 12:58 PM</sub>
 
 ## Ars Technica
-### [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/)
-Ford enters the World Endurance Championship in 2027 with the new prototype.
-<sub>Nov 26, 1:00 PM</sub>
+### [The best Black Friday deals Ars could find](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/)
+Perhaps some commerce, to help all the Turkey Day leftovers go down easier?
+<sub>Nov 27, 12:05 PM</sub>
 
 ## WIRED Backchannel
 ### [A Journey Through the Absurd Hell of Trump’s Third-Country Deportations](https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/)
@@ -41,29 +41,29 @@ How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s l
 <sub>Nov 25, 6:00 AM</sub>
 
 ## WIRED Science
-### [Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces](https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/)
-This flexible movement could potentially be applied to the design of soft robots that operate in confined spaces.
-<sub>Nov 26, 5:00 AM</sub>
+### [Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture](https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/)
+In church basements and warehouses, Americans are building cozy yet radical spaces to encourage each other to fix broken items instead of throwing them away.
+<sub>Nov 27, 6:30 AM</sub>
 
 ## WIRED Business
-### [Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/)
-The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.
-<sub>Nov 26, 5:51 AM</sub>
+### [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
+German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.
+<sub>Nov 27, 2:00 AM</sub>
 
 ## The New Yorker
-### [The Price of an Iranian Life](https://www.newyorker.com/news/the-lede/the-price-of-an-iranian-life)
-A new documentary explores blood money and the persistence of patriarchy.
-<sub>Nov 26, 6:00 AM</sub>
+### [The New Latino Establishment](https://www.newyorker.com/news/the-lede/the-new-latino-establishment)
+An empowered voting bloc tipped the midterms. How will it use its influence?
+<sub>Nov 27, 6:00 AM</sub>
 
 ## New York Mag The Cut
-### [The JLo Show Is Perfect Thanksgiving Television](http://www.thecut.com/article/the-jlo-show-is-perfect-thanksgiving-television.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-Can your football team perform a swing version of “Jenny From the Block”?
-<sub>Nov 26, 9:00 AM</sub>
+### [These Are the Best Black Friday Deals, According to Shopping Experts](http://www.thecut.com/article/best-black-friday-deals-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+From Amazon, Sephora, Ulta, Walmart, and more.
+<sub>Nov 27, 1:50 PM</sub>
 
 ## New York Mag Curbed
-### [A Penthouse in a Robert A.M. Stern Tower Poised to Set a Lower Fifth Record](http://www.curbed.com/article/greenwich-village-penthouse-sale-lower-fifth-record-robert-stern.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
-The building is among the first of a new crop of condos popping up in the historic district in decades.
-<sub>Nov 25, 12:37 PM</sub>
+### [Mega-Bookshelves and a Why-Is-This-Still-Available Dining Room](http://www.curbed.com/article/best-nyc-apartments-for-rent-november-27-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part)
+This week’s worth-it New York City apartment listings.
+<sub>Nov 27, 7:00 AM</sub>
 
 ## Fox59
 ### [Man in critical condition after 100 shots fired on Thanksgiving morning](https://fox59.com/news/indycrime/man-in-critical-condition-after-100-shots-fired-on-thanksgiving-morning/)
